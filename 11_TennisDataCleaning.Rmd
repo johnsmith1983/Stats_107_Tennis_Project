@@ -1,0 +1,78 @@
+---
+title: "Tennis Data Cleaning"
+author: "Mickey Klimer"
+date: "2026-11-03"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+This document contains the data collection and cleaning
+steps for our tennis project.
+
+Our research question is:
+
+Is there an association between the number of aces
+a player serves and winning a professional tennis match?
+
+# 1. Data Collection
+
+We use professional ATP tennis match data from 2023.
+
+# 2. Data Cleaning
+
+The Data set ("atp_matches_2023") contained 2,986 separate ATP professional matches and 49 variables. Some of the data points missed a variable. First I (Mickey) checked the data set for missing values of of our intended categories. I found 171 matches were missing ace statistics. We removed those matches because our research only focuses on the relationship between aces and winning. After removing the missing statistics we ended up with 2,815 matches to use as data points. We then selected nine variables relevant for the research
+(Player names, ace counts, court surface, match duration, and service points). Lastly we checked that there were no negative ace values and no negative values were found at all.
+
+# 3. Exporting Cleaned Data
+
+The cleaned dataset was exported as a CSV file named ("tennis_clean") containing 2,815 statistics and 9 variables which we will use for future analysis and visualizations.
+
+```{r}
+tennis <- read.csv("Data/atp_matches_2023.csv")
+
+head(tennis)
+
+names(tennis)
+
+colSums(is.na(tennis))
+
+# Keep matches that have recorded ace statistics
+tennis_clean <- subset(
+  tennis,
+  !is.na(w_ace) & !is.na(l_ace)
+)
+
+nrow(tennis_clean)
+
+tennis_clean <- tennis_clean[, c(
+  "tourney_name",
+  "surface",
+  "winner_name",
+  "loser_name",
+  "w_ace",
+  "l_ace",
+  "minutes",
+  "w_svpt",
+  "l_svpt"
+)]
+
+head(tennis_clean)
+
+# Check for negative ace values
+sum(tennis_clean$w_ace < 0)
+sum(tennis_clean$l_ace < 0)
+
+# Save the cleaned dataset
+write.csv(
+  tennis_clean,
+  "Data/tennis_clean.csv",
+  row.names = FALSE
+)
+```
