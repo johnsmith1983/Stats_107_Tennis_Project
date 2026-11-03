@@ -27,12 +27,18 @@ We use professional ATP tennis match data from 2023.
 
 # 2. Data Cleaning
 
-The Data set ("atp_matches_2023") contained 2,986 separate ATP professional matches and 49 variables. Some of the data points missed a variable. First I (Mickey) checked the data set for missing values of of our intended categories. I found 171 matches were missing ace statistics. We removed those matches because our research only focuses on the relationship between aces and winning. After removing the missing statistics we ended up with 2,815 matches to use as data points. We then selected nine variables relevant for the research
-(Player names, ace counts, court surface, match duration, and service points). Lastly we checked that there were no negative ace values and no negative values were found at all.
+The Data set ("atp_matches_2023") contained 2,986 separate ATP professional matches and 49 variables. Some of the data points missed a variable. First I (Mickey) checked the data set for missing values of of our intended categories. I found 171 matches were missing ace statistics. We removed those matches because our research only focuses on the relationship between aces and winning. After removing the missing statistics we ended up with 2,815 matches to use as data points. We then selected nine variables relevant for the research (Player names, ace counts, court surface, match duration, and service points). Lastly we checked that there were no negative ace values and no negative values were found at all.
 
 # 3. Exporting Cleaned Data
 
 The cleaned dataset was exported as a CSV file named ("tennis_clean") containing 2,815 statistics and 9 variables which we will use for future analysis and visualizations.
+
+I also separated the data cleaned data into 3 separate sub dataset each based on their own unique surface. The three are:
+- Hard
+- Grass
+- Clay
+
+Since each surface effects the ball and the play style even slightly we believe it is much better to analyze each on its own and then compare to see if there are any meaningful differences.
 
 ```{r}
 tennis <- read.csv("Data/atp_matches_2023.csv")
@@ -75,4 +81,16 @@ write.csv(
   "Data/tennis_clean.csv",
   row.names = FALSE
 )
+
+# Different surfaces
+
+tennis_grass <- subset(tennis_clean, surface == "Grass")
+tennis_clay <- subset(tennis_clean, surface == "Clay")
+tennis_hard <- subset(tennis_clean, surface == "Hard")
+
+# Save
+
+write.csv(tennis_grass, "Data/tennis_grass.csv", row.names = FALSE)
+write.csv(tennis_clay, "Data/tennis_clay.csv", row.names = FALSE)
+write.csv(tennis_hard, "Data/tennis_hard.csv", row.names = FALSE)
 ```

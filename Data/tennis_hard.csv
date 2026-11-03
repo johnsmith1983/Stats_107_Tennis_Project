@@ -1,0 +1,1637 @@
+"tourney_name","surface","winner_name","loser_name","w_ace","l_ace","minutes","w_svpt","l_svpt"
+"United Cup","Hard","Taylor Fritz","Matteo Berrettini",15,7,135,85,97
+"United Cup","Hard","Frances Tiafoe","Lorenzo Musetti",3,0,34,27,21
+"United Cup","Hard","Taylor Fritz","Hubert Hurkacz",11,17,104,80,82
+"United Cup","Hard","Frances Tiafoe","Kacper Zuk",5,3,79,61,68
+"United Cup","Hard","Stefanos Tsitsipas","Matteo Berrettini",9,7,155,98,89
+"United Cup","Hard","Lorenzo Musetti","Stefanos Sakellaridis",2,2,62,41,43
+"United Cup","Hard","Stefanos Tsitsipas","Borna Coric",20,7,151,94,88
+"United Cup","Hard","Borna Gojo","Stefanos Sakellaridis",4,4,89,50,78
+"United Cup","Hard","Matteo Berrettini","Hubert Hurkacz",11,12,116,77,79
+"United Cup","Hard","Lorenzo Musetti","Daniel Michalski",8,1,57,31,40
+"United Cup","Hard","Cameron Norrie","Taylor Fritz",7,16,136,91,95
+"United Cup","Hard","Frances Tiafoe","Daniel Evans",10,9,132,87,82
+"United Cup","Hard","Stefanos Tsitsipas","David Goffin",12,2,78,61,49
+"United Cup","Hard","Stefanos Sakellaridis","Zizou Bergs",8,1,133,86,86
+"United Cup","Hard","Stefanos Tsitsipas","Grigor Dimitrov",12,11,NA,95,87
+"United Cup","Hard","Dimitar Kuzmanov","Michail Pervolarakis",2,2,67,36,48
+"United Cup","Hard","Grigor Dimitrov","David Goffin",10,2,102,72,64
+"United Cup","Hard","Dimitar Kuzmanov","Zizou Bergs",2,4,87,48,56
+"United Cup","Hard","Hubert Hurkacz","Stan Wawrinka",11,9,99,62,67
+"United Cup","Hard","Marc Andrea Huesler","Daniel Michalski",3,0,72,52,46
+"United Cup","Hard","Hubert Hurkacz","Alexander Bublik",18,15,129,94,104
+"United Cup","Hard","Timofey Skatov","Daniel Michalski",3,2,131,78,93
+"United Cup","Hard","Stan Wawrinka","Alexander Bublik",10,7,90,63,59
+"United Cup","Hard","Marc Andrea Huesler","Timofey Skatov",6,4,NA,99,88
+"United Cup","Hard","Taylor Fritz","Alexander Zverev",8,3,64,45,60
+"United Cup","Hard","Frances Tiafoe","Oscar Otte",9,10,75,56,58
+"United Cup","Hard","Taylor Fritz","Jiri Lehecka",5,4,NA,68,48
+"United Cup","Hard","Frances Tiafoe","Tomas Machac",4,6,80,55,59
+"United Cup","Hard","Jiri Lehecka","Alexander Zverev",5,1,92,67,56
+"United Cup","Hard","Oscar Otte","Dalibor Svrcina",7,0,109,67,73
+"United Cup","Hard","Alex De Minaur","Rafael Nadal",3,2,162,100,92
+"United Cup","Hard","Jason Kubler","Albert Ramos",10,4,129,78,82
+"United Cup","Hard","Cameron Norrie","Rafael Nadal",6,10,164,88,95
+"United Cup","Hard","Daniel Evans","Albert Ramos",5,3,139,73,82
+"United Cup","Hard","Cameron Norrie","Alex De Minaur",4,3,NA,56,55
+"United Cup","Hard","Jason Kubler","Daniel Evans",11,3,110,67,64
+"United Cup","Hard","Matteo Berrettini","Thiago Monteiro",15,4,115,64,72
+"United Cup","Hard","Lorenzo Musetti","Felipe Meligeni Alves",9,1,NA,55,50
+"United Cup","Hard","Matteo Berrettini","Casper Ruud",10,4,86,60,52
+"United Cup","Hard","Lorenzo Musetti","Viktor Durasovic",7,6,108,69,81
+"United Cup","Hard","Casper Ruud","Thiago Monteiro",8,2,71,49,41
+"United Cup","Hard","Felipe Meligeni Alves","Viktor Durasovic",5,11,87,59,73
+"United Cup","Hard","Borna Coric","Arthur Rinderknech",10,8,113,65,81
+"United Cup","Hard","Borna Gojo","Adrian Mannarino",14,9,170,110,104
+"United Cup","Hard","Arthur Rinderknech","Francisco Cerundolo",2,1,NA,64,57
+"United Cup","Hard","Adrian Mannarino","Federico Coria",6,2,62,44,56
+"United Cup","Hard","Borna Coric","Francisco Cerundolo",4,2,128,81,70
+"United Cup","Hard","Borna Gojo","Federico Coria",6,0,97,66,81
+"Adelaide 1","Hard","Novak Djokovic","Sebastian Korda",7,15,189,99,129
+"Adelaide 1","Hard","Novak Djokovic","Daniil Medvedev",5,5,90,61,48
+"Adelaide 1","Hard","Sebastian Korda","Yoshihito Nishioka",9,0,74,40,54
+"Adelaide 1","Hard","Novak Djokovic","Denis Shapovalov",4,6,115,70,72
+"Adelaide 1","Hard","Daniil Medvedev","Karen Khachanov",6,1,77,51,60
+"Adelaide 1","Hard","Sebastian Korda","Jannik Sinner",5,8,86,52,53
+"Adelaide 1","Hard","Yoshihito Nishioka","Alexei Popyrin",2,27,166,106,103
+"Adelaide 1","Hard","Novak Djokovic","Quentin Halys",10,11,115,76,82
+"Adelaide 1","Hard","Denis Shapovalov","Roman Safiullin",7,3,81,44,70
+"Adelaide 1","Hard","Daniil Medvedev","Miomir Kecmanovic",7,0,67,51,42
+"Adelaide 1","Hard","Karen Khachanov","Jack Draper",7,6,91,53,67
+"Adelaide 1","Hard","Jannik Sinner","Thanasi Kokkinakis",5,9,122,78,72
+"Adelaide 1","Hard","Sebastian Korda","Roberto Bautista Agut",12,5,73,57,47
+"Adelaide 1","Hard","Yoshihito Nishioka","Mackenzie Mcdonald",0,3,95,72,57
+"Adelaide 1","Hard","Alexei Popyrin","Marcos Giron",16,4,112,83,79
+"Adelaide 1","Hard","Novak Djokovic","Constant Lestienne",4,3,74,47,56
+"Adelaide 1","Hard","Quentin Halys","Jordan Thompson",14,5,76,47,65
+"Adelaide 1","Hard","Roman Safiullin","Mikael Ymer",4,2,94,65,61
+"Adelaide 1","Hard","Denis Shapovalov","Rinky Hijikata",7,2,120,77,93
+"Adelaide 1","Hard","Daniil Medvedev","Lorenzo Sonego",5,1,102,70,57
+"Adelaide 1","Hard","Miomir Kecmanovic","Christopher Oconnell",4,9,94,74,55
+"Adelaide 1","Hard","Jack Draper","Soon Woo Kwon",8,2,68,35,52
+"Adelaide 1","Hard","Karen Khachanov","Pedro Cachin",6,3,85,61,57
+"Adelaide 1","Hard","Jannik Sinner","Kyle Edmund",5,1,65,41,48
+"Adelaide 1","Hard","Thanasi Kokkinakis","Maxime Cressy",21,20,131,72,82
+"Adelaide 1","Hard","Sebastian Korda","Andy Murray",12,3,116,64,69
+"Adelaide 1","Hard","Roberto Bautista Agut","Andrey Rublev",8,15,109,79,81
+"Adelaide 1","Hard","Yoshihito Nishioka","Holger Rune",0,14,125,86,95
+"Adelaide 1","Hard","Mackenzie Mcdonald","Daniel Elahi Galan",4,2,40,20,39
+"Adelaide 1","Hard","Marcos Giron","Richard Gasquet",13,10,177,110,139
+"Adelaide 1","Hard","Alexei Popyrin","Felix Auger Aliassime",11,7,114,67,66
+"Pune","Hard","Tallon Griekspoor","Benjamin Bonzi",17,11,136,86,102
+"Pune","Hard","Tallon Griekspoor","Aslan Karatsev",11,3,81,53,59
+"Pune","Hard","Benjamin Bonzi","Botic Van De Zandschulp",10,9,149,101,106
+"Pune","Hard","Aslan Karatsev","Pedro Martinez",13,1,73,58,44
+"Pune","Hard","Benjamin Bonzi","Filip Krajinovic",7,6,125,77,90
+"Pune","Hard","Botic Van De Zandschulp","Maximilian Marterer",3,1,67,44,51
+"Pune","Hard","Marin Cilic","Roberto Carballes Baena",16,3,122,76,74
+"Pune","Hard","Tallon Griekspoor","Marco Cecchinato",7,3,75,54,58
+"Pune","Hard","Pedro Martinez","Sebastian Baez",0,5,132,77,85
+"Pune","Hard","Aslan Karatsev","Tim Van Rijthoven",9,10,129,88,91
+"Pune","Hard","Filip Krajinovic","Michael Mmoh",9,4,130,93,72
+"Pune","Hard","Benjamin Bonzi","Emil Ruusuvuori",5,5,80,65,50
+"Pune","Hard","Maximilian Marterer","Laslo Djere",11,6,91,63,66
+"Pune","Hard","Botic Van De Zandschulp","Flavio Cobolli",2,5,93,64,59
+"Pune","Hard","Roberto Carballes Baena","Bernabe Zapata Miralles",0,4,100,60,79
+"Pune","Hard","Marco Cecchinato","Nikoloz Basilashvili",3,2,55,43,47
+"Pune","Hard","Tallon Griekspoor","Jaume Munar",10,2,94,63,60
+"Pune","Hard","Pedro Martinez","Ramkumar Ramanathan",2,11,148,103,92
+"Pune","Hard","Tim Van Rijthoven","Radu Albot",14,2,86,58,60
+"Pune","Hard","Aslan Karatsev","Pablo Andujar",5,1,63,40,47
+"Pune","Hard","Filip Krajinovic","Sumit Nagal",8,3,144,89,96
+"Pune","Hard","Michael Mmoh","Manas Dhamne",3,0,88,49,59
+"Pune","Hard","Benjamin Bonzi","Chun Hsin Tseng",2,2,61,39,45
+"Pune","Hard","Laslo Djere","Alex Molcan",12,2,64,41,55
+"Pune","Hard","Maximilian Marterer","Elias Ymer",12,5,112,65,84
+"Pune","Hard","Flavio Cobolli","Sasi Kumar Mukund",6,1,98,65,67
+"Auckland","Hard","Richard Gasquet","Cameron Norrie",3,8,147,88,86
+"Auckland","Hard","Cameron Norrie","Jenson Brooksby",3,4,98,48,73
+"Auckland","Hard","Constant Lestienne","Laslo Djere",5,8,166,118,109
+"Auckland","Hard","Richard Gasquet","David Goffin",6,8,94,61,64
+"Auckland","Hard","Jenson Brooksby","Quentin Halys",2,13,114,82,75
+"Auckland","Hard","Cameron Norrie","Marcos Giron",5,6,123,88,80
+"Auckland","Hard","Laslo Djere","Casper Ruud",18,10,127,98,91
+"Auckland","Hard","Constant Lestienne","Gregoire Barrere",4,7,123,91,92
+"Auckland","Hard","Richard Gasquet","Joao Sousa",7,1,97,60,65
+"Auckland","Hard","David Goffin","Christopher Eubanks",7,12,80,59,63
+"Auckland","Hard","Quentin Halys","Ben Shelton",10,8,67,42,54
+"Auckland","Hard","Jenson Brooksby","Diego Schwartzman",0,0,48,26,22
+"Auckland","Hard","Marcos Giron","J J Wolf",3,7,94,52,76
+"Auckland","Hard","Cameron Norrie","Jiri Lehecka",4,6,165,98,102
+"Auckland","Hard","Laslo Djere","Jaume Munar",7,4,145,104,89
+"Auckland","Hard","Constant Lestienne","Pedro Cachin",7,1,70,41,53
+"Auckland","Hard","Gregoire Barrere","John Isner",10,28,138,101,109
+"Auckland","Hard","Richard Gasquet","Kiranpal Pannu",5,8,80,35,67
+"Auckland","Hard","Christopher Eubanks","Ugo Humbert",6,9,119,91,83
+"Auckland","Hard","David Goffin","Alexander Bublik",1,6,73,53,62
+"Auckland","Hard","Ben Shelton","Sebastian Baez",9,2,82,51,67
+"Auckland","Hard","Quentin Halys","Alex Molcan",20,5,53,53,44
+"Auckland","Hard","Jenson Brooksby","Fabio Fognini",6,4,133,95,93
+"Auckland","Hard","J J Wolf","Adrian Mannarino",7,7,109,72,71
+"Auckland","Hard","Marcos Giron","Federico Coria",3,3,157,121,115
+"Auckland","Hard","Jiri Lehecka","Thiago Monteiro",5,7,88,58,65
+"Adelaide 2","Hard","Soon Woo Kwon","Roberto Bautista Agut",11,5,162,98,101
+"Adelaide 2","Hard","Roberto Bautista Agut","Thanasi Kokkinakis",7,20,154,107,77
+"Adelaide 2","Hard","Soon Woo Kwon","Jack Draper",13,18,165,109,109
+"Adelaide 2","Hard","Thanasi Kokkinakis","Miomir Kecmanovic",22,3,130,84,93
+"Adelaide 2","Hard","Roberto Bautista Agut","Alejandro Davidovich Fokina",6,2,82,42,66
+"Adelaide 2","Hard","Jack Draper","Karen Khachanov",10,8,105,68,75
+"Adelaide 2","Hard","Soon Woo Kwon","Mikael Ymer",5,1,60,46,40
+"Adelaide 2","Hard","Thanasi Kokkinakis","Andrey Rublev",17,10,117,70,90
+"Adelaide 2","Hard","Miomir Kecmanovic","Jason Kubler",14,19,154,92,113
+"Adelaide 2","Hard","Roberto Bautista Agut","Robin Haase",11,6,118,83,98
+"Adelaide 2","Hard","Alejandro Davidovich Fokina","John Millman",4,1,74,53,52
+"Adelaide 2","Hard","Jack Draper","Tommy Paul",10,5,91,57,58
+"Adelaide 2","Hard","Karen Khachanov","Marc Andrea Huesler",5,2,79,54,56
+"Adelaide 2","Hard","Mikael Ymer","Mackenzie Mcdonald",4,5,180,136,100
+"Adelaide 2","Hard","Soon Woo Kwon","Pablo Carreno Busta",11,10,140,88,107
+"Adelaide 2","Hard","Thanasi Kokkinakis","Alexei Popyrin",11,11,164,101,99
+"Adelaide 2","Hard","Jason Kubler","Tomas Martin Etcheverry",10,10,130,78,70
+"Adelaide 2","Hard","Miomir Kecmanovic","Kyle Edmund",7,11,84,60,64
+"Adelaide 2","Hard","Robin Haase","Benjamin Bonzi",13,16,130,100,115
+"Adelaide 2","Hard","John Millman","Albert Ramos",7,7,166,109,93
+"Adelaide 2","Hard","Alejandro Davidovich Fokina","Brandon Nakashima",4,6,95,70,65
+"Adelaide 2","Hard","Tommy Paul","Christopher Oconnell",6,7,88,57,66
+"Adelaide 2","Hard","Jack Draper","Lorenzo Sonego",2,2,82,44,50
+"Adelaide 2","Hard","Marc Andrea Huesler","Arthur Rinderknech",11,11,149,96,111
+"Adelaide 2","Hard","Mackenzie Mcdonald","Daniel Evans",8,2,108,73,78
+"Adelaide 2","Hard","Mikael Ymer","Emil Ruusuvuori",1,4,143,83,101
+"Adelaide 2","Hard","Soon Woo Kwon","Tomas Machac",6,5,101,82,68
+"Australian Open","Hard","Rafael Nadal","Jack Draper",6,13,221,119,115
+"Australian Open","Hard","Mackenzie Mcdonald","Brandon Nakashima",14,19,242,156,177
+"Australian Open","Hard","Dalibor Svrcina","Jaume Munar",0,7,136,69,102
+"Australian Open","Hard","Yoshihito Nishioka","Mikael Ymer",1,6,138,86,90
+"Australian Open","Hard","Karen Khachanov","Bernabe Zapata Miralles",11,1,122,90,91
+"Australian Open","Hard","Jason Kubler","Sebastian Baez",6,0,136,86,80
+"Australian Open","Hard","Juncheng Shang","Oscar Otte",3,19,176,128,129
+"Australian Open","Hard","Frances Tiafoe","Daniel Altmaier",24,17,199,129,154
+"Australian Open","Hard","Hubert Hurkacz","Pedro Martinez",24,0,109,70,84
+"Australian Open","Hard","Lorenzo Sonego","Nuno Borges",16,0,197,129,128
+"Australian Open","Hard","Taro Daniel","Ernesto Escobedo",15,11,194,122,124
+"Australian Open","Hard","Denis Shapovalov","Dusan Lajovic",16,5,143,111,102
+"Australian Open","Hard","Sebastian Korda","Cristian Garin",16,5,154,105,103
+"Australian Open","Hard","Yosuke Watanuki","Arthur Rinderknech",10,8,103,72,76
+"Australian Open","Hard","John Millman","Marc Andrea Huesler",9,20,245,171,170
+"Australian Open","Hard","Daniil Medvedev","Marcos Giron",9,1,96,73,69
+"Australian Open","Hard","Stefanos Tsitsipas","Quentin Halys",17,9,120,95,90
+"Australian Open","Hard","Rinky Hijikata","Yannick Hanfmann",15,21,265,191,152
+"Australian Open","Hard","Tallon Griekspoor","Pavel Kotov",13,6,129,97,90
+"Australian Open","Hard","Botic Van De Zandschulp","Ilya Ivashka",11,6,212,168,125
+"Australian Open","Hard","Lloyd Harris","Lorenzo Musetti",17,7,228,173,144
+"Australian Open","Hard","Marton Fucsovics","Federico Coria",9,1,257,162,168
+"Australian Open","Hard","Tomas Martin Etcheverry","Gregoire Barrere",10,7,176,104,126
+"Australian Open","Hard","Jannik Sinner","Kyle Edmund",6,2,116,82,81
+"Australian Open","Hard","Cameron Norrie","Luca Van Assche",6,1,142,96,80
+"Australian Open","Hard","Constant Lestienne","Thiago Monteiro",5,10,148,113,95
+"Australian Open","Hard","Christopher Eubanks","Soon Woo Kwon",42,10,188,155,138
+"Australian Open","Hard","Jiri Lehecka","Borna Coric",7,3,133,83,84
+"Australian Open","Hard","Francisco Cerundolo","Guido Pella",6,0,126,95,85
+"Australian Open","Hard","Corentin Moutet","Yibing Wu",2,3,254,168,164
+"Australian Open","Hard","Alex Molcan","Stan Wawrinka",7,16,262,154,172
+"Australian Open","Hard","Felix Auger Aliassime","Vasek Pospisil",13,14,238,130,147
+"Australian Open","Hard","Andrey Rublev","Dominic Thiem",7,4,130,88,88
+"Australian Open","Hard","Emil Ruusuvuori","Max Purcell",10,21,221,140,141
+"Australian Open","Hard","Jeremy Chardy","Daniel Elahi Galan",7,2,199,157,122
+"Australian Open","Hard","Daniel Evans","Facundo Bagnis",5,11,209,109,137
+"Australian Open","Hard","Denis Kudla","Roman Safiullin",12,16,182,116,128
+"Australian Open","Hard","Ugo Humbert","Richard Gasquet",12,2,118,84,80
+"Australian Open","Hard","Maxime Cressy","Albert Ramos",34,5,203,120,124
+"Australian Open","Hard","Holger Rune","Filip Krajinovic",11,4,123,83,94
+"Australian Open","Hard","Pablo Carreno Busta","Pedro Cachin",15,12,128,93,97
+"Australian Open","Hard","Benjamin Bonzi","Mattia Bellucci",15,9,196,149,122
+"Australian Open","Hard","Adrian Mannarino","John Isner",14,21,183,119,128
+"Australian Open","Hard","Alex De Minaur","Yu Hsiou Hsu",8,3,121,63,102
+"Australian Open","Hard","Grigor Dimitrov","Aslan Karatsev",15,9,139,86,114
+"Australian Open","Hard","Laslo Djere","Zizou Bergs",7,7,158,102,107
+"Australian Open","Hard","Enzo Couacaud","Hugo Dellien",4,1,111,80,88
+"Australian Open","Hard","Novak Djokovic","Roberto Carballes Baena",9,4,122,70,78
+"Australian Open","Hard","Taylor Fritz","Nikoloz Basilashvili",32,9,144,101,125
+"Australian Open","Hard","Alexei Popyrin","Chun Hsin Tseng",31,2,266,174,197
+"Australian Open","Hard","Ben Shelton","Zhizhen Zhang",18,12,211,143,149
+"Australian Open","Hard","Nicolas Jarry","Miomir Kecmanovic",21,5,121,81,94
+"Australian Open","Hard","Diego Schwartzman","Oleksii Krutykh",8,9,235,152,139
+"Australian Open","Hard","J J Wolf","Jordan Thompson",17,19,204,130,137
+"Australian Open","Hard","Michael Mmoh","Laurent Lokoli",9,11,263,142,145
+"Australian Open","Hard","Alexander Zverev","Juan Pablo Varillas",21,15,246,145,178
+"Australian Open","Hard","Andy Murray","Matteo Berrettini",10,31,289,172,155
+"Australian Open","Hard","Thanasi Kokkinakis","Fabio Fognini",14,4,105,64,66
+"Australian Open","Hard","Brandon Holt","Aleksandar Vukic",4,19,196,143,141
+"Australian Open","Hard","Roberto Bautista Agut","Joao Sousa",6,4,111,77,66
+"Australian Open","Hard","Alejandro Davidovich Fokina","Alexander Bublik",7,20,192,138,136
+"Australian Open","Hard","Tommy Paul","Jan Lennard Struff",20,8,103,79,79
+"Australian Open","Hard","Jenson Brooksby","Christopher Oconnell",9,8,143,103,104
+"Australian Open","Hard","Casper Ruud","Tomas Machac",11,10,195,133,152
+"Australian Open","Hard","Mackenzie Mcdonald","Rafael Nadal",14,6,152,95,102
+"Australian Open","Hard","Yoshihito Nishioka","Dalibor Svrcina",2,1,107,77,91
+"Australian Open","Hard","Karen Khachanov","Jason Kubler",15,14,173,117,123
+"Australian Open","Hard","Frances Tiafoe","Juncheng Shang",20,1,118,78,97
+"Australian Open","Hard","Hubert Hurkacz","Lorenzo Sonego",9,5,233,151,156
+"Australian Open","Hard","Denis Shapovalov","Taro Daniel",9,2,165,99,116
+"Australian Open","Hard","Sebastian Korda","Yosuke Watanuki",10,6,147,119,95
+"Australian Open","Hard","Daniil Medvedev","John Millman",10,0,139,98,81
+"Australian Open","Hard","Stefanos Tsitsipas","Rinky Hijikata",6,3,92,71,56
+"Australian Open","Hard","Tallon Griekspoor","Botic Van De Zandschulp",9,8,124,96,86
+"Australian Open","Hard","Marton Fucsovics","Lloyd Harris",3,5,185,122,122
+"Australian Open","Hard","Jannik Sinner","Tomas Martin Etcheverry",6,6,104,68,65
+"Australian Open","Hard","Cameron Norrie","Constant Lestienne",17,0,193,136,139
+"Australian Open","Hard","Jiri Lehecka","Christopher Eubanks",4,8,139,111,99
+"Australian Open","Hard","Francisco Cerundolo","Corentin Moutet",2,1,191,111,147
+"Australian Open","Hard","Felix Auger Aliassime","Alex Molcan",23,4,182,110,121
+"Australian Open","Hard","Andrey Rublev","Emil Ruusuvuori",16,9,162,138,122
+"Australian Open","Hard","Daniel Evans","Jeremy Chardy",8,6,118,71,82
+"Australian Open","Hard","Ugo Humbert","Denis Kudla",18,5,174,123,121
+"Australian Open","Hard","Holger Rune","Maxime Cressy",10,10,127,92,84
+"Australian Open","Hard","Benjamin Bonzi","Pablo Carreno Busta",15,12,251,176,187
+"Australian Open","Hard","Alex De Minaur","Adrian Mannarino",3,2,208,122,123
+"Australian Open","Hard","Grigor Dimitrov","Laslo Djere",9,4,94,62,73
+"Australian Open","Hard","Novak Djokovic","Enzo Couacaud",9,7,184,106,140
+"Australian Open","Hard","Alexei Popyrin","Taylor Fritz",19,21,242,163,176
+"Australian Open","Hard","Ben Shelton","Nicolas Jarry",8,10,158,104,107
+"Australian Open","Hard","J J Wolf","Diego Schwartzman",16,2,103,72,70
+"Australian Open","Hard","Michael Mmoh","Alexander Zverev",13,13,206,135,125
+"Australian Open","Hard","Andy Murray","Thanasi Kokkinakis",10,37,345,183,205
+"Australian Open","Hard","Roberto Bautista Agut","Brandon Holt",10,16,176,133,150
+"Australian Open","Hard","Tommy Paul","Alejandro Davidovich Fokina",18,6,230,158,170
+"Australian Open","Hard","Jenson Brooksby","Casper Ruud",2,5,235,143,133
+"Australian Open","Hard","Yoshihito Nishioka","Mackenzie Mcdonald",3,7,145,95,115
+"Australian Open","Hard","Karen Khachanov","Frances Tiafoe",20,15,212,157,138
+"Australian Open","Hard","Hubert Hurkacz","Denis Shapovalov",16,20,217,158,168
+"Australian Open","Hard","Sebastian Korda","Daniil Medvedev",3,9,179,118,122
+"Australian Open","Hard","Stefanos Tsitsipas","Tallon Griekspoor",7,6,126,84,97
+"Australian Open","Hard","Jannik Sinner","Marton Fucsovics",6,3,213,135,118
+"Australian Open","Hard","Jiri Lehecka","Cameron Norrie",8,5,192,137,143
+"Australian Open","Hard","Felix Auger Aliassime","Francisco Cerundolo",9,3,155,93,107
+"Australian Open","Hard","Andrey Rublev","Daniel Evans",10,3,129,81,97
+"Australian Open","Hard","Holger Rune","Ugo Humbert",5,9,129,91,91
+"Australian Open","Hard","Alex De Minaur","Benjamin Bonzi",8,6,128,74,111
+"Australian Open","Hard","Novak Djokovic","Grigor Dimitrov",11,15,187,112,116
+"Australian Open","Hard","Ben Shelton","Alexei Popyrin",12,14,120,92,92
+"Australian Open","Hard","J J Wolf","Michael Mmoh",10,6,123,82,67
+"Australian Open","Hard","Roberto Bautista Agut","Andy Murray",5,7,209,108,137
+"Australian Open","Hard","Tommy Paul","Jenson Brooksby",7,2,128,78,98
+"Australian Open","Hard","Karen Khachanov","Yoshihito Nishioka",15,1,118,78,70
+"Australian Open","Hard","Sebastian Korda","Hubert Hurkacz",8,19,208,149,141
+"Australian Open","Hard","Stefanos Tsitsipas","Jannik Sinner",12,11,240,169,136
+"Australian Open","Hard","Jiri Lehecka","Felix Auger Aliassime",9,20,193,125,130
+"Australian Open","Hard","Andrey Rublev","Holger Rune",22,8,217,162,164
+"Australian Open","Hard","Novak Djokovic","Alex De Minaur",4,3,126,68,82
+"Australian Open","Hard","Ben Shelton","J J Wolf",23,19,227,158,162
+"Australian Open","Hard","Tommy Paul","Roberto Bautista Agut",11,2,199,126,127
+"Australian Open","Hard","Karen Khachanov","Sebastian Korda",12,4,110,75,76
+"Australian Open","Hard","Stefanos Tsitsipas","Jiri Lehecka",9,7,137,100,97
+"Australian Open","Hard","Novak Djokovic","Andrey Rublev",14,6,123,88,92
+"Australian Open","Hard","Tommy Paul","Ben Shelton",7,24,186,117,162
+"Australian Open","Hard","Stefanos Tsitsipas","Karen Khachanov",18,10,201,129,139
+"Australian Open","Hard","Novak Djokovic","Tommy Paul",12,4,140,91,77
+"Australian Open","Hard","Novak Djokovic","Stefanos Tsitsipas",7,15,176,100,106
+"Dallas","Hard","Yibing Wu","John Isner",7,44,178,128,118
+"Dallas","Hard","Yibing Wu","Taylor Fritz",6,20,152,122,96
+"Dallas","Hard","John Isner","J J Wolf",31,14,151,102,101
+"Dallas","Hard","Taylor Fritz","Marcos Giron",9,6,111,83,88
+"Dallas","Hard","Yibing Wu","Adrian Mannarino",6,4,73,53,47
+"Dallas","Hard","John Isner","Emilio Gomez",23,12,107,71,79
+"Dallas","Hard","J J Wolf","Frances Tiafoe",11,14,125,95,87
+"Dallas","Hard","Taylor Fritz","Jack Sock",10,8,96,64,79
+"Dallas","Hard","Marcos Giron","Oscar Otte",5,7,67,48,63
+"Dallas","Hard","Yibing Wu","Denis Shapovalov",2,8,93,76,66
+"Dallas","Hard","Adrian Mannarino","Jordan Thompson",10,8,105,72,63
+"Dallas","Hard","John Isner","Daniel Altmaier",18,9,77,55,56
+"Dallas","Hard","Emilio Gomez","Miomir Kecmanovic",5,13,129,92,86
+"Dallas","Hard","J J Wolf","Radu Albot",10,6,107,83,64
+"Dallas","Hard","Frances Tiafoe","Mackenzie Mcdonald",5,4,58,46,46
+"Dallas","Hard","Jack Sock","Ilya Ivashka",9,7,183,133,101
+"Dallas","Hard","Oscar Otte","Christopher Eubanks",15,6,108,77,90
+"Dallas","Hard","Marcos Giron","Alex Rybakov",10,7,134,90,103
+"Dallas","Hard","Yibing Wu","Michael Mmoh",9,12,130,88,86
+"Dallas","Hard","Jordan Thompson","Denis Kudla",10,2,86,52,60
+"Dallas","Hard","Adrian Mannarino","Steve Johnson",13,10,92,57,80
+"Dallas","Hard","John Isner","Chun Hsin Tseng",22,5,107,71,81
+"Dallas","Hard","Daniel Altmaier","Zachary Svajda",6,6,85,65,51
+"Dallas","Hard","Emilio Gomez","Gabriel Diallo",8,18,162,106,113
+"Dallas","Hard","J J Wolf","Brandon Holt",9,7,69,45,62
+"Dallas","Hard","Radu Albot","Liam Krall",6,6,107,71,80
+"Dallas","Hard","Mackenzie Mcdonald","Fernando Verdasco",3,0,63,47,46
+"Montpellier","Hard","Jannik Sinner","Maxime Cressy",4,10,96,61,62
+"Montpellier","Hard","Maxime Cressy","Holger Rune",15,8,159,100,104
+"Montpellier","Hard","Jannik Sinner","Arthur Fils",5,6,94,55,70
+"Montpellier","Hard","Holger Rune","Gregoire Barrere",7,2,112,77,93
+"Montpellier","Hard","Maxime Cressy","Borna Coric",18,6,104,72,61
+"Montpellier","Hard","Arthur Fils","Quentin Halys",5,11,81,68,60
+"Montpellier","Hard","Jannik Sinner","Lorenzo Sonego",1,3,95,51,61
+"Montpellier","Hard","Holger Rune","Marc Andrea Huesler",7,2,92,57,79
+"Montpellier","Hard","Gregoire Barrere","Nikoloz Basilashvili",2,4,71,61,60
+"Montpellier","Hard","Borna Coric","Arthur Rinderknech",10,6,91,57,64
+"Montpellier","Hard","Maxime Cressy","Emil Ruusuvuori",15,4,77,60,50
+"Montpellier","Hard","Quentin Halys","Alejandro Davidovich Fokina",11,3,80,53,61
+"Montpellier","Hard","Arthur Fils","Roberto Bautista Agut",8,3,85,62,57
+"Montpellier","Hard","Lorenzo Sonego","Filip Krajinovic",6,1,80,49,65
+"Montpellier","Hard","Marc Andrea Huesler","Luca Van Assche",13,2,110,77,79
+"Montpellier","Hard","Nikoloz Basilashvili","Constant Lestienne",5,6,156,91,126
+"Montpellier","Hard","Gregoire Barrere","Alexander Bublik",5,19,147,113,123
+"Montpellier","Hard","Arthur Rinderknech","Luca Nardi",10,2,82,49,65
+"Montpellier","Hard","Maxime Cressy","Antoine Bellier",11,6,71,57,52
+"Montpellier","Hard","Emil Ruusuvuori","Mikael Ymer",4,0,75,42,45
+"Montpellier","Hard","Alejandro Davidovich Fokina","Ugo Humbert",0,6,123,64,69
+"Montpellier","Hard","Quentin Halys","Clement Chidekh",25,1,144,104,103
+"Montpellier","Hard","Arthur Fils","Richard Gasquet",8,2,112,81,73
+"Montpellier","Hard","Lorenzo Sonego","Benjamin Bonzi",5,0,82,53,60
+"Montpellier","Hard","Filip Krajinovic","Aslan Karatsev",9,9,125,86,100
+"Montpellier","Hard","Marton Fucsovics","Geoffrey Blancaneaux",1,1,156,108,91
+"Delray Beach","Hard","Taylor Fritz","Miomir Kecmanovic",10,6,117,68,91
+"Delray Beach","Hard","Taylor Fritz","Mackenzie Mcdonald",9,6,94,71,61
+"Delray Beach","Hard","Miomir Kecmanovic","Radu Albot",5,3,147,90,112
+"Delray Beach","Hard","Taylor Fritz","Adrian Mannarino",8,3,110,72,76
+"Delray Beach","Hard","Mackenzie Mcdonald","Michael Mmoh",4,2,130,86,76
+"Delray Beach","Hard","Miomir Kecmanovic","Marcos Giron",8,1,94,68,61
+"Delray Beach","Hard","Radu Albot","Tommy Paul",3,5,75,57,47
+"Delray Beach","Hard","Taylor Fritz","Emilio Gomez",11,1,87,64,60
+"Delray Beach","Hard","Adrian Mannarino","J J Wolf",9,5,107,76,64
+"Delray Beach","Hard","Michael Mmoh","Denis Shapovalov",2,4,140,96,88
+"Delray Beach","Hard","Mackenzie Mcdonald","Yoshihito Nishioka",9,5,126,82,112
+"Delray Beach","Hard","Marcos Giron","Matija Pecotic",1,2,77,54,61
+"Delray Beach","Hard","Miomir Kecmanovic","Nuno Borges",6,1,87,61,69
+"Delray Beach","Hard","Radu Albot","Aleksandar Vukic",1,4,104,75,71
+"Delray Beach","Hard","Tommy Paul","Denis Kudla",7,3,84,65,52
+"Delray Beach","Hard","Emilio Gomez","Tung Lin Wu",4,2,136,84,86
+"Delray Beach","Hard","Adrian Mannarino","Daniel Altmaier",8,15,145,102,79
+"Delray Beach","Hard","J J Wolf","Ilya Ivashka",4,2,96,66,60
+"Delray Beach","Hard","Michael Mmoh","Aleksandar Kovacevic",3,12,174,110,97
+"Delray Beach","Hard","Mackenzie Mcdonald","Taro Daniel",0,2,67,45,46
+"Delray Beach","Hard","Yoshihito Nishioka","Oscar Otte",3,13,115,85,72
+"Delray Beach","Hard","Marcos Giron","Ben Shelton",5,4,67,51,52
+"Delray Beach","Hard","Matija Pecotic","Jack Sock",10,3,130,85,92
+"Delray Beach","Hard","Nuno Borges","Steve Johnson",7,14,123,93,94
+"Delray Beach","Hard","Aleksandar Vukic","Christopher Eubanks",6,9,119,86,101
+"Delray Beach","Hard","Radu Albot","Fernando Verdasco",2,3,124,73,98
+"Delray Beach","Hard","Denis Kudla","Jordan Thompson",2,19,156,89,107
+"Rotterdam","Hard","Daniil Medvedev","Jannik Sinner",4,2,149,86,96
+"Rotterdam","Hard","Jannik Sinner","Tallon Griekspoor",7,4,116,75,75
+"Rotterdam","Hard","Daniil Medvedev","Grigor Dimitrov",8,0,81,55,51
+"Rotterdam","Hard","Jannik Sinner","Stan Wawrinka",4,2,72,52,40
+"Rotterdam","Hard","Tallon Griekspoor","Gijs Brouwer",8,5,77,63,51
+"Rotterdam","Hard","Daniil Medvedev","Felix Auger Aliassime",4,1,83,49,54
+"Rotterdam","Hard","Grigor Dimitrov","Alex De Minaur",6,4,153,90,107
+"Rotterdam","Hard","Jannik Sinner","Stefanos Tsitsipas",3,1,81,44,62
+"Rotterdam","Hard","Stan Wawrinka","Richard Gasquet",11,1,76,47,70
+"Rotterdam","Hard","Gijs Brouwer","Holger Rune",5,4,73,54,57
+"Rotterdam","Hard","Tallon Griekspoor","Alexander Zverev",12,5,124,86,77
+"Rotterdam","Hard","Daniil Medvedev","Botic Van De Zandschulp",6,0,86,58,63
+"Rotterdam","Hard","Felix Auger Aliassime","Gregoire Barrere",9,3,83,54,53
+"Rotterdam","Hard","Grigor Dimitrov","Hubert Hurkacz",8,19,109,86,71
+"Rotterdam","Hard","Alex De Minaur","Maxime Cressy",7,12,122,79,88
+"Rotterdam","Hard","Stefanos Tsitsipas","Emil Ruusuvuori",9,2,92,70,64
+"Rotterdam","Hard","Jannik Sinner","Benjamin Bonzi",7,8,124,78,102
+"Rotterdam","Hard","Stan Wawrinka","Alexander Bublik",4,6,98,69,73
+"Rotterdam","Hard","Richard Gasquet","Pablo Carreno Busta",13,10,129,84,100
+"Rotterdam","Hard","Holger Rune","Constant Lestienne",4,1,77,52,66
+"Rotterdam","Hard","Gijs Brouwer","Marc Andrea Huesler",5,8,80,66,63
+"Rotterdam","Hard","Tallon Griekspoor","Mikael Ymer",9,2,115,74,82
+"Rotterdam","Hard","Alexander Zverev","Soon Woo Kwon",10,4,100,81,64
+"Rotterdam","Hard","Daniil Medvedev","Alejandro Davidovich Fokina",9,1,115,81,92
+"Rotterdam","Hard","Botic Van De Zandschulp","Quentin Halys",6,14,144,100,108
+"Rotterdam","Hard","Gregoire Barrere","David Goffin",0,4,84,62,68
+"Rotterdam","Hard","Felix Auger Aliassime","Lorenzo Sonego",13,1,82,55,42
+"Rotterdam","Hard","Hubert Hurkacz","Roberto Bautista Agut",26,2,180,114,127
+"Rotterdam","Hard","Grigor Dimitrov","Aslan Karatsev",7,1,58,40,38
+"Rotterdam","Hard","Maxime Cressy","Tim Van Rijthoven",21,13,126,91,74
+"Rotterdam","Hard","Alex De Minaur","Andrey Rublev",3,7,81,54,69
+"Doha","Hard","Daniil Medvedev","Andy Murray",6,1,106,77,57
+"Doha","Hard","Andy Murray","Jiri Lehecka",7,8,149,86,99
+"Doha","Hard","Daniil Medvedev","Felix Auger Aliassime",6,5,117,66,73
+"Doha","Hard","Jiri Lehecka","Andrey Rublev",2,10,101,82,75
+"Doha","Hard","Andy Murray","Alexandre Muller",9,3,124,66,87
+"Doha","Hard","Daniil Medvedev","Christopher Oconnell",5,3,119,83,77
+"Doha","Hard","Felix Auger Aliassime","Alejandro Davidovich Fokina",8,2,108,65,70
+"Doha","Hard","Andrey Rublev","Tallon Griekspoor",10,6,114,77,90
+"Doha","Hard","Jiri Lehecka","Emil Ruusuvuori",5,6,88,56,67
+"Doha","Hard","Andy Murray","Alexander Zverev",2,11,182,118,99
+"Doha","Hard","Alexandre Muller","Botic Van De Zandschulp",1,2,76,54,53
+"Doha","Hard","Christopher Oconnell","Roberto Bautista Agut",11,5,159,104,102
+"Doha","Hard","Daniil Medvedev","Liam Broady",6,0,92,56,66
+"Doha","Hard","Alejandro Davidovich Fokina","Soon Woo Kwon",3,1,79,70,44
+"Doha","Hard","Felix Auger Aliassime","Jason Kubler",15,4,136,81,79
+"Doha","Hard","Tallon Griekspoor","Quentin Halys",13,22,137,105,103
+"Doha","Hard","Jiri Lehecka","Damir Dzumhur",7,1,89,71,60
+"Doha","Hard","Emil Ruusuvuori","Daniel Evans",7,2,112,62,69
+"Doha","Hard","Andy Murray","Lorenzo Sonego",1,8,150,90,86
+"Doha","Hard","Alexandre Muller","Nikoloz Basilashvili",4,9,158,113,127
+"Doha","Hard","Botic Van De Zandschulp","Ilya Ivashka",5,3,91,72,57
+"Doha","Hard","Roberto Bautista Agut","Marton Fucsovics",3,6,187,108,130
+"Doha","Hard","Christopher Oconnell","Fernando Verdasco",5,1,102,72,74
+"Doha","Hard","Liam Broady","Oleksii Krutykh",4,5,148,79,114
+"Doha","Hard","Alejandro Davidovich Fokina","Constant Lestienne",4,2,84,65,58
+"Doha","Hard","Soon Woo Kwon","Abedallah Shelbayh",11,9,110,87,87
+"Doha","Hard","Jason Kubler","Aslan Karatsev",5,4,61,33,45
+"Marseille","Hard","Hubert Hurkacz","Benjamin Bonzi",19,4,90,69,68
+"Marseille","Hard","Hubert Hurkacz","Alexander Bublik",22,12,93,67,85
+"Marseille","Hard","Benjamin Bonzi","Arthur Fils",4,7,84,52,65
+"Marseille","Hard","Hubert Hurkacz","Mikael Ymer",19,5,169,105,117
+"Marseille","Hard","Alexander Bublik","Grigor Dimitrov",16,14,139,99,97
+"Marseille","Hard","Benjamin Bonzi","Alex De Minaur",5,0,100,59,71
+"Marseille","Hard","Arthur Fils","Stan Wawrinka",5,4,66,40,64
+"Marseille","Hard","Hubert Hurkacz","Leandro Riedi",12,2,108,74,94
+"Marseille","Hard","Grigor Dimitrov","Gijs Brouwer",9,3,65,53,45
+"Marseille","Hard","Alexander Bublik","Gregoire Barrere",7,0,63,45,52
+"Marseille","Hard","Benjamin Bonzi","Maxime Cressy",10,22,133,86,94
+"Marseille","Hard","Alex De Minaur","Alexander Ritschard",4,7,78,51,60
+"Marseille","Hard","Stan Wawrinka","Richard Gasquet",13,6,144,89,110
+"Marseille","Hard","Leandro Riedi","Arthur Rinderknech",8,8,81,67,57
+"Marseille","Hard","Mikael Ymer","Radu Albot",1,4,106,69,70
+"Marseille","Hard","David Goffin","Lukas Klein",3,4,87,58,64
+"Marseille","Hard","Gijs Brouwer","Elias Ymer",6,5,135,81,107
+"Marseille","Hard","Alexander Bublik","Filip Krajinovic",18,4,128,96,90
+"Marseille","Hard","Gregoire Barrere","Marc Andrea Huesler",3,9,60,47,54
+"Marseille","Hard","Maxime Cressy","Geoffrey Blancaneaux",22,9,169,99,113
+"Marseille","Hard","Benjamin Bonzi","Luca Van Assche",11,5,101,65,67
+"Marseille","Hard","Alexander Ritschard","Pablo Andujar",3,1,86,57,63
+"Marseille","Hard","Richard Gasquet","Laurent Lokoli",9,11,195,111,128
+"Marseille","Hard","Stan Wawrinka","Zizou Bergs",12,10,151,103,99
+"Marseille","Hard","Arthur Fils","Roman Safiullin",6,3,85,52,69
+"Acapulco","Hard","Alex De Minaur","Tommy Paul",2,1,147,84,91
+"Acapulco","Hard","Tommy Paul","Taylor Fritz",7,6,205,143,118
+"Acapulco","Hard","Alex De Minaur","Holger Rune",3,4,168,99,112
+"Acapulco","Hard","Tommy Paul","Mackenzie Mcdonald",3,0,59,43,45
+"Acapulco","Hard","Taylor Fritz","Frances Tiafoe",5,6,95,64,59
+"Acapulco","Hard","Holger Rune","Matteo Berrettini",1,1,29,18,17
+"Acapulco","Hard","Alex De Minaur","Taro Daniel",1,1,97,52,54
+"Acapulco","Hard","Mackenzie Mcdonald","Brandon Nakashima",2,0,68,43,47
+"Acapulco","Hard","Tommy Paul","Michael Mmoh",3,3,81,49,48
+"Acapulco","Hard","Taylor Fritz","Denis Shapovalov",7,5,78,52,65
+"Acapulco","Hard","Frances Tiafoe","Feliciano Lopez",5,11,88,62,66
+"Acapulco","Hard","Matteo Berrettini","Elias Ymer",3,2,94,51,66
+"Acapulco","Hard","Holger Rune","Nuno Borges",7,1,60,41,44
+"Acapulco","Hard","Alex De Minaur","Jacopo Berrettini",3,0,61,47,37
+"Acapulco","Hard","Taro Daniel","Casper Ruud",3,7,177,93,103
+"Acapulco","Hard","Mackenzie Mcdonald","Luciano Darderi",11,7,75,47,63
+"Acapulco","Hard","Brandon Nakashima","Daniel Altmaier",5,2,126,78,76
+"Acapulco","Hard","Michael Mmoh","Marcos Giron",3,2,119,86,65
+"Acapulco","Hard","Tommy Paul","Emilio Gomez",3,1,104,66,79
+"Acapulco","Hard","Taylor Fritz","John Isner",4,9,113,83,79
+"Acapulco","Hard","Denis Shapovalov","Miomir Kecmanovic",8,1,133,89,92
+"Acapulco","Hard","Feliciano Lopez","Christopher Eubanks",11,9,94,72,73
+"Acapulco","Hard","Frances Tiafoe","Yoshihito Nishioka",9,2,104,67,78
+"Acapulco","Hard","Elias Ymer","Adrian Mannarino",4,2,153,91,90
+"Acapulco","Hard","Matteo Berrettini","Alex Molcan",5,0,45,16,44
+"Acapulco","Hard","Nuno Borges","Nick Chappell",4,3,107,75,78
+"Acapulco","Hard","Holger Rune","Ben Shelton",5,9,140,86,96
+"Acapulco","Hard","Alex De Minaur","Rodrigo Pacheco Mendez",4,0,76,39,67
+"Acapulco","Hard","Jacopo Berrettini","Oscar Otte",3,5,116,74,76
+"Acapulco","Hard","Taro Daniel","J J Wolf",2,2,106,63,63
+"Acapulco","Hard","Casper Ruud","Guido Andreozzi",16,1,169,97,100
+"Dubai","Hard","Daniil Medvedev","Andrey Rublev",9,3,68,40,54
+"Dubai","Hard","Daniil Medvedev","Novak Djokovic",8,5,95,62,62
+"Dubai","Hard","Andrey Rublev","Alexander Zverev",2,12,118,70,84
+"Dubai","Hard","Novak Djokovic","Hubert Hurkacz",4,7,81,55,57
+"Dubai","Hard","Daniil Medvedev","Borna Coric",4,0,81,43,51
+"Dubai","Hard","Alexander Zverev","Lorenzo Sonego",5,6,112,61,69
+"Dubai","Hard","Andrey Rublev","Botic Van De Zandschulp",9,7,112,72,86
+"Dubai","Hard","Novak Djokovic","Tallon Griekspoor",8,12,81,43,80
+"Dubai","Hard","Hubert Hurkacz","Pavel Kotov",9,3,68,50,52
+"Dubai","Hard","Daniil Medvedev","Alexander Bublik",5,5,64,41,54
+"Dubai","Hard","Borna Coric","Thanasi Kokkinakis",3,20,173,82,120
+"Dubai","Hard","Alexander Zverev","Christopher Oconnell",11,4,78,51,55
+"Dubai","Hard","Lorenzo Sonego","Felix Auger Aliassime",2,6,115,56,70
+"Dubai","Hard","Botic Van De Zandschulp","Mikael Ymer",7,2,153,79,100
+"Dubai","Hard","Andrey Rublev","Alejandro Davidovich Fokina",12,8,145,101,112
+"Dubai","Hard","Novak Djokovic","Tomas Machac",12,6,147,100,94
+"Dubai","Hard","Tallon Griekspoor","Constant Lestienne",11,11,119,78,98
+"Dubai","Hard","Pavel Kotov","Alexei Popyrin",2,13,167,110,115
+"Dubai","Hard","Hubert Hurkacz","Alexander Shevchenko",18,3,121,81,103
+"Dubai","Hard","Daniil Medvedev","Matteo Arnaldi",6,0,91,62,64
+"Dubai","Hard","Alexander Bublik","Alexandar Lazarov",3,0,25,18,22
+"Dubai","Hard","Thanasi Kokkinakis","Quentin Halys",16,7,114,82,69
+"Dubai","Hard","Borna Coric","Daniel Evans",3,2,22,14,12
+"Dubai","Hard","Alexander Zverev","Jiri Lehecka",12,5,125,80,94
+"Dubai","Hard","Christopher Oconnell","Emil Ruusuvuori",11,4,112,68,83
+"Dubai","Hard","Lorenzo Sonego","Marc Andrea Huesler",10,3,87,62,57
+"Dubai","Hard","Felix Auger Aliassime","Maxime Cressy",13,27,180,98,122
+"Dubai","Hard","Botic Van De Zandschulp","Karen Khachanov",7,5,94,63,68
+"Dubai","Hard","Mikael Ymer","Francesco Passaro",0,1,65,43,53
+"Dubai","Hard","Alejandro Davidovich Fokina","Malek Jaziri",5,2,50,39,37
+"Dubai","Hard","Andrey Rublev","Filip Krajinovic",8,2,88,56,72
+"Indian Wells Masters","Hard","Carlos Alcaraz","Daniil Medvedev",1,0,70,49,48
+"Indian Wells Masters","Hard","Carlos Alcaraz","Jannik Sinner",5,4,112,72,72
+"Indian Wells Masters","Hard","Daniil Medvedev","Frances Tiafoe",9,3,106,75,75
+"Indian Wells Masters","Hard","Carlos Alcaraz","Felix Auger Aliassime",2,6,120,58,82
+"Indian Wells Masters","Hard","Jannik Sinner","Taylor Fritz",5,4,137,88,92
+"Indian Wells Masters","Hard","Daniil Medvedev","Alejandro Davidovich Fokina",4,1,106,70,75
+"Indian Wells Masters","Hard","Frances Tiafoe","Cameron Norrie",4,7,99,58,59
+"Indian Wells Masters","Hard","Carlos Alcaraz","Jack Draper",3,1,46,27,34
+"Indian Wells Masters","Hard","Felix Auger Aliassime","Tommy Paul",12,0,166,95,105
+"Indian Wells Masters","Hard","Taylor Fritz","Marton Fucsovics",2,4,101,79,54
+"Indian Wells Masters","Hard","Jannik Sinner","Stan Wawrinka",5,1,98,64,63
+"Indian Wells Masters","Hard","Daniil Medvedev","Alexander Zverev",12,7,197,131,124
+"Indian Wells Masters","Hard","Alejandro Davidovich Fokina","Cristian Garin",5,1,84,57,56
+"Indian Wells Masters","Hard","Cameron Norrie","Andrey Rublev",2,8,78,55,52
+"Indian Wells Masters","Hard","Frances Tiafoe","Alejandro Tabilo",6,5,81,71,54
+"Indian Wells Masters","Hard","Carlos Alcaraz","Tallon Griekspoor",0,1,101,72,69
+"Indian Wells Masters","Hard","Jack Draper","Andy Murray",8,3,123,65,76
+"Indian Wells Masters","Hard","Tommy Paul","Hubert Hurkacz",6,8,116,87,81
+"Indian Wells Masters","Hard","Felix Auger Aliassime","Francisco Cerundolo",6,2,130,83,63
+"Indian Wells Masters","Hard","Taylor Fritz","Sebastian Baez",4,0,70,42,49
+"Indian Wells Masters","Hard","Marton Fucsovics","Alex Molcan",1,0,78,42,51
+"Indian Wells Masters","Hard","Jannik Sinner","Adrian Mannarino",6,1,107,61,72
+"Indian Wells Masters","Hard","Stan Wawrinka","Holger Rune",12,6,160,102,110
+"Indian Wells Masters","Hard","Daniil Medvedev","Ilya Ivashka",8,1,105,76,68
+"Indian Wells Masters","Hard","Alexander Zverev","Emil Ruusuvuori",8,4,160,101,94
+"Indian Wells Masters","Hard","Alejandro Davidovich Fokina","Karen Khachanov",3,4,137,83,93
+"Indian Wells Masters","Hard","Cristian Garin","Casper Ruud",5,3,118,78,80
+"Indian Wells Masters","Hard","Andrey Rublev","Ugo Humbert",4,4,82,52,68
+"Indian Wells Masters","Hard","Cameron Norrie","Taro Daniel",11,8,161,98,105
+"Indian Wells Masters","Hard","Frances Tiafoe","Jason Kubler",9,1,71,59,42
+"Indian Wells Masters","Hard","Alejandro Tabilo","Jordan Thompson",7,5,106,92,58
+"Indian Wells Masters","Hard","Carlos Alcaraz","Thanasi Kokkinakis",1,6,76,44,59
+"Indian Wells Masters","Hard","Tallon Griekspoor","Guido Pella",14,2,111,82,77
+"Indian Wells Masters","Hard","Jack Draper","Daniel Evans",8,2,120,79,60
+"Indian Wells Masters","Hard","Andy Murray","Radu Albot",6,1,101,51,70
+"Indian Wells Masters","Hard","Hubert Hurkacz","Alexei Popyrin",9,2,73,61,51
+"Indian Wells Masters","Hard","Tommy Paul","Jan Lennard Struff",6,3,79,52,64
+"Indian Wells Masters","Hard","Francisco Cerundolo","Jack Sock",4,10,134,87,93
+"Indian Wells Masters","Hard","Felix Auger Aliassime","Pedro Martinez",10,0,145,68,106
+"Indian Wells Masters","Hard","Taylor Fritz","Ben Shelton",4,4,112,74,82
+"Indian Wells Masters","Hard","Sebastian Baez","Rinky Hijikata",1,1,64,40,48
+"Indian Wells Masters","Hard","Alex Molcan","Borna Coric",1,3,109,81,62
+"Indian Wells Masters","Hard","Marton Fucsovics","Alex De Minaur",4,1,87,53,60
+"Indian Wells Masters","Hard","Jannik Sinner","Richard Gasquet",9,5,94,66,66
+"Indian Wells Masters","Hard","Adrian Mannarino","Lorenzo Musetti",3,3,136,93,68
+"Indian Wells Masters","Hard","Stan Wawrinka","Miomir Kecmanovic",13,4,105,65,78
+"Indian Wells Masters","Hard","Holger Rune","Mackenzie Mcdonald",3,2,80,64,51
+"Indian Wells Masters","Hard","Daniil Medvedev","Brandon Nakashima",6,7,86,56,61
+"Indian Wells Masters","Hard","Ilya Ivashka","Botic Van De Zandschulp",2,2,115,65,68
+"Indian Wells Masters","Hard","Emil Ruusuvuori","Roberto Bautista Agut",6,2,105,62,67
+"Indian Wells Masters","Hard","Alexander Zverev","Pedro Cachin",7,3,78,48,58
+"Indian Wells Masters","Hard","Karen Khachanov","Oscar Otte",5,4,76,55,57
+"Indian Wells Masters","Hard","Alejandro Davidovich Fokina","Yibing Wu",0,4,103,48,69
+"Indian Wells Masters","Hard","Cristian Garin","Yoshihito Nishioka",8,1,64,47,49
+"Indian Wells Masters","Hard","Casper Ruud","Diego Schwartzman",1,2,88,50,57
+"Indian Wells Masters","Hard","Andrey Rublev","Jiri Lehecka",5,1,76,50,67
+"Indian Wells Masters","Hard","Ugo Humbert","Denis Shapovalov",5,6,114,73,78
+"Indian Wells Masters","Hard","Taro Daniel","Matteo Berrettini",0,9,159,87,91
+"Indian Wells Masters","Hard","Cameron Norrie","Tung Lin Wu",4,1,73,51,51
+"Indian Wells Masters","Hard","Frances Tiafoe","Marcos Giron",4,2,65,42,52
+"Indian Wells Masters","Hard","Jason Kubler","Grigor Dimitrov",6,16,111,83,65
+"Indian Wells Masters","Hard","Alejandro Tabilo","Maxime Cressy",10,28,146,86,94
+"Indian Wells Masters","Hard","Jordan Thompson","Stefanos Tsitsipas",11,8,156,107,101
+"Indian Wells Masters","Hard","Thanasi Kokkinakis","Brandon Holt",9,1,75,34,68
+"Indian Wells Masters","Hard","Guido Pella","Thiago Monteiro",4,14,154,93,98
+"Indian Wells Masters","Hard","Jack Draper","Leandro Riedi",8,2,56,36,46
+"Indian Wells Masters","Hard","Andy Murray","Tomas Martin Etcheverry",6,9,192,100,116
+"Indian Wells Masters","Hard","Alexei Popyrin","Zhizhen Zhang",14,5,125,103,78
+"Indian Wells Masters","Hard","Jan Lennard Struff","Quentin Halys",5,10,101,79,75
+"Indian Wells Masters","Hard","Jack Sock","Gregoire Barrere",2,4,83,61,64
+"Indian Wells Masters","Hard","Pedro Martinez","Marc Andrea Huesler",1,16,140,97,92
+"Indian Wells Masters","Hard","Ben Shelton","Fabio Fognini",5,1,70,63,38
+"Indian Wells Masters","Hard","Rinky Hijikata","Mikael Ymer",0,0,126,80,84
+"Indian Wells Masters","Hard","Alex Molcan","Albert Ramos",4,1,82,47,54
+"Indian Wells Masters","Hard","Marton Fucsovics","J J Wolf",6,7,102,59,74
+"Indian Wells Masters","Hard","Richard Gasquet","Borna Gojo",6,20,129,96,95
+"Indian Wells Masters","Hard","Adrian Mannarino","Dominic Thiem",3,11,163,105,97
+"Indian Wells Masters","Hard","Stan Wawrinka","Aleksandar Vukic",10,5,83,63,58
+"Indian Wells Masters","Hard","Mackenzie Mcdonald","Filip Krajinovic",5,2,61,41,51
+"Indian Wells Masters","Hard","Brandon Nakashima","John Isner",6,14,98,69,77
+"Indian Wells Masters","Hard","Ilya Ivashka","Roman Safiullin",5,2,92,57,63
+"Indian Wells Masters","Hard","Emil Ruusuvuori","Constant Lestienne",2,3,93,42,72
+"Indian Wells Masters","Hard","Pedro Cachin","Nikoloz Basilashvili",7,5,84,61,70
+"Indian Wells Masters","Hard","Oscar Otte","Laslo Djere",7,1,98,63,79
+"Indian Wells Masters","Hard","Yibing Wu","Jaume Munar",4,2,159,93,113
+"Indian Wells Masters","Hard","Cristian Garin","Daniel Elahi Galan",3,4,92,62,70
+"Indian Wells Masters","Hard","Diego Schwartzman","Federico Coria",1,0,70,45,57
+"Indian Wells Masters","Hard","Jiri Lehecka","Arthur Rinderknech",5,3,113,87,78
+"Indian Wells Masters","Hard","Ugo Humbert","Bernabe Zapata Miralles",2,3,97,66,67
+"Indian Wells Masters","Hard","Taro Daniel","Roberto Carballes Baena",3,4,103,57,63
+"Indian Wells Masters","Hard","Tung Lin Wu","Alexander Bublik",0,6,86,61,75
+"Indian Wells Masters","Hard","Marcos Giron","Aleksandar Kovacevic",6,8,84,57,69
+"Indian Wells Masters","Hard","Jason Kubler","Lorenzo Sonego",3,5,113,73,64
+"Indian Wells Masters","Hard","Alejandro Tabilo","Maximilian Marterer",6,5,95,47,88
+"Indian Wells Masters","Hard","Jordan Thompson","Gael Monfils",2,1,64,44,46
+"Miami Masters","Hard","Daniil Medvedev","Jannik Sinner",9,6,94,63,63
+"Miami Masters","Hard","Jannik Sinner","Carlos Alcaraz",8,5,181,104,113
+"Miami Masters","Hard","Daniil Medvedev","Karen Khachanov",13,7,137,93,88
+"Miami Masters","Hard","Carlos Alcaraz","Taylor Fritz",6,4,78,54,57
+"Miami Masters","Hard","Jannik Sinner","Emil Ruusuvuori",4,2,74,42,55
+"Miami Masters","Hard","Daniil Medvedev","Christopher Eubanks",9,4,89,71,66
+"Miami Masters","Hard","Karen Khachanov","Francisco Cerundolo",7,2,75,53,50
+"Miami Masters","Hard","Carlos Alcaraz","Tommy Paul",3,5,96,56,68
+"Miami Masters","Hard","Taylor Fritz","Holger Rune",8,4,85,67,58
+"Miami Masters","Hard","Emil Ruusuvuori","Botic Van De Zandschulp",4,6,163,102,88
+"Miami Masters","Hard","Jannik Sinner","Andrey Rublev",8,6,72,46,56
+"Miami Masters","Hard","Christopher Eubanks","Adrian Mannarino",12,6,131,95,73
+"Miami Masters","Hard","Daniil Medvedev","Quentin Halys",7,5,70,53,61
+"Miami Masters","Hard","Francisco Cerundolo","Lorenzo Sonego",4,1,122,77,86
+"Miami Masters","Hard","Karen Khachanov","Stefanos Tsitsipas",5,11,92,60,67
+"Miami Masters","Hard","Carlos Alcaraz","Dusan Lajovic",3,0,91,65,61
+"Miami Masters","Hard","Tommy Paul","Alejandro Davidovich Fokina",8,3,93,58,71
+"Miami Masters","Hard","Taylor Fritz","Denis Shapovalov",5,12,80,60,62
+"Miami Masters","Hard","Holger Rune","Diego Schwartzman",7,1,91,60,57
+"Miami Masters","Hard","Botic Van De Zandschulp","Casper Ruud",12,6,170,121,93
+"Miami Masters","Hard","Emil Ruusuvuori","Taro Daniel",6,5,104,76,57
+"Miami Masters","Hard","Jannik Sinner","Grigor Dimitrov",2,1,87,53,58
+"Miami Masters","Hard","Andrey Rublev","Miomir Kecmanovic",12,4,58,46,52
+"Miami Masters","Hard","Adrian Mannarino","Hubert Hurkacz",3,20,138,89,85
+"Miami Masters","Hard","Christopher Eubanks","Gregoire Barrere",12,1,81,66,61
+"Miami Masters","Hard","Quentin Halys","Mackenzie Mcdonald",15,9,100,67,82
+"Miami Masters","Hard","Francisco Cerundolo","Felix Auger Aliassime",2,3,103,61,61
+"Miami Masters","Hard","Lorenzo Sonego","Frances Tiafoe",8,2,73,45,48
+"Miami Masters","Hard","Karen Khachanov","Jiri Lehecka",8,6,86,51,80
+"Miami Masters","Hard","Stefanos Tsitsipas","Cristian Garin",12,7,124,91,87
+"Miami Masters","Hard","Carlos Alcaraz","Facundo Bagnis",3,1,64,40,48
+"Miami Masters","Hard","Dusan Lajovic","Maxime Cressy",3,5,88,61,62
+"Miami Masters","Hard","Alejandro Davidovich Fokina","Brandon Nakashima",6,5,114,82,82
+"Miami Masters","Hard","Tommy Paul","Marc Andrea Huesler",12,7,123,79,84
+"Miami Masters","Hard","Taylor Fritz","Emilio Nava",8,3,59,48,44
+"Miami Masters","Hard","Denis Shapovalov","Guido Pella",13,2,113,84,89
+"Miami Masters","Hard","Diego Schwartzman","Yibing Wu",2,3,114,90,58
+"Miami Masters","Hard","Holger Rune","Marton Fucsovics",6,3,81,54,63
+"Miami Masters","Hard","Casper Ruud","Ilya Ivashka",4,5,84,49,62
+"Miami Masters","Hard","Botic Van De Zandschulp","Alexei Popyrin",7,13,163,103,88
+"Miami Masters","Hard","Emil Ruusuvuori","Roberto Bautista Agut",7,1,132,77,75
+"Miami Masters","Hard","Taro Daniel","Alexander Zverev",2,5,75,48,44
+"Miami Masters","Hard","Jannik Sinner","Laslo Djere",3,3,83,50,65
+"Miami Masters","Hard","Grigor Dimitrov","Jan Lennard Struff",23,10,153,101,120
+"Miami Masters","Hard","Miomir Kecmanovic","Ugo Humbert",10,8,164,119,109
+"Miami Masters","Hard","Andrey Rublev","J J Wolf",16,7,101,73,71
+"Miami Masters","Hard","Hubert Hurkacz","Thanasi Kokkinakis",21,23,210,122,146
+"Miami Masters","Hard","Adrian Mannarino","Ben Shelton",8,12,112,66,75
+"Miami Masters","Hard","Christopher Eubanks","Borna Coric",11,2,125,77,83
+"Miami Masters","Hard","Gregoire Barrere","Cameron Norrie",7,3,70,44,48
+"Miami Masters","Hard","Quentin Halys","Alex De Minaur",21,2,198,138,122
+"Miami Masters","Hard","Mackenzie Mcdonald","Matteo Berrettini",7,11,136,86,87
+"Miami Masters","Hard","Alex Molcan","Yoshihito Nishioka",6,3,159,114,86
+"Miami Masters","Hard","Daniil Medvedev","Roberto Carballes Baena",3,2,62,47,37
+"Miami Masters","Hard","Felix Auger Aliassime","Thiago Monteiro",12,4,161,80,93
+"Miami Masters","Hard","Francisco Cerundolo","Aleksandar Kovacevic",4,5,83,57,72
+"Miami Masters","Hard","Lorenzo Sonego","Daniel Evans",6,3,150,108,68
+"Miami Masters","Hard","Frances Tiafoe","Yosuke Watanuki",12,17,166,114,120
+"Miami Masters","Hard","Karen Khachanov","Tomas Martin Etcheverry",7,6,128,81,70
+"Miami Masters","Hard","Jiri Lehecka","Lorenzo Musetti",4,2,80,57,56
+"Miami Masters","Hard","Cristian Garin","Sebastian Baez",4,1,126,73,80
+"Miami Masters","Hard","Facundo Bagnis","Felipe Meligeni Alves",12,4,100,80,66
+"Miami Masters","Hard","Dusan Lajovic","Andy Murray",4,6,96,66,54
+"Miami Masters","Hard","Brandon Nakashima","Oscar Otte",10,11,87,70,64
+"Miami Masters","Hard","Marc Andrea Huesler","Albert Ramos",10,3,156,107,107
+"Miami Masters","Hard","Emilio Nava","John Isner",6,15,107,83,71
+"Miami Masters","Hard","Guido Pella","Juan Pablo Varillas",3,6,125,70,85
+"Miami Masters","Hard","Yibing Wu","Kyle Edmund",6,2,94,66,70
+"Miami Masters","Hard","Marton Fucsovics","Pedro Cachin",9,5,105,62,77
+"Miami Masters","Hard","Ilya Ivashka","Daniel Altmaier",6,4,73,36,57
+"Miami Masters","Hard","Alexei Popyrin","Mikael Ymer",16,1,106,69,65
+"Miami Masters","Hard","Emil Ruusuvuori","Nuno Borges",4,2,79,48,56
+"Miami Masters","Hard","Taro Daniel","Arthur Rinderknech",0,0,25,13,16
+"Miami Masters","Hard","Laslo Djere","Aleksandar Vukic",13,9,104,89,74
+"Miami Masters","Hard","Jan Lennard Struff","Fabio Fognini",10,9,155,107,107
+"Miami Masters","Hard","Ugo Humbert","Gael Monfils",1,1,30,14,21
+"Miami Masters","Hard","J J Wolf","Alexander Bublik",4,9,78,61,51
+"Miami Masters","Hard","Thanasi Kokkinakis","Zizou Bergs",11,10,149,99,94
+"Miami Masters","Hard","Adrian Mannarino","Juncheng Shang",9,1,115,70,75
+"Miami Masters","Hard","Christopher Eubanks","Denis Kudla",6,3,78,57,57
+"Miami Masters","Hard","Gregoire Barrere","Roman Safiullin",8,6,109,80,92
+"Miami Masters","Hard","Quentin Halys","Pedro Martinez",12,3,101,53,71
+"Miami Masters","Hard","Mackenzie Mcdonald","Daniel Elahi Galan",3,2,86,64,66
+"Miami Masters","Hard","Alex Molcan","Jordan Thompson",3,4,131,88,87
+"Miami Masters","Hard","Roberto Carballes Baena","Bernabe Zapata Miralles",1,0,49,28,33
+"Miami Masters","Hard","Thiago Monteiro","Jason Kubler",9,9,100,66,66
+"Miami Masters","Hard","Aleksandar Kovacevic","Jaume Munar",8,3,121,94,71
+"Miami Masters","Hard","Lorenzo Sonego","Dominic Thiem",6,1,116,65,71
+"Miami Masters","Hard","Yosuke Watanuki","Benoit Paire",10,7,95,56,92
+"Miami Masters","Hard","Tomas Martin Etcheverry","Pavel Kotov",6,2,80,45,53
+"Miami Masters","Hard","Jiri Lehecka","Federico Coria",9,6,63,51,50
+"Miami Masters","Hard","Cristian Garin","Marcos Giron",3,12,125,89,83
+"Miami Masters","Hard","Richard Gasquet","Christopher Oconnell",9,12,108,76,71
+"Atlanta","Hard","Taylor Fritz","Aleksandar Vukic",16,14,136,91,109
+"Atlanta","Hard","Taylor Fritz","J J Wolf",13,5,81,64,58
+"Atlanta","Hard","Aleksandar Vukic","Ugo Humbert",17,11,132,93,88
+"Atlanta","Hard","Taylor Fritz","Kei Nishikori",7,1,73,46,58
+"Atlanta","Hard","J J Wolf","Dominik Koepfer",9,6,72,46,45
+"Atlanta","Hard","Aleksandar Vukic","Christopher Eubanks",9,10,75,58,62
+"Atlanta","Hard","Ugo Humbert","Alex De Minaur",7,3,118,71,74
+"Atlanta","Hard","Taylor Fritz","Yibing Wu",10,6,90,72,79
+"Atlanta","Hard","Kei Nishikori","Juncheng Shang",4,5,96,61,63
+"Atlanta","Hard","Dominik Koepfer","Daniel Evans",10,6,150,94,102
+"Atlanta","Hard","J J Wolf","Maxime Cressy",6,16,95,69,58
+"Atlanta","Hard","Christopher Eubanks","Brandon Nakashima",21,12,141,112,91
+"Atlanta","Hard","Aleksandar Vukic","Yoshihito Nishioka",26,5,150,107,106
+"Atlanta","Hard","Ugo Humbert","Lloyd Harris",4,14,94,63,66
+"Atlanta","Hard","Alex De Minaur","Thanasi Kokkinakis",3,1,94,59,55
+"Atlanta","Hard","Yibing Wu","Corentin Moutet",4,0,88,57,64
+"Atlanta","Hard","Kei Nishikori","Jordan Thompson",0,9,145,91,89
+"Atlanta","Hard","Juncheng Shang","Ben Shelton",5,12,88,56,75
+"Atlanta","Hard","Dominik Koepfer","John Isner",4,21,140,99,98
+"Atlanta","Hard","Maxime Cressy","Alex Michelsen",7,2,76,44,68
+"Atlanta","Hard","J J Wolf","Jason Jung",7,2,73,54,57
+"Atlanta","Hard","Christopher Eubanks","Andres Martin",5,3,67,43,64
+"Atlanta","Hard","Brandon Nakashima","Max Purcell",8,7,121,68,87
+"Atlanta","Hard","Aleksandar Vukic","Ethan Quinn",8,7,86,68,59
+"Atlanta","Hard","Ugo Humbert","Constant Lestienne",10,3,154,99,92
+"Atlanta","Hard","Lloyd Harris","James Duckworth",18,6,118,87,81
+"Atlanta","Hard","Thanasi Kokkinakis","Gael Monfils",8,10,123,83,86
+"Los Cabos","Hard","Stefanos Tsitsipas","Alex De Minaur",2,1,86,48,54
+"Los Cabos","Hard","Stefanos Tsitsipas","Borna Coric",7,1,71,43,42
+"Los Cabos","Hard","Alex De Minaur","Dominik Koepfer",3,1,144,81,84
+"Los Cabos","Hard","Stefanos Tsitsipas","Nicolas Jarry",11,9,177,96,103
+"Los Cabos","Hard","Borna Coric","Ilya Ivashka",8,1,99,62,55
+"Los Cabos","Hard","Alex De Minaur","Tommy Paul",3,4,145,88,80
+"Los Cabos","Hard","Dominik Koepfer","Aleksandar Kovacevic",8,8,113,61,71
+"Los Cabos","Hard","Stefanos Tsitsipas","John Isner",8,7,77,47,61
+"Los Cabos","Hard","Nicolas Jarry","Gijs Brouwer",8,4,158,108,89
+"Los Cabos","Hard","Borna Coric","Jason Jung",5,0,68,44,41
+"Los Cabos","Hard","Ilya Ivashka","Borna Gojo",4,12,158,101,106
+"Los Cabos","Hard","Alex De Minaur","Thiago Agustin Tirante",0,3,63,35,50
+"Los Cabos","Hard","Tommy Paul","Felipe Meligeni Alves",8,0,132,87,91
+"Los Cabos","Hard","Dominik Koepfer","James Duckworth",4,3,74,49,64
+"Los Cabos","Hard","Aleksandar Kovacevic","Cameron Norrie",15,6,177,106,115
+"Los Cabos","Hard","John Isner","Rinky Hijikata",19,0,114,64,79
+"Los Cabos","Hard","Gijs Brouwer","Gabriel Diallo",4,5,123,93,77
+"Los Cabos","Hard","Nicolas Jarry","Rodrigo Pacheco Mendez",4,0,79,45,49
+"Los Cabos","Hard","Jason Jung","Ernesto Escobedo",2,9,146,87,98
+"Los Cabos","Hard","Borna Gojo","Cristian Garin",20,3,130,98,78
+"Los Cabos","Hard","Ilya Ivashka","Beibit Zhukayev",8,7,152,104,88
+"Los Cabos","Hard","Alex De Minaur","Skander Mansouri",3,4,105,55,77
+"Los Cabos","Hard","Thiago Agustin Tirante","Gonzalo Lama",2,3,117,56,74
+"Los Cabos","Hard","Felipe Meligeni Alves","Alejandro Tabilo",6,6,78,60,59
+"Los Cabos","Hard","Dominik Koepfer","Tomas Barrios Vera",2,3,91,47,72
+"Los Cabos","Hard","James Duckworth","Otto Virtanen",5,4,51,40,37
+"Los Cabos","Hard","Aleksandar Kovacevic","Omni Kumar",9,2,90,58,59
+"Washington","Hard","Daniel Evans","Tallon Griekspoor",6,12,101,64,56
+"Washington","Hard","Tallon Griekspoor","Taylor Fritz",13,7,118,77,87
+"Washington","Hard","Daniel Evans","Grigor Dimitrov",1,5,116,63,69
+"Washington","Hard","Taylor Fritz","Jordan Thompson",7,1,77,58,49
+"Washington","Hard","Tallon Griekspoor","J J Wolf",7,11,93,56,66
+"Washington","Hard","Daniel Evans","Frances Tiafoe",10,16,104,58,76
+"Washington","Hard","Taylor Fritz","Andy Murray",17,6,182,126,104
+"Washington","Hard","Jordan Thompson","Christopher Eubanks",7,2,68,39,55
+"Washington","Hard","J J Wolf","Michael Mmoh",10,16,147,79,116
+"Washington","Hard","Tallon Griekspoor","Gael Monfils",5,12,118,65,83
+"Washington","Hard","Grigor Dimitrov","Emil Ruusuvuori",4,2,106,63,73
+"Washington","Hard","Ugo Humbert","Yosuke Watanuki",3,2,63,37,54
+"Washington","Hard","Daniel Evans","Alexander Shevchenko",2,4,93,57,68
+"Washington","Hard","Frances Tiafoe","Juncheng Shang",6,9,71,56,49
+"Washington","Hard","Taylor Fritz","Zachary Svajda",8,1,73,57,46
+"Washington","Hard","Andy Murray","Brandon Nakashima",5,7,131,83,68
+"Washington","Hard","Christopher Eubanks","Sho Shimabukuro",11,4,71,60,47
+"Washington","Hard","Jordan Thompson","Adrian Mannarino",7,3,101,59,67
+"Washington","Hard","Michael Mmoh","Hubert Hurkacz",7,20,175,113,128
+"Washington","Hard","J J Wolf","Radu Albot",11,1,80,48,60
+"Washington","Hard","Tallon Griekspoor","Liam Broady",9,3,85,43,74
+"Washington","Hard","Gael Monfils","Alexander Bublik",5,3,82,75,65
+"Washington","Hard","Grigor Dimitrov","Mackenzie Mcdonald",2,0,89,57,62
+"Washington","Hard","Emil Ruusuvuori","Yoshihito Nishioka",9,5,127,86,87
+"Washington","Hard","Ugo Humbert","Thanasi Kokkinakis",11,5,163,109,96
+"Washington","Hard","Yosuke Watanuki","Felix Auger Aliassime",7,6,147,87,88
+"Washington","Hard","Alexander Shevchenko","Sebastian Korda",5,8,149,125,113
+"Washington","Hard","Daniel Evans","Gregoire Barrere",4,8,114,72,77
+"Washington","Hard","Juncheng Shang","Ben Shelton",1,5,101,64,71
+"Washington","Hard","Frances Tiafoe","Aslan Karatsev",8,7,129,87,88
+"Washington","Hard","Zachary Svajda","Max Purcell",10,12,185,117,108
+"Washington","Hard","Brandon Nakashima","Aleksandar Vukic",8,7,126,86,98
+"Washington","Hard","Sho Shimabukuro","Lloyd Harris",7,7,63,50,48
+"Washington","Hard","Jordan Thompson","Kevin Anderson",15,15,131,86,95
+"Washington","Hard","Michael Mmoh","Bradley Klahn",8,4,82,51,61
+"Washington","Hard","Radu Albot","Marcos Giron",3,12,163,124,103
+"Washington","Hard","Liam Broady","Corentin Moutet",2,4,134,75,79
+"Washington","Hard","Gael Monfils","Bjorn Fratangelo",6,1,71,51,61
+"Washington","Hard","Mackenzie Mcdonald","Diego Schwartzman",6,2,77,49,63
+"Washington","Hard","Emil Ruusuvuori","Constant Lestienne",7,4,86,62,54
+"Washington","Hard","Thanasi Kokkinakis","Taro Daniel",5,3,160,92,93
+"Washington","Hard","Yosuke Watanuki","Yibing Wu",1,0,20,13,13
+"Washington","Hard","Alexander Shevchenko","Maxime Cressy",3,5,100,78,65
+"Washington","Hard","Gregoire Barrere","Shintaro Mochizuki",8,4,139,95,118
+"Washington","Hard","Juncheng Shang","Emilio Gomez",3,2,84,56,60
+"Washington","Hard","Aslan Karatsev","Kiranpal Pannu",7,5,98,54,69
+"Canada Masters","Hard","Jannik Sinner","Alex De Minaur",5,1,89,52,53
+"Canada Masters","Hard","Jannik Sinner","Tommy Paul",4,3,116,70,64
+"Canada Masters","Hard","Alex De Minaur","Alejandro Davidovich Fokina",4,0,77,53,46
+"Canada Masters","Hard","Tommy Paul","Carlos Alcaraz",2,4,140,87,99
+"Canada Masters","Hard","Jannik Sinner","Gael Monfils",5,19,142,89,87
+"Canada Masters","Hard","Alejandro Davidovich Fokina","Mackenzie Mcdonald",3,2,96,68,60
+"Canada Masters","Hard","Alex De Minaur","Daniil Medvedev",1,8,123,77,87
+"Canada Masters","Hard","Carlos Alcaraz","Hubert Hurkacz",6,8,158,96,111
+"Canada Masters","Hard","Tommy Paul","Marcos Giron",5,2,92,76,51
+"Canada Masters","Hard","Gael Monfils","Aleksandar Vukic",9,4,81,60,64
+"Canada Masters","Hard","Mackenzie Mcdonald","Milos Raonic",5,9,68,52,55
+"Canada Masters","Hard","Alejandro Davidovich Fokina","Casper Ruud",9,9,185,114,124
+"Canada Masters","Hard","Alex De Minaur","Taylor Fritz",1,14,146,99,106
+"Canada Masters","Hard","Daniil Medvedev","Lorenzo Musetti",2,2,93,55,61
+"Canada Masters","Hard","Carlos Alcaraz","Ben Shelton",4,5,98,78,62
+"Canada Masters","Hard","Hubert Hurkacz","Miomir Kecmanovic",25,1,112,82,87
+"Canada Masters","Hard","Tommy Paul","Francisco Cerundolo",5,4,167,96,125
+"Canada Masters","Hard","Marcos Giron","Holger Rune",6,6,126,98,96
+"Canada Masters","Hard","Gael Monfils","Stefanos Tsitsipas",5,5,85,59,66
+"Canada Masters","Hard","Aleksandar Vukic","Sebastian Korda",11,3,118,99,99
+"Canada Masters","Hard","Andy Murray","Max Purcell",5,10,167,99,106
+"Canada Masters","Hard","Jannik Sinner","Matteo Berrettini",10,10,90,63,50
+"Canada Masters","Hard","Mackenzie Mcdonald","Andrey Rublev",3,0,86,60,67
+"Canada Masters","Hard","Milos Raonic","Taro Daniel",15,3,90,51,69
+"Canada Masters","Hard","Alejandro Davidovich Fokina","Alexander Zverev",2,5,60,45,36
+"Canada Masters","Hard","Casper Ruud","Jiri Lehecka",5,5,103,69,77
+"Canada Masters","Hard","Taylor Fritz","Ugo Humbert",10,13,148,108,93
+"Canada Masters","Hard","Alex De Minaur","Gabriel Diallo",7,6,110,69,74
+"Canada Masters","Hard","Lorenzo Musetti","Thanasi Kokkinakis",4,9,172,104,99
+"Canada Masters","Hard","Daniil Medvedev","Matteo Arnaldi",9,4,86,61,67
+"Canada Masters","Hard","Ben Shelton","Bernabe Zapata Miralles",5,0,91,68,76
+"Canada Masters","Hard","Miomir Kecmanovic","Cristian Garin",1,7,166,126,101
+"Canada Masters","Hard","Hubert Hurkacz","Alexander Bublik",7,10,76,62,72
+"Canada Masters","Hard","Tommy Paul","Diego Schwartzman",9,4,133,88,80
+"Canada Masters","Hard","Francisco Cerundolo","Alexis Galarneau",10,3,158,115,81
+"Canada Masters","Hard","Marcos Giron","Emil Ruusuvuori",4,4,124,83,89
+"Canada Masters","Hard","Gael Monfils","Christopher Eubanks",14,6,146,101,126
+"Canada Masters","Hard","Sebastian Korda","Tomas Martin Etcheverry",4,5,79,50,60
+"Canada Masters","Hard","Aleksandar Vukic","Borna Coric",4,2,73,47,55
+"Canada Masters","Hard","Max Purcell","Felix Auger Aliassime",8,5,95,50,65
+"Canada Masters","Hard","Andy Murray","Lorenzo Sonego",1,4,129,71,70
+"Canada Masters","Hard","Matteo Berrettini","Gregoire Barrere",10,5,75,43,61
+"Canada Masters","Hard","Mackenzie Mcdonald","Aslan Karatsev",4,3,103,70,74
+"Canada Masters","Hard","Taro Daniel","Adrian Mannarino",6,6,111,69,73
+"Canada Masters","Hard","Milos Raonic","Frances Tiafoe",37,8,164,122,97
+"Canada Masters","Hard","Alexander Zverev","Tallon Griekspoor",12,5,103,65,79
+"Canada Masters","Hard","Alejandro Davidovich Fokina","J J Wolf",4,2,63,42,47
+"Canada Masters","Hard","Jiri Lehecka","Brandon Nakashima",5,10,167,113,107
+"Canada Masters","Hard","Ugo Humbert","Nicolas Jarry",8,4,154,76,107
+"Canada Masters","Hard","Gabriel Diallo","Daniel Evans",8,8,119,69,78
+"Canada Masters","Hard","Alex De Minaur","Cameron Norrie",3,3,103,70,68
+"Canada Masters","Hard","Lorenzo Musetti","Yoshihito Nishioka",11,0,91,52,50
+"Canada Masters","Hard","Thanasi Kokkinakis","Zhizhen Zhang",14,6,87,61,60
+"Canada Masters","Hard","Matteo Arnaldi","Vasek Pospisil",10,7,91,68,59
+"Cincinnati Masters","Hard","Novak Djokovic","Carlos Alcaraz",2,11,229,128,133
+"Cincinnati Masters","Hard","Carlos Alcaraz","Hubert Hurkacz",2,10,138,91,107
+"Cincinnati Masters","Hard","Novak Djokovic","Alexander Zverev",4,10,124,80,80
+"Cincinnati Masters","Hard","Carlos Alcaraz","Max Purcell",6,10,131,89,102
+"Cincinnati Masters","Hard","Hubert Hurkacz","Alexei Popyrin",10,2,77,56,62
+"Cincinnati Masters","Hard","Alexander Zverev","Adrian Mannarino",2,2,72,47,55
+"Cincinnati Masters","Hard","Novak Djokovic","Taylor Fritz",2,1,61,40,44
+"Cincinnati Masters","Hard","Carlos Alcaraz","Tommy Paul",6,11,189,103,152
+"Cincinnati Masters","Hard","Max Purcell","Stan Wawrinka",7,4,72,54,60
+"Cincinnati Masters","Hard","Hubert Hurkacz","Stefanos Tsitsipas",11,7,65,52,47
+"Cincinnati Masters","Hard","Alexei Popyrin","Emil Ruusuvuori",3,6,101,74,61
+"Cincinnati Masters","Hard","Adrian Mannarino","Mackenzie Mcdonald",1,1,71,41,48
+"Cincinnati Masters","Hard","Alexander Zverev","Daniil Medvedev",4,5,152,108,90
+"Cincinnati Masters","Hard","Taylor Fritz","Dusan Lajovic",3,0,17,12,8
+"Cincinnati Masters","Hard","Novak Djokovic","Gael Monfils",1,6,68,46,55
+"Cincinnati Masters","Hard","Carlos Alcaraz","Jordan Thompson",3,4,182,86,126
+"Cincinnati Masters","Hard","Tommy Paul","Ugo Humbert",5,7,97,56,71
+"Cincinnati Masters","Hard","Stan Wawrinka","Frances Tiafoe",11,7,78,50,59
+"Cincinnati Masters","Hard","Max Purcell","Casper Ruud",12,12,119,91,83
+"Cincinnati Masters","Hard","Stefanos Tsitsipas","Ben Shelton",6,7,103,70,74
+"Cincinnati Masters","Hard","Hubert Hurkacz","Borna Coric",10,2,135,87,86
+"Cincinnati Masters","Hard","Emil Ruusuvuori","Andrey Rublev",6,8,196,145,134
+"Cincinnati Masters","Hard","Mackenzie Mcdonald","Holger Rune",3,1,50,29,40
+"Cincinnati Masters","Hard","Adrian Mannarino","Felix Auger Aliassime",2,1,118,62,68
+"Cincinnati Masters","Hard","Alexander Zverev","Yoshihito Nishioka",10,1,116,78,79
+"Cincinnati Masters","Hard","Daniil Medvedev","Lorenzo Musetti",3,0,77,54,58
+"Cincinnati Masters","Hard","Dusan Lajovic","Jannik Sinner",4,6,124,81,80
+"Cincinnati Masters","Hard","Taylor Fritz","Lorenzo Sonego",4,5,102,67,69
+"Cincinnati Masters","Hard","Gael Monfils","Alex De Minaur",3,2,122,71,84
+"Cincinnati Masters","Hard","Novak Djokovic","Alejandro Davidovich Fokina",3,4,46,29,27
+"Cincinnati Masters","Hard","Jordan Thompson","John Isner",5,20,118,74,81
+"Cincinnati Masters","Hard","Ugo Humbert","Arthur Fils",4,2,141,98,93
+"Cincinnati Masters","Hard","Tommy Paul","Miomir Kecmanovic",6,1,112,75,86
+"Cincinnati Masters","Hard","Frances Tiafoe","Tallon Griekspoor",11,16,146,104,102
+"Cincinnati Masters","Hard","Stan Wawrinka","Brandon Nakashima",13,2,156,115,83
+"Cincinnati Masters","Hard","Max Purcell","Lloyd Harris",5,6,74,61,51
+"Cincinnati Masters","Hard","Ben Shelton","Christopher Eubanks",9,8,122,89,88
+"Cincinnati Masters","Hard","Hubert Hurkacz","Thanasi Kokkinakis",13,4,188,112,141
+"Cincinnati Masters","Hard","Borna Coric","Sebastian Korda",5,6,96,68,62
+"Cincinnati Masters","Hard","Alexei Popyrin","Daniel Altmaier",9,6,163,109,113
+"Cincinnati Masters","Hard","Nicolas Jarry","Roman Safiullin",5,5,156,86,85
+"Cincinnati Masters","Hard","Emil Ruusuvuori","Corentin Moutet",1,1,90,49,56
+"Cincinnati Masters","Hard","Mackenzie Mcdonald","Yannick Hanfmann",2,2,104,55,74
+"Cincinnati Masters","Hard","Adrian Mannarino","Richard Gasquet",3,3,87,56,53
+"Cincinnati Masters","Hard","Felix Auger Aliassime","Matteo Berrettini",9,3,145,89,77
+"Cincinnati Masters","Hard","Alexander Zverev","Grigor Dimitrov",8,0,71,48,55
+"Cincinnati Masters","Hard","Yoshihito Nishioka","Gregoire Barrere",1,4,91,64,68
+"Cincinnati Masters","Hard","Lorenzo Musetti","Daniel Evans",3,1,86,50,55
+"Cincinnati Masters","Hard","Dusan Lajovic","Francisco Cerundolo",1,2,80,62,50
+"Cincinnati Masters","Hard","Lorenzo Sonego","Alexander Shevchenko",3,0,125,80,79
+"Cincinnati Masters","Hard","Taylor Fritz","Jiri Lehecka",6,5,105,78,89
+"Cincinnati Masters","Hard","Gael Monfils","Cameron Norrie",3,3,130,78,91
+"Cincinnati Masters","Hard","Alex De Minaur","J J Wolf",7,3,118,76,67
+"Cincinnati Masters","Hard","Alejandro Davidovich Fokina","Tomas Martin Etcheverry",1,2,78,59,49
+"Winston-Salem","Hard","Sebastian Baez","Jiri Lehecka",5,4,94,59,73
+"Winston-Salem","Hard","Sebastian Baez","Borna Coric",4,9,199,96,117
+"Winston-Salem","Hard","Borna Coric","Juan Manuel Cerundolo",7,1,81,55,49
+"Winston-Salem","Hard","Sebastian Baez","Laslo Djere",1,2,73,58,46
+"Winston-Salem","Hard","Sebastian Korda","Richard Gasquet",16,7,151,102,97
+"Winston-Salem","Hard","Jiri Lehecka","Max Purcell",9,8,86,66,69
+"Winston-Salem","Hard","Borna Coric","Michael Mmoh",11,7,167,106,97
+"Winston-Salem","Hard","Juan Manuel Cerundolo","Omni Kumar",3,3,97,69,61
+"Winston-Salem","Hard","Laslo Djere","Alex Michelsen",3,2,90,58,71
+"Winston-Salem","Hard","Sebastian Baez","Aleksandar Vukic",4,12,129,90,90
+"Winston-Salem","Hard","Richard Gasquet","Brandon Nakashima",9,12,123,76,87
+"Winston-Salem","Hard","Sebastian Korda","Marton Fucsovics",8,2,112,76,69
+"Winston-Salem","Hard","Jiri Lehecka","Dominik Koepfer",7,2,120,88,86
+"Winston-Salem","Hard","Max Purcell","Tallon Griekspoor",11,8,113,79,85
+"Winston-Salem","Hard","Borna Coric","Rinky Hijikata",4,2,123,75,68
+"Winston-Salem","Hard","Michael Mmoh","Marcos Giron",2,3,93,61,57
+"Winston-Salem","Hard","Juan Manuel Cerundolo","Yannick Hanfmann",4,8,204,124,125
+"Winston-Salem","Hard","Omni Kumar","Botic Van De Zandschulp",5,4,90,73,58
+"Winston-Salem","Hard","Laslo Djere","Facundo Diaz Acosta",6,0,90,64,57
+"Winston-Salem","Hard","Alex Michelsen","Sebastian Ofner",2,5,112,94,72
+"Winston-Salem","Hard","Aleksandar Vukic","Luca Van Assche",19,5,153,97,89
+"Winston-Salem","Hard","Sebastian Baez","Daniel Elahi Galan",2,9,131,81,93
+"Winston-Salem","Hard","Brandon Nakashima","Arthur Fils",18,10,157,98,120
+"Winston-Salem","Hard","Richard Gasquet","Marc Andrea Huesler",6,9,105,77,64
+"Winston-Salem","Hard","Marton Fucsovics","Zhizhen Zhang",3,1,89,61,49
+"Winston-Salem","Hard","Sebastian Korda","Benjamin Bonzi",13,3,68,61,51
+"Winston-Salem","Hard","Jiri Lehecka","Mitchell Krueger",10,2,110,75,78
+"Winston-Salem","Hard","Dominik Koepfer","Strong Kirchheimer",6,4,81,54,64
+"Winston-Salem","Hard","Max Purcell","Andrey Kuznetsov",8,3,60,47,48
+"Winston-Salem","Hard","Tallon Griekspoor","Jack Draper",3,4,58,41,42
+"Winston-Salem","Hard","Rinky Hijikata","Illya Marchenko",8,2,151,106,71
+"Winston-Salem","Hard","Michael Mmoh","Darian King",10,1,119,89,70
+"Winston-Salem","Hard","Juan Manuel Cerundolo","Roman Safiullin",9,7,156,107,110
+"Winston-Salem","Hard","Omni Kumar","Arthur Rinderknech",3,8,96,66,54
+"Winston-Salem","Hard","Facundo Diaz Acosta","Quentin Halys",2,13,132,85,84
+"Winston-Salem","Hard","Alex Michelsen","Juan Pablo Varillas",7,7,138,79,94
+"Winston-Salem","Hard","Luca Van Assche","Thai Son Kwiatkowski",3,1,120,68,85
+"Winston-Salem","Hard","Daniel Elahi Galan","Radu Albot",9,5,90,61,62
+"Winston-Salem","Hard","Brandon Nakashima","Jason Kubler",7,7,143,95,93
+"Winston-Salem","Hard","Marc Andrea Huesler","Alexander Shevchenko",7,6,93,63,69
+"Winston-Salem","Hard","Zhizhen Zhang","Ilya Ivashka",3,8,141,85,113
+"Winston-Salem","Hard","Benjamin Bonzi","Alexandre Muller",8,5,91,60,71
+"Winston-Salem","Hard","Mitchell Krueger","Pavel Kotov",5,6,75,58,52
+"Winston-Salem","Hard","Dominik Koepfer","Constant Lestienne",10,14,160,109,110
+"Winston-Salem","Hard","Max Purcell","Marco Cecchinato",5,2,68,42,58
+"Winston-Salem","Hard","Jack Draper","Nuno Borges",11,0,55,37,41
+"Us Open","Hard","Carlos Alcaraz","Dominik Koepfer",4,1,60,33,55
+"Us Open","Hard","Lloyd Harris","Guido Pella",26,7,126,94,92
+"Us Open","Hard","Botic Van De Zandschulp","Jordan Thompson",3,3,53,35,32
+"Us Open","Hard","Daniel Evans","Daniel Elahi Galan",5,12,158,92,101
+"Us Open","Hard","Arthur Fils","Tallon Griekspoor",22,13,238,169,155
+"Us Open","Hard","Matteo Arnaldi","Jason Kubler",7,1,50,29,30
+"Us Open","Hard","Yu Hsiou Hsu","Thanasi Kokkinakis",7,16,172,112,120
+"Us Open","Hard","Cameron Norrie","Alexander Shevchenko",5,7,91,73,73
+"Us Open","Hard","Alexander Zverev","Aleksandar Vukic",13,5,129,87,100
+"Us Open","Hard","Daniel Altmaier","Constant Lestienne",12,8,190,130,129
+"Us Open","Hard","Andy Murray","Corentin Moutet",4,5,178,91,107
+"Us Open","Hard","Grigor Dimitrov","Alex Molcan",20,8,278,184,182
+"Us Open","Hard","Tomas Martin Etcheverry","Otto Virtanen",8,12,265,171,179
+"Us Open","Hard","Stan Wawrinka","Yoshihito Nishioka",12,2,145,90,107
+"Us Open","Hard","Lorenzo Sonego","Nicolas Moreno De Alboran",5,8,139,82,93
+"Us Open","Hard","Jannik Sinner","Yannick Hanfmann",5,7,138,74,100
+"Us Open","Hard","Daniil Medvedev","Attila Balazs",8,0,74,54,63
+"Us Open","Hard","Christopher Oconnell","Max Purcell",18,22,172,131,130
+"Us Open","Hard","Felipe Meligeni Alves","James Duckworth",20,7,135,116,101
+"Us Open","Hard","Sebastian Baez","Borna Coric",6,3,155,112,88
+"Us Open","Hard","Nicolas Jarry","Luca Van Assche",29,6,215,120,139
+"Us Open","Hard","Alex Michelsen","Albert Ramos",6,3,120,82,91
+"Us Open","Hard","Yibing Wu","Dusan Lajovic",5,13,178,136,147
+"Us Open","Hard","Alex De Minaur","Timofey Skatov",7,2,162,106,104
+"Us Open","Hard","Michael Mmoh","Karen Khachanov",8,6,140,79,88
+"Us Open","Hard","John Isner","Facundo Diaz Acosta",11,5,156,83,113
+"Us Open","Hard","Jack Draper","Radu Albot",9,1,123,75,89
+"Us Open","Hard","Hubert Hurkacz","Marc Andrea Huesler",19,11,192,141,147
+"Us Open","Hard","Matteo Berrettini","Ugo Humbert",11,3,143,88,87
+"Us Open","Hard","Arthur Rinderknech","Diego Schwartzman",19,0,128,80,82
+"Us Open","Hard","Gael Monfils","Taro Daniel",23,5,190,123,131
+"Us Open","Hard","Andrey Rublev","Arthur Cazaux",5,6,152,98,112
+"Us Open","Hard","Casper Ruud","Emilio Nava",4,13,197,138,128
+"Us Open","Hard","Zhizhen Zhang","J J Wolf",15,16,269,195,167
+"Us Open","Hard","Rinky Hijikata","Pavel Kotov",5,8,239,143,164
+"Us Open","Hard","Marton Fucsovics","Sebastian Korda",11,8,266,188,159
+"Us Open","Hard","Adrian Mannarino","Yosuke Watanuki",8,16,215,132,159
+"Us Open","Hard","Fabian Marozsan","Richard Gasquet",15,13,198,161,144
+"Us Open","Hard","Sebastian Ofner","Nuno Borges",19,9,175,147,142
+"Us Open","Hard","Frances Tiafoe","Learner Tien",10,4,128,80,116
+"Us Open","Hard","Tommy Paul","Stefano Travaglia",14,0,148,94,109
+"Us Open","Hard","Roman Safiullin","Marco Cecchinato",12,3,80,61,71
+"Us Open","Hard","Juan Manuel Cerundolo","Ilya Ivashka",9,10,214,155,145
+"Us Open","Hard","Alejandro Davidovich Fokina","Marcos Giron",1,6,116,88,75
+"Us Open","Hard","Dominic Thiem","Alexander Bublik",8,6,112,81,87
+"Us Open","Hard","Ben Shelton","Pedro Cachin",13,5,127,93,93
+"Us Open","Hard","Aslan Karatsev","Jiri Lehecka",8,7,120,80,83
+"Us Open","Hard","Roberto Carballes Baena","Holger Rune",7,2,162,101,108
+"Us Open","Hard","Stefanos Tsitsipas","Milos Raonic",7,8,116,76,84
+"Us Open","Hard","Dominic Stricker","Alexei Popyrin",9,16,160,100,140
+"Us Open","Hard","Benjamin Bonzi","Quentin Halys",13,23,171,142,121
+"Us Open","Hard","Christopher Eubanks","Soon Woo Kwon",14,13,148,112,109
+"Us Open","Hard","Titouan Droguet","Lorenzo Musetti",10,9,220,153,167
+"Us Open","Hard","Jakub Mensik","Gregoire Barrere",13,3,178,129,127
+"Us Open","Hard","Juan Pablo Varillas","Miomir Kecmanovic",15,4,193,141,128
+"Us Open","Hard","Taylor Fritz","Steve Johnson",10,3,80,50,70
+"Us Open","Hard","Mackenzie Mcdonald","Felix Auger Aliassime",8,13,207,152,126
+"Us Open","Hard","Borna Gojo","Hugo Dellien",13,2,91,66,83
+"Us Open","Hard","Jiri Vesely","Enzo Couacaud",23,21,195,125,139
+"Us Open","Hard","Francisco Cerundolo","Zachary Svajda",6,5,177,132,132
+"Us Open","Hard","Laslo Djere","Brandon Nakashima",9,3,141,91,100
+"Us Open","Hard","Hugo Gaston","Sho Shimabukuro",5,1,113,87,80
+"Us Open","Hard","Bernabe Zapata Miralles","Ethan Quinn",2,7,133,85,101
+"Us Open","Hard","Novak Djokovic","Alexandre Muller",6,4,95,60,68
+"Us Open","Hard","Carlos Alcaraz","Lloyd Harris",4,6,148,104,92
+"Us Open","Hard","Daniel Evans","Botic Van De Zandschulp",5,6,161,93,107
+"Us Open","Hard","Matteo Arnaldi","Arthur Fils",8,13,235,162,177
+"Us Open","Hard","Cameron Norrie","Yu Hsiou Hsu",15,5,148,106,103
+"Us Open","Hard","Alexander Zverev","Daniel Altmaier",7,5,223,114,153
+"Us Open","Hard","Grigor Dimitrov","Andy Murray",6,2,166,99,87
+"Us Open","Hard","Stan Wawrinka","Tomas Martin Etcheverry",17,16,219,137,142
+"Us Open","Hard","Jannik Sinner","Lorenzo Sonego",4,4,125,66,89
+"Us Open","Hard","Daniil Medvedev","Christopher Oconnell",12,3,184,109,132
+"Us Open","Hard","Sebastian Baez","Felipe Meligeni Alves",4,4,151,115,105
+"Us Open","Hard","Nicolas Jarry","Alex Michelsen",12,6,167,110,109
+"Us Open","Hard","Alex De Minaur","Yibing Wu",2,1,87,61,79
+"Us Open","Hard","Michael Mmoh","John Isner",19,48,237,160,162
+"Us Open","Hard","Jack Draper","Hubert Hurkacz",4,8,132,87,103
+"Us Open","Hard","Arthur Rinderknech","Matteo Berrettini",7,8,108,64,77
+"Us Open","Hard","Andrey Rublev","Gael Monfils",3,8,140,96,112
+"Us Open","Hard","Zhizhen Zhang","Casper Ruud",18,7,199,119,145
+"Us Open","Hard","Rinky Hijikata","Marton Fucsovics",2,2,119,79,72
+"Us Open","Hard","Adrian Mannarino","Fabian Marozsan",10,10,133,104,110
+"Us Open","Hard","Frances Tiafoe","Sebastian Ofner",5,5,92,71,68
+"Us Open","Hard","Tommy Paul","Roman Safiullin",10,8,192,130,129
+"Us Open","Hard","Alejandro Davidovich Fokina","Juan Manuel Cerundolo",7,1,102,68,87
+"Us Open","Hard","Ben Shelton","Dominic Thiem",7,2,67,42,46
+"Us Open","Hard","Aslan Karatsev","Roberto Carballes Baena",10,1,204,134,119
+"Us Open","Hard","Dominic Stricker","Stefanos Tsitsipas",11,22,244,182,186
+"Us Open","Hard","Benjamin Bonzi","Christopher Eubanks",19,15,182,121,133
+"Us Open","Hard","Jakub Mensik","Titouan Droguet",9,12,171,107,136
+"Us Open","Hard","Taylor Fritz","Juan Pablo Varillas",10,1,101,79,59
+"Us Open","Hard","Borna Gojo","Mackenzie Mcdonald",13,5,136,84,93
+"Us Open","Hard","Jiri Vesely","Francisco Cerundolo",13,16,247,156,173
+"Us Open","Hard","Laslo Djere","Hugo Gaston",8,1,92,64,84
+"Us Open","Hard","Novak Djokovic","Bernabe Zapata Miralles",5,2,120,72,80
+"Us Open","Hard","Carlos Alcaraz","Daniel Evans",6,8,191,106,132
+"Us Open","Hard","Matteo Arnaldi","Cameron Norrie",5,3,117,92,77
+"Us Open","Hard","Alexander Zverev","Grigor Dimitrov",15,7,222,122,134
+"Us Open","Hard","Jannik Sinner","Stan Wawrinka",12,8,178,124,107
+"Us Open","Hard","Daniil Medvedev","Sebastian Baez",12,0,160,120,86
+"Us Open","Hard","Alex De Minaur","Nicolas Jarry",2,4,105,69,71
+"Us Open","Hard","Jack Draper","Michael Mmoh",13,10,184,111,115
+"Us Open","Hard","Andrey Rublev","Arthur Rinderknech",10,16,154,103,120
+"Us Open","Hard","Rinky Hijikata","Zhizhen Zhang",13,10,190,120,133
+"Us Open","Hard","Frances Tiafoe","Adrian Mannarino",15,12,175,116,129
+"Us Open","Hard","Tommy Paul","Alejandro Davidovich Fokina",15,3,139,110,88
+"Us Open","Hard","Ben Shelton","Aslan Karatsev",26,2,138,85,106
+"Us Open","Hard","Dominic Stricker","Benjamin Bonzi",14,10,207,161,142
+"Us Open","Hard","Taylor Fritz","Jakub Mensik",10,1,90,58,57
+"Us Open","Hard","Borna Gojo","Jiri Vesely",12,8,126,68,95
+"Us Open","Hard","Novak Djokovic","Laslo Djere",12,8,225,127,143
+"Us Open","Hard","Carlos Alcaraz","Matteo Arnaldi",2,4,117,74,90
+"Us Open","Hard","Alexander Zverev","Jannik Sinner",16,12,281,162,160
+"Us Open","Hard","Daniil Medvedev","Alex De Minaur",11,1,160,104,95
+"Us Open","Hard","Andrey Rublev","Jack Draper",14,18,165,95,129
+"Us Open","Hard","Frances Tiafoe","Rinky Hijikata",15,0,120,65,89
+"Us Open","Hard","Ben Shelton","Tommy Paul",16,6,169,123,108
+"Us Open","Hard","Taylor Fritz","Dominic Stricker",17,13,133,98,92
+"Us Open","Hard","Novak Djokovic","Borna Gojo",12,14,146,76,114
+"Us Open","Hard","Carlos Alcaraz","Alexander Zverev",3,6,150,97,77
+"Us Open","Hard","Daniil Medvedev","Andrey Rublev",8,4,168,100,98
+"Us Open","Hard","Ben Shelton","Frances Tiafoe",14,7,187,108,122
+"Us Open","Hard","Novak Djokovic","Taylor Fritz",7,8,155,94,89
+"Us Open","Hard","Daniil Medvedev","Carlos Alcaraz",9,0,199,129,133
+"Us Open","Hard","Novak Djokovic","Ben Shelton",5,5,161,99,102
+"Us Open","Hard","Novak Djokovic","Daniil Medvedev",4,6,197,109,106
+"Chengdu","Hard","Alexander Zverev","Roman Safiullin",10,8,176,106,109
+"Chengdu","Hard","Alexander Zverev","Grigor Dimitrov",9,0,110,66,74
+"Chengdu","Hard","Roman Safiullin","Lorenzo Musetti",9,1,89,57,57
+"Chengdu","Hard","Alexander Zverev","Miomir Kecmanovic",13,4,178,103,112
+"Chengdu","Hard","Grigor Dimitrov","Christopher Oconnell",3,4,84,52,62
+"Chengdu","Hard","Roman Safiullin","Jordan Thompson",2,5,79,46,43
+"Chengdu","Hard","Lorenzo Musetti","Arthur Rinderknech",1,7,87,51,60
+"Chengdu","Hard","Alexander Zverev","Pavel Kotov",8,4,145,80,102
+"Chengdu","Hard","Miomir Kecmanovic","Corentin Moutet",1,1,95,46,65
+"Chengdu","Hard","Grigor Dimitrov","Juan Pablo Varillas",6,2,85,54,52
+"Chengdu","Hard","Christopher Oconnell","Taro Daniel",9,3,156,97,91
+"Chengdu","Hard","Jordan Thompson","Dusan Lajovic",9,2,88,47,69
+"Chengdu","Hard","Roman Safiullin","Daniel Evans",5,6,83,58,50
+"Chengdu","Hard","Arthur Rinderknech","Marcos Giron",9,7,100,71,59
+"Chengdu","Hard","Lorenzo Musetti","Philip Sekulic",11,6,174,93,105
+"Chengdu","Hard","Pavel Kotov","Daniel Elahi Galan",2,10,113,72,78
+"Chengdu","Hard","Corentin Moutet","Tao Mu",0,1,78,51,46
+"Chengdu","Hard","Miomir Kecmanovic","Benjamin Lock",6,0,88,57,62
+"Chengdu","Hard","Juan Pablo Varillas","Jie Cui",5,5,77,50,42
+"Chengdu","Hard","Christopher Oconnell","Alibek Kachmazov",6,3,128,73,84
+"Chengdu","Hard","Taro Daniel","Aleksandar Vukic",7,6,134,79,91
+"Chengdu","Hard","Jordan Thompson","Max Purcell",13,6,111,66,69
+"Chengdu","Hard","Dusan Lajovic","Zizou Bergs",0,10,102,69,68
+"Chengdu","Hard","Roman Safiullin","Brandon Nakashima",5,9,88,55,58
+"Chengdu","Hard","Marcos Giron","Alexander Bublik",1,4,101,84,65
+"Chengdu","Hard","Arthur Rinderknech","Li Tu",11,5,116,85,74
+"Chengdu","Hard","Philip Sekulic","Nuno Borges",5,13,155,101,111
+"Zhuhai","Hard","Karen Khachanov","Yoshihito Nishioka",9,2,102,61,62
+"Zhuhai","Hard","Karen Khachanov","Sebastian Korda",4,9,110,61,70
+"Zhuhai","Hard","Yoshihito Nishioka","Aslan Karatsev",3,8,119,70,59
+"Zhuhai","Hard","Karen Khachanov","Mackenzie Mcdonald",4,5,156,91,92
+"Zhuhai","Hard","Sebastian Korda","Tomas Martin Etcheverry",9,3,71,46,50
+"Zhuhai","Hard","Yoshihito Nishioka","Jan Lennard Struff",0,11,90,62,59
+"Zhuhai","Hard","Aslan Karatsev","Cameron Norrie",9,9,141,83,77
+"Zhuhai","Hard","Karen Khachanov","Alex Bolt",8,6,109,72,65
+"Zhuhai","Hard","Mackenzie Mcdonald","Kimmer Coppejans",6,11,129,77,88
+"Zhuhai","Hard","Sebastian Korda","Alexandre Muller",9,2,115,84,64
+"Zhuhai","Hard","Tomas Martin Etcheverry","Dalibor Svrcina",6,1,96,50,61
+"Zhuhai","Hard","Yoshihito Nishioka","Lloyd Harris",2,16,125,74,81
+"Zhuhai","Hard","Jan Lennard Struff","Cristian Garin",12,6,124,77,76
+"Zhuhai","Hard","Aslan Karatsev","Andy Murray",9,7,175,88,92
+"Zhuhai","Hard","Cameron Norrie","Marc Polmans",5,2,76,44,46
+"Zhuhai","Hard","Alex Bolt","Diego Schwartzman",5,0,54,38,39
+"Zhuhai","Hard","Kimmer Coppejans","Aleksandar Kovacevic",12,7,83,54,48
+"Zhuhai","Hard","Mackenzie Mcdonald","Juncheng Shang",8,5,156,90,96
+"Zhuhai","Hard","Alexandre Muller","Rinky Hijikata",1,0,95,62,56
+"Zhuhai","Hard","Dalibor Svrcina","Zhe Li",1,4,91,51,53
+"Zhuhai","Hard","Tomas Martin Etcheverry","Luke Saville",4,6,121,51,83
+"Zhuhai","Hard","Yoshihito Nishioka","Terence Atmane",1,10,115,70,72
+"Zhuhai","Hard","Lloyd Harris","Jiri Vesely",19,8,70,42,47
+"Zhuhai","Hard","Cristian Garin","Yi Zhou",8,10,142,81,75
+"Zhuhai","Hard","Andy Murray","Ye Cong Mo",10,1,102,74,57
+"Zhuhai","Hard","Aslan Karatsev","Matteo Arnaldi",17,7,189,95,126
+"Zhuhai","Hard","Marc Polmans","Dane Sweeny",9,0,92,47,51
+"Astana","Hard","Adrian Mannarino","Sebastian Korda",5,9,129,89,77
+"Astana","Hard","Sebastian Korda","Hamad Medjedovic",18,16,172,114,121
+"Astana","Hard","Adrian Mannarino","Sebastian Ofner",6,4,70,53,49
+"Astana","Hard","Sebastian Korda","Tallon Griekspoor",12,11,101,82,77
+"Astana","Hard","Hamad Medjedovic","Jiri Lehecka",7,4,75,72,50
+"Astana","Hard","Sebastian Ofner","Dominic Thiem",4,5,146,82,108
+"Astana","Hard","Adrian Mannarino","Jurij Rodionov",3,3,104,71,61
+"Astana","Hard","Tallon Griekspoor","Sho Shimabukuro",17,5,133,89,107
+"Astana","Hard","Sebastian Korda","Nuno Borges",12,3,84,62,65
+"Astana","Hard","Jiri Lehecka","Egor Gerasimov",4,2,86,64,62
+"Astana","Hard","Hamad Medjedovic","Alexander Shevchenko",9,5,69,53,61
+"Astana","Hard","Dominic Thiem","Marcos Giron",7,11,140,92,100
+"Astana","Hard","Sebastian Ofner","Alexander Bublik",5,2,70,57,52
+"Astana","Hard","Adrian Mannarino","Alibek Kachmazov",2,9,139,94,88
+"Astana","Hard","Jurij Rodionov","Sebastian Baez",5,0,94,52,75
+"Astana","Hard","Sho Shimabukuro","Roberto Carballes Baena",4,4,89,52,74
+"Astana","Hard","Nuno Borges","Mikhail Kukushkin",5,4,170,114,109
+"Astana","Hard","Sebastian Korda","Alexei Popyrin",19,12,174,118,126
+"Astana","Hard","Egor Gerasimov","Bernabe Zapata Miralles",7,1,108,72,70
+"Astana","Hard","Alexander Shevchenko","Botic Van De Zandschulp",5,5,97,64,67
+"Astana","Hard","Hamad Medjedovic","Laslo Djere",5,0,47,33,34
+"Astana","Hard","Marcos Giron","Stan Wawrinka",8,15,167,118,114
+"Astana","Hard","Dominic Thiem","Juan Pablo Varillas",6,5,131,78,77
+"Astana","Hard","Sebastian Ofner","Marton Fucsovics",1,3,111,76,66
+"Astana","Hard","Adrian Mannarino","Arthur Rinderknech",1,6,116,78,68
+"Astana","Hard","Alibek Kachmazov","Corentin Moutet",2,2,132,62,89
+"Astana","Hard","Jurij Rodionov","Gregoire Barrere",4,4,141,98,94
+"Beijing","Hard","Jannik Sinner","Daniil Medvedev",3,6,121,75,78
+"Beijing","Hard","Jannik Sinner","Carlos Alcaraz",1,4,115,75,63
+"Beijing","Hard","Daniil Medvedev","Alexander Zverev",8,1,85,57,51
+"Beijing","Hard","Carlos Alcaraz","Casper Ruud",6,1,104,55,77
+"Beijing","Hard","Jannik Sinner","Grigor Dimitrov",3,2,151,85,97
+"Beijing","Hard","Alexander Zverev","Nicolas Jarry",13,8,138,98,75
+"Beijing","Hard","Daniil Medvedev","Ugo Humbert",7,0,126,82,81
+"Beijing","Hard","Carlos Alcaraz","Lorenzo Musetti",1,2,81,53,42
+"Beijing","Hard","Casper Ruud","Tomas Martin Etcheverry",8,8,177,109,100
+"Beijing","Hard","Grigor Dimitrov","Holger Rune",5,3,92,55,74
+"Beijing","Hard","Jannik Sinner","Yoshihito Nishioka",8,0,67,43,51
+"Beijing","Hard","Alexander Zverev","Alejandro Davidovich Fokina",9,4,154,90,103
+"Beijing","Hard","Nicolas Jarry","Matteo Arnaldi",12,9,178,108,111
+"Beijing","Hard","Ugo Humbert","Andrey Rublev",11,6,168,131,103
+"Beijing","Hard","Daniil Medvedev","Alex De Minaur",3,5,117,74,83
+"Beijing","Hard","Carlos Alcaraz","Yannick Hanfmann",2,1,97,47,79
+"Beijing","Hard","Lorenzo Musetti","Karen Khachanov",5,2,116,79,70
+"Beijing","Hard","Tomas Martin Etcheverry","Lloyd Harris",9,12,172,106,106
+"Beijing","Hard","Casper Ruud","Jan Lennard Struff",8,6,104,75,84
+"Beijing","Hard","Holger Rune","Felix Auger Aliassime",7,4,83,52,56
+"Beijing","Hard","Grigor Dimitrov","Mackenzie Mcdonald",6,2,129,84,88
+"Beijing","Hard","Yoshihito Nishioka","Juncheng Shang",2,1,141,89,96
+"Beijing","Hard","Jannik Sinner","Daniel Evans",11,2,170,100,100
+"Beijing","Hard","Alexander Zverev","Diego Schwartzman",7,0,146,86,86
+"Beijing","Hard","Alejandro Davidovich Fokina","Yi Zhou",6,2,70,38,69
+"Beijing","Hard","Matteo Arnaldi","J J Wolf",4,3,79,41,56
+"Beijing","Hard","Nicolas Jarry","Stefanos Tsitsipas",9,6,90,61,55
+"Beijing","Hard","Andrey Rublev","Cameron Norrie",8,3,127,88,92
+"Beijing","Hard","Ugo Humbert","Lorenzo Sonego",2,2,145,80,88
+"Beijing","Hard","Alex De Minaur","Andy Murray",8,3,171,107,101
+"Beijing","Hard","Daniil Medvedev","Tommy Paul",9,0,80,50,53
+"Shanghai Masters","Hard","Hubert Hurkacz","Andrey Rublev",21,13,126,93,96
+"Shanghai Masters","Hard","Andrey Rublev","Grigor Dimitrov",9,0,109,76,71
+"Shanghai Masters","Hard","Hubert Hurkacz","Sebastian Korda",14,9,76,63,57
+"Shanghai Masters","Hard","Grigor Dimitrov","Nicolas Jarry",11,13,99,62,64
+"Shanghai Masters","Hard","Andrey Rublev","Ugo Humbert",2,2,90,51,71
+"Shanghai Masters","Hard","Hubert Hurkacz","Fabian Marozsan",18,4,103,74,82
+"Shanghai Masters","Hard","Sebastian Korda","Ben Shelton",5,17,174,105,119
+"Shanghai Masters","Hard","Grigor Dimitrov","Carlos Alcaraz",10,4,130,86,78
+"Shanghai Masters","Hard","Nicolas Jarry","Diego Schwartzman",15,3,144,81,96
+"Shanghai Masters","Hard","Ugo Humbert","J J Wolf",6,0,57,35,41
+"Shanghai Masters","Hard","Andrey Rublev","Tommy Paul",4,6,95,58,77
+"Shanghai Masters","Hard","Fabian Marozsan","Casper Ruud",6,14,159,113,123
+"Shanghai Masters","Hard","Hubert Hurkacz","Zhizhen Zhang",16,5,158,94,118
+"Shanghai Masters","Hard","Ben Shelton","Jannik Sinner",15,8,150,101,97
+"Shanghai Masters","Hard","Sebastian Korda","Francisco Cerundolo",7,5,98,74,68
+"Shanghai Masters","Hard","Carlos Alcaraz","Daniel Evans",6,2,143,65,107
+"Shanghai Masters","Hard","Grigor Dimitrov","Karen Khachanov",10,4,118,70,75
+"Shanghai Masters","Hard","Nicolas Jarry","Lorenzo Sonego",6,2,102,61,64
+"Shanghai Masters","Hard","Diego Schwartzman","Taylor Fritz",3,17,164,90,107
+"Shanghai Masters","Hard","Ugo Humbert","Stefanos Tsitsipas",8,7,129,85,83
+"Shanghai Masters","Hard","J J Wolf","Matteo Arnaldi",3,8,163,101,119
+"Shanghai Masters","Hard","Tommy Paul","Arthur Fils",6,5,166,99,106
+"Shanghai Masters","Hard","Andrey Rublev","Adrian Mannarino",6,3,62,51,40
+"Shanghai Masters","Hard","Casper Ruud","Christopher Eubanks",1,8,71,46,55
+"Shanghai Masters","Hard","Fabian Marozsan","Dusan Lajovic",6,3,72,49,66
+"Shanghai Masters","Hard","Hubert Hurkacz","Yu Hsiou Hsu",12,3,92,62,74
+"Shanghai Masters","Hard","Zhizhen Zhang","Brandon Nakashima",3,5,84,61,56
+"Shanghai Masters","Hard","Jannik Sinner","Sebastian Baez",8,5,119,85,72
+"Shanghai Masters","Hard","Ben Shelton","Roman Safiullin",5,4,128,86,91
+"Shanghai Masters","Hard","Francisco Cerundolo","Marton Fucsovics",2,3,142,93,84
+"Shanghai Masters","Hard","Sebastian Korda","Daniil Medvedev",4,6,88,70,60
+"Shanghai Masters","Hard","Carlos Alcaraz","Gregoire Barrere",4,5,102,66,79
+"Shanghai Masters","Hard","Daniel Evans","Mikhail Kukushkin",6,0,52,27,36
+"Shanghai Masters","Hard","Grigor Dimitrov","Aleksandar Vukic",5,7,84,48,77
+"Shanghai Masters","Hard","Karen Khachanov","Beibit Zhukayev",9,20,122,73,90
+"Shanghai Masters","Hard","Lorenzo Sonego","Frances Tiafoe",9,1,122,76,77
+"Shanghai Masters","Hard","Nicolas Jarry","Terence Atmane",3,6,102,47,58
+"Shanghai Masters","Hard","Diego Schwartzman","Jiri Lehecka",1,7,139,83,109
+"Shanghai Masters","Hard","Taylor Fritz","Yosuke Watanuki",15,19,153,108,111
+"Shanghai Masters","Hard","Stefanos Tsitsipas","Rinky Hijikata",4,3,82,49,57
+"Shanghai Masters","Hard","Ugo Humbert","Botic Van De Zandschulp",1,2,117,75,66
+"Shanghai Masters","Hard","Matteo Arnaldi","Jan Lennard Struff",8,6,139,92,84
+"Shanghai Masters","Hard","J J Wolf","Cameron Norrie",13,4,192,109,110
+"Shanghai Masters","Hard","Tommy Paul","Sebastian Ofner",4,0,70,35,59
+"Shanghai Masters","Hard","Arthur Fils","Alejandro Davidovich Fokina",7,2,82,55,65
+"Shanghai Masters","Hard","Adrian Mannarino","Chun Hsin Tseng",6,5,92,54,62
+"Shanghai Masters","Hard","Andrey Rublev","Quentin Halys",14,17,66,55,65
+"Shanghai Masters","Hard","Casper Ruud","Yoshihito Nishioka",9,2,74,39,60
+"Shanghai Masters","Hard","Christopher Eubanks","Yannick Hanfmann",14,8,127,85,91
+"Shanghai Masters","Hard","Dusan Lajovic","Tallon Griekspoor",5,3,62,38,56
+"Shanghai Masters","Hard","Fabian Marozsan","Alex De Minaur",5,5,85,65,62
+"Shanghai Masters","Hard","Hubert Hurkacz","Thanasi Kokkinakis",17,6,101,70,64
+"Shanghai Masters","Hard","Yu Hsiou Hsu","Lorenzo Musetti",2,3,84,45,70
+"Shanghai Masters","Hard","Zhizhen Zhang","Tomas Martin Etcheverry",6,7,147,89,77
+"Shanghai Masters","Hard","Brandon Nakashima","Holger Rune",5,4,69,44,54
+"Shanghai Masters","Hard","Jannik Sinner","Marcos Giron",4,2,105,61,78
+"Shanghai Masters","Hard","Sebastian Baez","Dane Sweeny",2,1,66,47,46
+"Shanghai Masters","Hard","Ben Shelton","Jaume Munar",3,2,95,62,59
+"Shanghai Masters","Hard","Roman Safiullin","Alexander Zverev",7,7,74,47,55
+"Shanghai Masters","Hard","Marton Fucsovics","Felix Auger Aliassime",5,8,202,133,94
+"Shanghai Masters","Hard","Francisco Cerundolo","Mackenzie Mcdonald",3,5,133,91,91
+"Shanghai Masters","Hard","Sebastian Korda","Bu Yunchaokete",9,1,72,58,47
+"Shanghai Masters","Hard","Daniil Medvedev","Cristian Garin",7,4,91,55,61
+"Shanghai Masters","Hard","Gregoire Barrere","Nuno Borges",2,0,62,53,43
+"Shanghai Masters","Hard","Mikhail Kukushkin","Alexandre Muller",0,10,160,108,94
+"Shanghai Masters","Hard","Aleksandar Vukic","Roberto Carballes Baena",9,2,134,64,91
+"Shanghai Masters","Hard","Beibit Zhukayev","Stefano Napolitano",6,9,114,67,89
+"Shanghai Masters","Hard","Lorenzo Sonego","Philip Sekulic",13,0,87,59,51
+"Shanghai Masters","Hard","Terence Atmane","Jordan Thompson",7,5,94,70,61
+"Shanghai Masters","Hard","Diego Schwartzman","Luca Van Assche",0,8,168,114,79
+"Shanghai Masters","Hard","Yosuke Watanuki","Juncheng Shang",13,2,177,103,125
+"Shanghai Masters","Hard","Rinky Hijikata","Laslo Djere",2,7,137,96,86
+"Shanghai Masters","Hard","Botic Van De Zandschulp","Christopher Oconnell",10,4,136,83,97
+"Shanghai Masters","Hard","Matteo Arnaldi","Alexei Popyrin",2,6,134,89,85
+"Shanghai Masters","Hard","J J Wolf","Pedro Cachin",12,7,124,91,82
+"Shanghai Masters","Hard","Sebastian Ofner","Juan Pablo Varillas",12,6,125,87,95
+"Shanghai Masters","Hard","Arthur Fils","Pavel Kotov",5,3,77,55,53
+"Shanghai Masters","Hard","Chun Hsin Tseng","Alexander Shevchenko",3,2,111,79,70
+"Shanghai Masters","Hard","Quentin Halys","Aslan Karatsev",5,8,127,86,95
+"Shanghai Masters","Hard","Yoshihito Nishioka","Daniel Altmaier",1,15,173,91,92
+"Shanghai Masters","Hard","Yannick Hanfmann","James Duckworth",12,10,147,93,99
+"Shanghai Masters","Hard","Dusan Lajovic","Stan Wawrinka",6,10,113,72,75
+"Shanghai Masters","Hard","Fabian Marozsan","Arthur Rinderknech",1,2,83,61,63
+"Shanghai Masters","Hard","Thanasi Kokkinakis","Fabio Fognini",6,2,79,53,54
+"Shanghai Masters","Hard","Yu Hsiou Hsu","Max Purcell",3,11,168,123,104
+"Shanghai Masters","Hard","Zhizhen Zhang","Richard Gasquet",11,0,54,33,55
+"Shanghai Masters","Hard","Brandon Nakashima","Bernabe Zapata Miralles",9,0,94,54,53
+"Shanghai Masters","Hard","Marcos Giron","Daniel Elahi Galan",5,5,69,48,51
+"Shanghai Masters","Hard","Dane Sweeny","Taro Daniel",1,3,96,66,47
+"Shanghai Masters","Hard","Jaume Munar","Rigele Te",11,4,86,48,65
+"Shanghai Masters","Hard","Roman Safiullin","Andy Murray",4,2,99,64,63
+"Shanghai Masters","Hard","Marton Fucsovics","Denis Yevseyev",1,1,86,54,47
+"Shanghai Masters","Hard","Mackenzie Mcdonald","Corentin Moutet",0,0,83,63,51
+"Shanghai Masters","Hard","Bu Yunchaokete","Miomir Kecmanovic",17,10,140,74,86
+"Shanghai Masters","Hard","Cristian Garin","Aleksandar Kovacevic",6,1,114,76,76
+"Stockholm","Hard","Gael Monfils","Pavel Kotov",7,2,157,94,105
+"Stockholm","Hard","Pavel Kotov","Miomir Kecmanovic",3,2,91,66,57
+"Stockholm","Hard","Gael Monfils","Laslo Djere",9,3,75,55,59
+"Stockholm","Hard","Miomir Kecmanovic","Elias Ymer",0,1,54,22,40
+"Stockholm","Hard","Pavel Kotov","Tallon Griekspoor",3,5,93,74,63
+"Stockholm","Hard","Laslo Djere","Tomas Machac",5,6,188,123,126
+"Stockholm","Hard","Gael Monfils","Adrian Mannarino",5,2,105,68,68
+"Stockholm","Hard","Miomir Kecmanovic","Holger Rune",2,4,104,73,73
+"Stockholm","Hard","Elias Ymer","Dino Prizmic",4,2,160,76,85
+"Stockholm","Hard","Tallon Griekspoor","Emil Ruusuvuori",8,4,114,85,72
+"Stockholm","Hard","Pavel Kotov","Lorenzo Sonego",0,1,108,61,66
+"Stockholm","Hard","Laslo Djere","J J Wolf",14,3,98,70,59
+"Stockholm","Hard","Tomas Machac","Stan Wawrinka",3,1,65,50,43
+"Stockholm","Hard","Gael Monfils","Filip Misolic",11,2,73,53,66
+"Stockholm","Hard","Adrian Mannarino","Roman Safiullin",3,3,91,58,61
+"Stockholm","Hard","Miomir Kecmanovic","Karl Friberg",3,6,84,57,56
+"Stockholm","Hard","Elias Ymer","Roberto Bautista Agut",7,1,86,46,65
+"Stockholm","Hard","Dino Prizmic","Jiri Lehecka",2,4,101,61,70
+"Stockholm","Hard","Emil Ruusuvuori","Benjamin Hassan",2,1,56,48,36
+"Stockholm","Hard","Lorenzo Sonego","Dusan Lajovic",14,0,139,99,82
+"Stockholm","Hard","Pavel Kotov","Christopher Eubanks",4,12,147,108,99
+"Stockholm","Hard","J J Wolf","Sebastian Baez",4,2,104,58,81
+"Stockholm","Hard","Laslo Djere","Leo Borg",3,2,80,59,59
+"Stockholm","Hard","Stan Wawrinka","Borna Gojo",7,10,90,69,67
+"Stockholm","Hard","Filip Misolic","Daniel Evans",8,5,100,67,66
+"Stockholm","Hard","Gael Monfils","Marton Fucsovics",9,3,138,96,89
+"Stockholm","Hard","Roman Safiullin","Thiago Seyboth Wild",6,2,70,60,46
+"Tokyo","Hard","Ben Shelton","Aslan Karatsev",3,2,82,50,63
+"Tokyo","Hard","Aslan Karatsev","Shintaro Mochizuki",6,3,93,59,54
+"Tokyo","Hard","Ben Shelton","Marcos Giron",13,8,170,119,106
+"Tokyo","Hard","Shintaro Mochizuki","Alexei Popyrin",4,21,142,99,98
+"Tokyo","Hard","Aslan Karatsev","Alex De Minaur",3,3,96,69,48
+"Tokyo","Hard","Ben Shelton","Tommy Paul",14,2,98,73,56
+"Tokyo","Hard","Marcos Giron","Felix Auger Aliassime",3,4,80,45,54
+"Tokyo","Hard","Shintaro Mochizuki","Taylor Fritz",5,9,121,95,80
+"Tokyo","Hard","Alexei Popyrin","Cristian Garin",8,3,177,109,117
+"Tokyo","Hard","Alex De Minaur","Diego Schwartzman",3,1,89,48,68
+"Tokyo","Hard","Aslan Karatsev","Zhizhen Zhang",4,3,80,49,61
+"Tokyo","Hard","Tommy Paul","Mackenzie Mcdonald",6,4,75,41,60
+"Tokyo","Hard","Ben Shelton","Jordan Thompson",13,9,169,96,120
+"Tokyo","Hard","Felix Auger Aliassime","Sebastian Ofner",5,4,95,59,72
+"Tokyo","Hard","Marcos Giron","Casper Ruud",9,8,80,53,59
+"Tokyo","Hard","Taylor Fritz","Cameron Norrie",13,3,80,53,64
+"Tokyo","Hard","Shintaro Mochizuki","Tomas Martin Etcheverry",2,4,122,79,73
+"Tokyo","Hard","Cristian Garin","Sho Shimabukuro",4,8,136,83,100
+"Tokyo","Hard","Alexei Popyrin","Karen Khachanov",11,7,91,71,57
+"Tokyo","Hard","Alex De Minaur","Jack Draper",9,7,184,111,116
+"Tokyo","Hard","Diego Schwartzman","Francisco Cerundolo",1,0,80,54,53
+"Tokyo","Hard","Zhizhen Zhang","Hubert Hurkacz",10,5,134,88,106
+"Tokyo","Hard","Aslan Karatsev","Frances Tiafoe",10,4,99,82,60
+"Tokyo","Hard","Tommy Paul","Daniel Altmaier",7,5,129,80,91
+"Tokyo","Hard","Mackenzie Mcdonald","Max Purcell",4,11,104,62,82
+"Tokyo","Hard","Ben Shelton","Taro Daniel",5,6,152,90,95
+"Tokyo","Hard","Jordan Thompson","Alexander Zverev",6,2,95,63,53
+"Tokyo","Hard","Felix Auger Aliassime","Aleksandar Vukic",13,5,171,99,136
+"Tokyo","Hard","Sebastian Ofner","Christopher Oconnell",17,10,168,116,127
+"Tokyo","Hard","Marcos Giron","Yoshihito Nishioka",13,6,164,109,114
+"Tokyo","Hard","Casper Ruud","Yosuke Watanuki",8,9,106,64,77
+"Antwerp","Hard","Alexander Bublik","Arthur Fils",11,6,75,63,56
+"Antwerp","Hard","Arthur Fils","Stefanos Tsitsipas",9,10,120,93,78
+"Antwerp","Hard","Alexander Bublik","Maximilian Marterer",12,1,84,61,71
+"Antwerp","Hard","Stefanos Tsitsipas","Yannick Hanfmann",7,2,70,50,49
+"Antwerp","Hard","Arthur Fils","Juan Pablo Varillas",9,4,57,43,38
+"Antwerp","Hard","Alexander Bublik","Giovanni Mpetshi Perricard",8,18,87,72,71
+"Antwerp","Hard","Maximilian Marterer","Hugo Gaston",9,2,61,48,44
+"Antwerp","Hard","Stefanos Tsitsipas","Botic Van De Zandschulp",6,5,96,69,70
+"Antwerp","Hard","Yannick Hanfmann","Dominic Thiem",6,14,161,117,91
+"Antwerp","Hard","Arthur Fils","Mark Lajal",6,7,107,94,75
+"Antwerp","Hard","Juan Pablo Varillas","Alexander Shevchenko",1,6,106,78,78
+"Antwerp","Hard","Giovanni Mpetshi Perricard","David Goffin",11,6,71,53,57
+"Antwerp","Hard","Alexander Bublik","Gregoire Barrere",11,1,66,52,50
+"Antwerp","Hard","Maximilian Marterer","Nuno Borges",11,9,79,59,64
+"Antwerp","Hard","Hugo Gaston","Jan Lennard Struff",9,15,169,146,120
+"Antwerp","Hard","Botic Van De Zandschulp","Dominic Stricker",10,10,135,92,101
+"Antwerp","Hard","Dominic Thiem","Luca Nardi",5,7,147,102,97
+"Antwerp","Hard","Yannick Hanfmann","Alexander Blockx",4,8,98,71,69
+"Antwerp","Hard","Mark Lajal","Jaume Munar",8,4,69,53,49
+"Antwerp","Hard","Alexander Shevchenko","Benjamin Bonzi",10,7,149,120,112
+"Antwerp","Hard","Juan Pablo Varillas","Fabian Marozsan",11,5,111,99,73
+"Antwerp","Hard","Giovanni Mpetshi Perricard","Roberto Carballes Baena",13,4,119,101,70
+"Antwerp","Hard","David Goffin","Quentin Halys",9,5,56,37,56
+"Antwerp","Hard","Gregoire Barrere","Daniel Elahi Galan",6,7,71,61,59
+"Antwerp","Hard","Maximilian Marterer","Richard Gasquet",11,6,69,59,52
+"Antwerp","Hard","Nuno Borges","Dominik Koepfer",4,7,97,68,81
+"Antwerp","Hard","Hugo Gaston","Arthur Rinderknech",3,11,122,90,79
+"Basel","Hard","Felix Auger Aliassime","Holger Rune",5,3,82,50,57
+"Basel","Hard","Hubert Hurkacz","Ugo Humbert",8,4,157,92,111
+"Basel","Hard","Holger Rune","Tomas Martin Etcheverry",11,6,159,112,83
+"Basel","Hard","Felix Auger Aliassime","Alexander Shevchenko",16,8,154,109,99
+"Basel","Hard","Hubert Hurkacz","Tallon Griekspoor",23,7,139,99,113
+"Basel","Hard","Ugo Humbert","Dominic Stricker",6,5,116,75,71
+"Basel","Hard","Holger Rune","Sebastian Baez",7,3,89,59,62
+"Basel","Hard","Tomas Martin Etcheverry","Andy Murray",2,2,187,113,104
+"Basel","Hard","Alexander Shevchenko","Taylor Fritz",6,22,173,150,118
+"Basel","Hard","Felix Auger Aliassime","Botic Van De Zandschulp",5,3,81,54,54
+"Basel","Hard","Tallon Griekspoor","Alex De Minaur",3,2,84,58,64
+"Basel","Hard","Hubert Hurkacz","Jan Lennard Struff",11,5,66,47,65
+"Basel","Hard","Ugo Humbert","Nicolas Jarry",4,7,122,76,80
+"Basel","Hard","Dominic Stricker","Casper Ruud",13,4,145,82,122
+"Basel","Hard","Holger Rune","Miomir Kecmanovic",3,3,120,77,91
+"Basel","Hard","Sebastian Baez","Christopher Oconnell",7,12,137,89,97
+"Basel","Hard","Andy Murray","Yannick Hanfmann",7,1,138,91,79
+"Basel","Hard","Tomas Martin Etcheverry","Sebastian Korda",2,8,114,89,69
+"Basel","Hard","Taylor Fritz","Max Purcell",12,13,119,87,99
+"Basel","Hard","Alexander Shevchenko","Stan Wawrinka",3,11,105,74,76
+"Basel","Hard","Botic Van De Zandschulp","Roberto Bautista Agut",12,5,183,110,116
+"Basel","Hard","Felix Auger Aliassime","Leandro Riedi",6,2,75,55,46
+"Basel","Hard","Alex De Minaur","Diego Schwartzman",5,2,105,59,75
+"Basel","Hard","Tallon Griekspoor","Thiago Seyboth Wild",14,11,122,95,93
+"Basel","Hard","Jan Lennard Struff","Christopher Eubanks",8,12,95,73,82
+"Basel","Hard","Hubert Hurkacz","Dusan Lajovic",18,1,86,73,66
+"Basel","Hard","Nicolas Jarry","Adrian Mannarino",23,11,194,123,105
+"Basel","Hard","Ugo Humbert","Marcos Giron",9,7,136,95,91
+"Basel","Hard","Dominic Stricker","Benjamin Hassan",4,3,89,72,61
+"Basel","Hard","Casper Ruud","Alexander Bublik",6,14,108,81,73
+"Basel","Hard","Felix Auger Aliassime","Hubert Hurkacz",13,12,115,66,92
+"Vienna","Hard","Daniil Medvedev","Stefanos Tsitsipas",5,6,104,68,71
+"Vienna","Hard","Jannik Sinner","Andrey Rublev",10,4,109,73,77
+"Vienna","Hard","Daniil Medvedev","Karen Khachanov",6,9,135,89,89
+"Vienna","Hard","Stefanos Tsitsipas","Borna Gojo",12,14,109,84,76
+"Vienna","Hard","Andrey Rublev","Alexander Zverev",6,12,150,106,90
+"Vienna","Hard","Jannik Sinner","Frances Tiafoe",5,6,79,55,56
+"Vienna","Hard","Daniil Medvedev","Grigor Dimitrov",14,5,126,91,73
+"Vienna","Hard","Karen Khachanov","Jiri Lehecka",6,5,65,40,56
+"Vienna","Hard","Stefanos Tsitsipas","Tomas Machac",10,5,118,79,85
+"Vienna","Hard","Borna Gojo","Tommy Paul",7,9,84,58,64
+"Vienna","Hard","Alexander Zverev","Cameron Norrie",9,1,79,55,52
+"Vienna","Hard","Andrey Rublev","Matteo Arnaldi",6,4,86,61,72
+"Vienna","Hard","Frances Tiafoe","Gael Monfils",3,10,131,92,90
+"Vienna","Hard","Jannik Sinner","Lorenzo Sonego",1,6,93,58,64
+"Vienna","Hard","Daniil Medvedev","Arthur Fils",5,4,75,41,63
+"Vienna","Hard","Grigor Dimitrov","Lorenzo Musetti",8,2,93,59,64
+"Vienna","Hard","Jiri Lehecka","J J Wolf",6,3,84,51,66
+"Vienna","Hard","Karen Khachanov","Roman Safiullin",6,7,95,66,62
+"Vienna","Hard","Stefanos Tsitsipas","Dominic Thiem",10,3,118,80,68
+"Vienna","Hard","Tomas Machac","Aleksandar Vukic",7,1,55,39,51
+"Vienna","Hard","Borna Gojo","Aslan Karatsev",6,3,72,48,55
+"Vienna","Hard","Tommy Paul","Alexandre Muller",5,2,70,45,71
+"Vienna","Hard","Alexander Zverev","Sebastian Ofner",4,5,78,43,57
+"Vienna","Hard","Cameron Norrie","Filip Misolic",4,7,144,99,93
+"Vienna","Hard","Matteo Arnaldi","Albert Ramos",11,3,135,95,81
+"Vienna","Hard","Andrey Rublev","Alexei Popyrin",8,8,96,77,65
+"Vienna","Hard","Frances Tiafoe","Daniel Evans",3,1,31,22,17
+"Vienna","Hard","Gael Monfils","Daniel Altmaier",8,4,86,68,55
+"Vienna","Hard","Lorenzo Sonego","Francisco Cerundolo",8,0,139,83,105
+"Vienna","Hard","Jannik Sinner","Ben Shelton",8,11,104,71,78
+"Vienna","Hard","Jannik Sinner","Daniil Medvedev",5,13,186,118,132
+"Paris Masters","Hard","Novak Djokovic","Grigor Dimitrov",6,5,98,48,68
+"Paris Masters","Hard","Novak Djokovic","Andrey Rublev",17,16,181,118,112
+"Paris Masters","Hard","Grigor Dimitrov","Stefanos Tsitsipas",6,12,151,97,102
+"Paris Masters","Hard","Novak Djokovic","Holger Rune",10,8,174,91,98
+"Paris Masters","Hard","Andrey Rublev","Alex De Minaur",4,5,121,79,96
+"Paris Masters","Hard","Grigor Dimitrov","Hubert Hurkacz",9,19,98,71,74
+"Paris Masters","Hard","Stefanos Tsitsipas","Karen Khachanov",4,3,80,53,50
+"Paris Masters","Hard","Novak Djokovic","Tallon Griekspoor",9,12,159,106,97
+"Paris Masters","Hard","Holger Rune","Daniel Altmaier",5,5,80,55,55
+"Paris Masters","Hard","Andrey Rublev","Botic Van De Zandschulp",4,5,64,50,50
+"Paris Masters","Hard","Hubert Hurkacz","Francisco Cerundolo",8,1,68,50,64
+"Paris Masters","Hard","Grigor Dimitrov","Alexander Bublik",2,5,67,49,43
+"Paris Masters","Hard","Stefanos Tsitsipas","Alexander Zverev",10,5,119,71,77
+"Paris Masters","Hard","Karen Khachanov","Roman Safiullin",11,14,127,89,89
+"Paris Masters","Hard","Novak Djokovic","Tomas Martin Etcheverry",6,5,84,52,50
+"Paris Masters","Hard","Tallon Griekspoor","Alejandro Davidovich Fokina",8,2,62,51,55
+"Paris Masters","Hard","Holger Rune","Dominic Thiem",6,4,91,60,54
+"Paris Masters","Hard","Jannik Sinner","Mackenzie Mcdonald",4,8,136,83,90
+"Paris Masters","Hard","Alex De Minaur","Dusan Lajovic",10,4,130,93,90
+"Paris Masters","Hard","Botic Van De Zandschulp","Tommy Paul",4,9,147,97,105
+"Paris Masters","Hard","Andrey Rublev","Yoshihito Nishioka",12,2,66,53,51
+"Paris Masters","Hard","Francisco Cerundolo","Casper Ruud",6,5,91,71,61
+"Paris Masters","Hard","Hubert Hurkacz","Roberto Bautista Agut",19,1,56,51,36
+"Paris Masters","Hard","Alexander Bublik","Nicolas Jarry",10,6,118,83,80
+"Paris Masters","Hard","Grigor Dimitrov","Daniil Medvedev",8,6,174,120,113
+"Paris Masters","Hard","Stefanos Tsitsipas","Felix Auger Aliassime",1,9,108,77,69
+"Paris Masters","Hard","Alexander Zverev","Ugo Humbert",11,14,209,132,121
+"Paris Masters","Hard","Karen Khachanov","Laslo Djere",4,7,110,60,91
+"Paris Masters","Hard","Roman Safiullin","Carlos Alcaraz",1,0,97,59,54
+"Paris Masters","Hard","Tomas Martin Etcheverry","Miomir Kecmanovic",7,6,168,99,99
+"Paris Masters","Hard","Tallon Griekspoor","Christopher Eubanks",10,14,122,94,108
+"Paris Masters","Hard","Alejandro Davidovich Fokina","Ben Shelton",3,15,148,105,89
+"Paris Masters","Hard","Taylor Fritz","Sebastian Baez",8,0,71,58,40
+"Paris Masters","Hard","Daniel Altmaier","Arthur Fils",0,3,77,49,57
+"Paris Masters","Hard","Dominic Thiem","Stan Wawrinka",8,10,151,100,84
+"Paris Masters","Hard","Mackenzie Mcdonald","J J Wolf",9,7,112,61,94
+"Paris Masters","Hard","Dusan Lajovic","Benjamin Bonzi",6,8,87,72,65
+"Paris Masters","Hard","Alex De Minaur","Andy Murray",7,3,180,112,107
+"Paris Masters","Hard","Tommy Paul","Richard Gasquet",12,5,126,77,89
+"Paris Masters","Hard","Botic Van De Zandschulp","Adrian Mannarino",8,5,118,75,70
+"Paris Masters","Hard","Yoshihito Nishioka","Jordan Thompson",2,18,150,93,102
+"Paris Masters","Hard","Francisco Cerundolo","Gael Monfils",1,8,161,127,98
+"Paris Masters","Hard","Roberto Bautista Agut","Jiri Lehecka",3,5,71,40,61
+"Paris Masters","Hard","Hubert Hurkacz","Sebastian Korda",15,11,129,95,98
+"Paris Masters","Hard","Alexander Bublik","Frances Tiafoe",11,4,66,52,55
+"Paris Masters","Hard","Nicolas Jarry","Alexei Popyrin",7,15,126,67,96
+"Paris Masters","Hard","Grigor Dimitrov","Lorenzo Musetti",7,2,138,86,98
+"Paris Masters","Hard","Felix Auger Aliassime","Jan Lennard Struff",17,7,98,67,84
+"Paris Masters","Hard","Ugo Humbert","Marcos Giron",4,1,82,51,60
+"Paris Masters","Hard","Alexander Zverev","Marton Fucsovics",5,3,157,81,101
+"Paris Masters","Hard","Karen Khachanov","Max Purcell",5,9,87,58,64
+"Paris Masters","Hard","Laslo Djere","Luca Van Assche",14,4,159,114,99
+"Paris Masters","Hard","Roman Safiullin","Alexandre Muller",2,6,98,76,71
+"Metz","Hard","Ugo Humbert","Alexander Shevchenko",4,4,67,45,55
+"Metz","Hard","Ugo Humbert","Fabio Fognini",8,2,67,38,56
+"Metz","Hard","Alexander Shevchenko","Pierre Hugues Herbert",8,10,77,59,62
+"Metz","Hard","Fabio Fognini","Lorenzo Sonego",1,4,76,46,51
+"Metz","Hard","Ugo Humbert","Harold Mayot",5,3,86,56,68
+"Metz","Hard","Alexander Shevchenko","Karen Khachanov",3,10,72,56,48
+"Metz","Hard","Pierre Hugues Herbert","Luca Van Assche",20,5,154,97,119
+"Metz","Hard","Fabio Fognini","Alexander Bublik",1,19,175,119,129
+"Metz","Hard","Lorenzo Sonego","Abedallah Shelbayh",10,3,93,60,70
+"Metz","Hard","Ugo Humbert","Dominic Thiem",11,4,160,90,103
+"Metz","Hard","Harold Mayot","Gregoire Barrere",11,13,146,121,120
+"Metz","Hard","Alexander Shevchenko","Mate Valkusz",10,1,102,72,84
+"Metz","Hard","Karen Khachanov","Constant Lestienne",3,9,88,59,68
+"Metz","Hard","Luca Van Assche","Stan Wawrinka",3,8,103,61,67
+"Metz","Hard","Pierre Hugues Herbert","Gijs Brouwer",9,4,87,67,73
+"Metz","Hard","Fabio Fognini","Thiago Seyboth Wild",6,10,127,99,85
+"Metz","Hard","Abedallah Shelbayh","Hugo Gaston",6,0,111,83,73
+"Metz","Hard","Lorenzo Sonego","Marcos Giron",8,2,134,89,83
+"Metz","Hard","Dominic Thiem","Matteo Martineau",6,4,83,49,59
+"Metz","Hard","Harold Mayot","Yosuke Watanuki",6,13,109,91,76
+"Metz","Hard","Gregoire Barrere","Yannick Hanfmann",7,3,99,80,70
+"Metz","Hard","Mate Valkusz","Daniel Altmaier",1,1,71,42,60
+"Metz","Hard","Alexander Shevchenko","Mathias Bourgue",2,4,85,57,79
+"Metz","Hard","Constant Lestienne","Calvin Hemery",9,4,61,56,42
+"Metz","Hard","Stan Wawrinka","Bernabe Zapata Miralles",3,1,51,35,47
+"Metz","Hard","Luca Van Assche","Botic Van De Zandschulp",3,13,162,95,109
+"Metz","Hard","Pierre Hugues Herbert","Arthur Cazaux",8,12,113,78,84
+"Sofia","Hard","Adrian Mannarino","Jack Draper",6,10,137,91,79
+"Sofia","Hard","Jack Draper","Jan Lennard Struff",10,10,84,67,53
+"Sofia","Hard","Adrian Mannarino","Pavel Kotov",7,5,85,56,57
+"Sofia","Hard","Jack Draper","Cem Ilkel",6,1,75,41,55
+"Sofia","Hard","Jan Lennard Struff","Fabian Marozsan",13,6,118,89,101
+"Sofia","Hard","Pavel Kotov","Marton Fucsovics",2,1,112,77,70
+"Sofia","Hard","Adrian Mannarino","Sebastian Ofner",7,7,158,106,108
+"Sofia","Hard","Jack Draper","Lorenzo Musetti",7,0,108,60,71
+"Sofia","Hard","Cem Ilkel","Max Purcell",11,12,126,93,74
+"Sofia","Hard","Jan Lennard Struff","Billy Harris",11,7,97,72,83
+"Sofia","Hard","Fabian Marozsan","Roberto Bautista Agut",8,6,138,89,111
+"Sofia","Hard","Marton Fucsovics","Jurij Rodionov",6,6,131,81,86
+"Sofia","Hard","Pavel Kotov","Sebastian Baez",6,1,97,61,71
+"Sofia","Hard","Sebastian Ofner","Christopher Oconnell",10,11,135,95,94
+"Sofia","Hard","Adrian Mannarino","Albert Ramos",10,3,104,48,79
+"Sofia","Hard","Jack Draper","Maximilian Marterer",7,2,67,40,55
+"Sofia","Hard","Cem Ilkel","Dimitar Kuzmanov",5,5,84,41,70
+"Sofia","Hard","Max Purcell","Rinky Hijikata",7,3,82,57,54
+"Sofia","Hard","Billy Harris","Marc Andrea Huesler",9,12,150,94,121
+"Sofia","Hard","Fabian Marozsan","Zsombor Piros",1,5,66,47,54
+"Sofia","Hard","Roberto Bautista Agut","Miomir Kecmanovic",9,9,196,120,135
+"Sofia","Hard","Marton Fucsovics","Terence Atmane",4,5,92,63,59
+"Sofia","Hard","Jurij Rodionov","Nicolas Moreno De Alboran",10,11,175,118,120
+"Sofia","Hard","Pavel Kotov","Alexandar Lazarov",3,2,107,79,82
+"Sofia","Hard","Sebastian Ofner","Vitaliy Sachko",10,6,113,82,77
+"Sofia","Hard","Christopher Oconnell","Hamad Medjedovic",15,14,156,109,114
+"Sofia","Hard","Albert Ramos","Roberto Carballes Baena",5,5,168,111,81
+"Tour Finals","Hard","Novak Djokovic","Jannik Sinner",13,8,103,46,74
+"Tour Finals","Hard","Jannik Sinner","Daniil Medvedev",10,10,149,104,88
+"Tour Finals","Hard","Novak Djokovic","Carlos Alcaraz",2,10,88,55,56
+"Tour Finals","Hard","Jannik Sinner","Novak Djokovic",15,20,189,118,100
+"Tour Finals","Hard","Novak Djokovic","Hubert Hurkacz",6,24,125,81,89
+"Tour Finals","Hard","Novak Djokovic","Holger Rune",10,18,184,108,109
+"Tour Finals","Hard","Jannik Sinner","Stefanos Tsitsipas",9,6,85,51,61
+"Tour Finals","Hard","Jannik Sinner","Holger Rune",11,15,152,84,109
+"Tour Finals","Hard","Holger Rune","Stefanos Tsitsipas",1,1,17,15,8
+"Tour Finals","Hard","Carlos Alcaraz","Daniil Medvedev",3,3,80,56,56
+"Tour Finals","Hard","Carlos Alcaraz","Andrey Rublev",5,4,74,47,61
+"Tour Finals","Hard","Alexander Zverev","Carlos Alcaraz",16,11,151,97,92
+"Tour Finals","Hard","Daniil Medvedev","Andrey Rublev",10,2,91,64,68
+"Tour Finals","Hard","Daniil Medvedev","Alexander Zverev",4,9,105,70,67
+"Tour Finals","Hard","Alexander Zverev","Andrey Rublev",10,6,101,66,68
+"NextGen Finals","Hard","Hamad Medjedovic","Arthur Fils",19,11,131,92,87
+"NextGen Finals","Hard","Arthur Fils","Luca Van Assche",9,6,97,70,65
+"NextGen Finals","Hard","Hamad Medjedovic","Dominic Stricker",5,6,32,25,33
+"NextGen Finals","Hard","Arthur Fils","Dominic Stricker",8,6,104,77,82
+"NextGen Finals","Hard","Arthur Fils","Flavio Cobolli",5,5,59,48,39
+"NextGen Finals","Hard","Arthur Fils","Luca Nardi",5,5,122,80,90
+"NextGen Finals","Hard","Flavio Cobolli","Dominic Stricker",6,5,98,81,70
+"NextGen Finals","Hard","Dominic Stricker","Luca Nardi",3,1,54,44,48
+"NextGen Finals","Hard","Luca Nardi","Flavio Cobolli",5,3,133,93,97
+"NextGen Finals","Hard","Luca Van Assche","Alex Michelsen",4,3,156,104,97
+"NextGen Finals","Hard","Hamad Medjedovic","Luca Van Assche",13,4,108,74,70
+"NextGen Finals","Hard","Luca Van Assche","Abedallah Shelbayh",9,5,114,81,76
+"NextGen Finals","Hard","Hamad Medjedovic","Alex Michelsen",14,13,149,97,112
+"NextGen Finals","Hard","Abedallah Shelbayh","Alex Michelsen",7,2,67,51,55
+"NextGen Finals","Hard","Hamad Medjedovic","Abedallah Shelbayh",18,9,92,71,76
+"Davis Cup Finals RR: CAN vs CHI","Hard","Alexis Galarneau","Alejandro Tabilo",6,8,NA,76,67
+"Davis Cup Finals RR: CAN vs CHI","Hard","Nicolas Jarry","Gabriel Diallo",10,3,NA,59,56
+"Davis Cup Finals RR: CAN vs ITA","Hard","Alexis Galarneau","Lorenzo Sonego",4,5,NA,73,90
+"Davis Cup Finals RR: CAN vs ITA","Hard","Gabriel Diallo","Lorenzo Musetti",10,3,NA,51,58
+"Davis Cup Finals RR: CAN vs SWE","Hard","Vasek Pospisil","Leo Borg",25,4,NA,83,105
+"Davis Cup Finals RR: CAN vs SWE","Hard","Gabriel Diallo","Elias Ymer",6,7,NA,45,67
+"Davis Cup Finals RR: ITA vs CHI","Hard","Matteo Arnaldi","Cristian Garin",6,5,NA,86,92
+"Davis Cup Finals RR: ITA vs CHI","Hard","Lorenzo Sonego","Nicolas Jarry",5,8,NA,101,92
+"Davis Cup Finals RR: ITA vs SWE","Hard","Matteo Arnaldi","Leo Borg",5,2,NA,65,57
+"Davis Cup Finals RR: ITA vs SWE","Hard","Lorenzo Sonego","Elias Ymer",7,3,NA,56,61
+"Davis Cup Finals RR: SWE vs CHI","Hard","Cristian Garin","Leo Borg",17,12,NA,89,103
+"Davis Cup Finals RR: SWE vs CHI","Hard","Nicolas Jarry","Elias Ymer",6,5,NA,49,49
+"Davis Cup Finals RR: AUS vs FRA","Hard","Adrian Mannarino","Max Purcell",7,14,NA,63,76
+"Davis Cup Finals RR: AUS vs FRA","Hard","Alex De Minaur","Ugo Humbert",2,4,NA,67,59
+"Davis Cup Finals RR: AUS vs GBR","Hard","Jack Draper","Thanasi Kokkinakis",24,17,NA,97,108
+"Davis Cup Finals RR: AUS vs GBR","Hard","Daniel Evans","Alex De Minaur",6,2,NA,80,71
+"Davis Cup Finals RR: AUS vs SUI","Hard","Thanasi Kokkinakis","Dominic Stricker",16,3,NA,71,62
+"Davis Cup Finals RR: AUS vs SUI","Hard","Alex De Minaur","Marc Andrea Huesler",8,12,NA,59,60
+"Davis Cup Finals RR: FRA vs SUI","Hard","Adrian Mannarino","Dominic Stricker",6,8,NA,68,87
+"Davis Cup Finals RR: FRA vs SUI","Hard","Ugo Humbert","Stan Wawrinka",5,7,NA,58,65
+"Davis Cup Finals RR: GBR vs FRA","Hard","Daniel Evans","Arthur Fils",4,8,NA,80,75
+"Davis Cup Finals RR: GBR vs FRA","Hard","Ugo Humbert","Cameron Norrie",20,2,NA,101,119
+"Davis Cup Finals RR: GBR vs SUI","Hard","Andy Murray","Leandro Riedi",3,7,NA,110,119
+"Davis Cup Finals RR: GBR vs SUI","Hard","Stan Wawrinka","Cameron Norrie",18,1,NA,67,66
+"Davis Cup Finals RR: CZE vs KOR","Hard","Tomas Machac","Seong Chan Hong",11,9,NA,92,111
+"Davis Cup Finals RR: CZE vs KOR","Hard","Jiri Lehecka","Soon Woo Kwon",8,5,NA,50,51
+"Davis Cup Finals RR: ESP vs CZE","Hard","Tomas Machac","Bernabe Zapata Miralles",6,2,NA,61,57
+"Davis Cup Finals RR: ESP vs CZE","Hard","Jiri Lehecka","Alejandro Davidovich Fokina",6,1,NA,75,72
+"Davis Cup Finals RR: ESP vs KOR","Hard","Bernabe Zapata Miralles","Seong Chan Hong",1,2,NA,61,59
+"Davis Cup Finals RR: ESP vs KOR","Hard","Alejandro Davidovich Fokina","Soon Woo Kwon",6,5,NA,53,61
+"Davis Cup Finals RR: ESP vs SRB","Hard","Laslo Djere","Albert Ramos",6,2,NA,47,60
+"Davis Cup Finals RR: ESP vs SRB","Hard","Novak Djokovic","Alejandro Davidovich Fokina",10,4,NA,54,62
+"Davis Cup Finals RR: SRB vs CZE","Hard","Jakub Mensik","Dusan Lajovic",11,1,NA,41,46
+"Davis Cup Finals RR: SRB vs CZE","Hard","Jiri Lehecka","Laslo Djere",10,7,NA,77,93
+"Davis Cup Finals RR: SRB vs KOR","Hard","Dusan Lajovic","Seong Chan Hong",3,4,NA,83,78
+"Davis Cup Finals RR: SRB vs KOR","Hard","Laslo Djere","Soon Woo Kwon",16,3,NA,80,78
+"Davis Cup Finals RR: CRO vs FIN","Hard","Otto Virtanen","Dino Prizmic",14,3,NA,100,90
+"Davis Cup Finals RR: CRO vs FIN","Hard","Emil Ruusuvuori","Borna Gojo",11,8,NA,69,66
+"Davis Cup Finals RR: CRO vs NED","Hard","Botic Van De Zandschulp","Duje Ajdukovic",13,7,NA,89,84
+"Davis Cup Finals RR: CRO vs NED","Hard","Borna Gojo","Tallon Griekspoor",18,7,NA,115,95
+"Davis Cup Finals RR: CRO vs USA","Hard","Mackenzie Mcdonald","Dino Prizmic",1,2,NA,55,71
+"Davis Cup Finals RR: CRO vs USA","Hard","Borna Gojo","Frances Tiafoe",14,6,NA,66,76
+"Davis Cup Finals RR: NED vs FIN","Hard","Otto Virtanen","Botic Van De Zandschulp",8,10,NA,69,76
+"Davis Cup Finals RR: NED vs FIN","Hard","Tallon Griekspoor","Emil Ruusuvuori",6,6,NA,73,63
+"Davis Cup Finals RR: NED vs USA","Hard","Botic Van De Zandschulp","Tommy Paul",4,5,NA,65,68
+"Davis Cup Finals RR: NED vs USA","Hard","Tallon Griekspoor","Frances Tiafoe",14,16,NA,98,108
+"Davis Cup Finals RR: USA vs FIN","Hard","Otto Virtanen","Mackenzie Mcdonald",8,4,NA,100,114
+"Davis Cup Finals RR: USA vs FIN","Hard","Emil Ruusuvuori","Tommy Paul",1,11,NA,84,85
+"Davis Cup Finals F: AUS vs ITA","Hard","Matteo Arnaldi","Alexei Popyrin",5,12,NA,107,106
+"Davis Cup Finals F: AUS vs ITA","Hard","Jannik Sinner","Alex De Minaur",5,2,NA,48,57
+"Davis Cup Finals QF: CAN vs FIN","Hard","Milos Raonic","Patrick Kaukovalta",18,11,NA,47,60
+"Davis Cup Finals QF: CAN vs FIN","Hard","Otto Virtanen","Gabriel Diallo",14,2,NA,63,67
+"Davis Cup Finals QF: CZE vs AUS","Hard","Tomas Machac","Jordan Thompson",0,3,NA,68,75
+"Davis Cup Finals QF: CZE vs AUS","Hard","Alex De Minaur","Jiri Lehecka",4,8,NA,101,117
+"Davis Cup Finals SF: FIN vs AUS","Hard","Alexei Popyrin","Otto Virtanen",4,8,NA,66,64
+"Davis Cup Finals SF: FIN vs AUS","Hard","Alex De Minaur","Emil Ruusuvuori",1,1,NA,53,81
+"Davis Cup Finals QF: ITA vs NED","Hard","Botic Van De Zandschulp","Matteo Arnaldi",14,5,NA,105,121
+"Davis Cup Finals QF: ITA vs NED","Hard","Jannik Sinner","Tallon Griekspoor",9,7,NA,50,60
+"Davis Cup Finals SF: ITA vs SRB","Hard","Miomir Kecmanovic","Lorenzo Musetti",5,9,NA,81,103
+"Davis Cup Finals SF: ITA vs SRB","Hard","Jannik Sinner","Novak Djokovic",12,6,NA,105,77
+"Davis Cup Finals QF: SRB vs GBR","Hard","Miomir Kecmanovic","Jack Draper",4,10,NA,74,89
+"Davis Cup Finals QF: SRB vs GBR","Hard","Novak Djokovic","Cameron Norrie",8,4,NA,48,75
+"Davis Cup QLS R1: GER vs SUI","Hard","Alexander Zverev","Stan Wawrinka",8,0,NA,67,50
+"Davis Cup QLS R1: GER vs SUI","Hard","Marc Andrea Huesler","Alexander Zverev",6,7,NA,62,70
+"Davis Cup WG1 R1: GRE vs SVK","Hard","Stefanos Tsitsipas","Lukas Klein",10,5,NA,93,107
+"Davis Cup WG1 PO: IND vs DEN","Hard","Holger Rune","Yuki Bhambri",3,0,NA,37,49

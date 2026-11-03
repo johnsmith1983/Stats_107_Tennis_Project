@@ -1,0 +1,856 @@
+"tourney_name","surface","winner_name","loser_name","w_ace","l_ace","minutes","w_svpt","l_svpt"
+"Cordoba","Clay","Sebastian Baez","Federico Coria",1,0,110,86,67
+"Cordoba","Clay","Sebastian Baez","Hugo Dellien",5,0,90,60,62
+"Cordoba","Clay","Federico Coria","Albert Ramos",8,1,152,66,102
+"Cordoba","Clay","Hugo Dellien","Juan Manuel Cerundolo",1,1,141,97,86
+"Cordoba","Clay","Sebastian Baez","Tomas Barrios Vera",6,2,127,61,95
+"Cordoba","Clay","Albert Ramos","Joao Sousa",4,2,132,74,76
+"Cordoba","Clay","Federico Coria","Francisco Cerundolo",4,1,62,38,50
+"Cordoba","Clay","Juan Manuel Cerundolo","Diego Schwartzman",6,1,100,64,67
+"Cordoba","Clay","Hugo Dellien","Guido Pella",3,2,89,64,55
+"Cordoba","Clay","Sebastian Baez","Luciano Darderi",4,1,85,59,59
+"Cordoba","Clay","Tomas Barrios Vera","Bernabe Zapata Miralles",0,1,161,101,100
+"Cordoba","Clay","Joao Sousa","Cristian Garin",1,2,122,77,76
+"Cordoba","Clay","Albert Ramos","Dusan Lajovic",4,4,130,81,73
+"Cordoba","Clay","Federico Coria","Marco Cecchinato",2,0,50,31,42
+"Cordoba","Clay","Francisco Cerundolo","Federico Delbonis",9,0,151,96,107
+"Cordoba","Clay","Juan Manuel Cerundolo","Pablo Andujar",1,0,53,45,29
+"Cordoba","Clay","Guido Pella","Andrea Vavassori",1,2,80,51,53
+"Cordoba","Clay","Hugo Dellien","Pedro Cachin",3,3,83,57,55
+"Cordoba","Clay","Luciano Darderi","Hugo Gaston",4,4,76,58,49
+"Cordoba","Clay","Tomas Barrios Vera","Daniel Elahi Galan",2,6,129,76,81
+"Cordoba","Clay","Bernabe Zapata Miralles","Roberto Carballes Baena",6,3,206,106,111
+"Cordoba","Clay","Cristian Garin","Pedro Martinez",5,2,150,84,91
+"Cordoba","Clay","Joao Sousa","Tomas Martin Etcheverry",6,10,186,102,94
+"Cordoba","Clay","Dusan Lajovic","Juan Pablo Varillas",3,4,122,81,64
+"Cordoba","Clay","Federico Coria","Thiago Monteiro",12,4,163,98,94
+"Cordoba","Clay","Marco Cecchinato","Facundo Bagnis",6,5,92,64,70
+"Cordoba","Clay","Federico Delbonis","Alejandro Tabilo",4,13,183,107,128
+"Buenos Aires","Clay","Carlos Alcaraz","Cameron Norrie",3,2,93,59,63
+"Buenos Aires","Clay","Carlos Alcaraz","Bernabe Zapata Miralles",3,1,76,48,49
+"Buenos Aires","Clay","Cameron Norrie","Juan Pablo Varillas",3,5,113,65,78
+"Buenos Aires","Clay","Carlos Alcaraz","Dusan Lajovic",1,1,93,51,70
+"Buenos Aires","Clay","Bernabe Zapata Miralles","Francisco Cerundolo",0,3,153,118,100
+"Buenos Aires","Clay","Juan Pablo Varillas","Lorenzo Musetti",2,2,106,66,64
+"Buenos Aires","Clay","Cameron Norrie","Tomas Martin Etcheverry",4,6,153,95,96
+"Buenos Aires","Clay","Carlos Alcaraz","Laslo Djere",4,6,120,73,77
+"Buenos Aires","Clay","Dusan Lajovic","Camilo Ugo Carabelli",0,0,100,60,62
+"Buenos Aires","Clay","Bernabe Zapata Miralles","Diego Schwartzman",0,0,77,45,51
+"Buenos Aires","Clay","Francisco Cerundolo","Jaume Munar",1,0,76,49,52
+"Buenos Aires","Clay","Juan Pablo Varillas","Dominic Thiem",1,0,107,59,60
+"Buenos Aires","Clay","Lorenzo Musetti","Pedro Cachin",1,1,85,55,48
+"Buenos Aires","Clay","Tomas Martin Etcheverry","Roberto Carballes Baena",5,2,153,78,78
+"Buenos Aires","Clay","Cameron Norrie","Facundo Diaz Acosta",5,5,179,119,105
+"Buenos Aires","Clay","Laslo Djere","Fabio Fognini",3,1,97,65,57
+"Buenos Aires","Clay","Camilo Ugo Carabelli","Daniel Elahi Galan",0,1,121,72,65
+"Buenos Aires","Clay","Dusan Lajovic","Sebastian Baez",1,3,150,90,120
+"Buenos Aires","Clay","Bernabe Zapata Miralles","Pedro Martinez",3,1,160,85,102
+"Buenos Aires","Clay","Jaume Munar","Guido Pella",1,1,122,63,71
+"Buenos Aires","Clay","Francisco Cerundolo","Yannick Hanfmann",4,1,153,102,110
+"Buenos Aires","Clay","Dominic Thiem","Alex Molcan",5,4,104,70,54
+"Buenos Aires","Clay","Juan Pablo Varillas","Joao Sousa",4,0,102,60,73
+"Buenos Aires","Clay","Pedro Cachin","Thiago Monteiro",5,3,117,64,66
+"Buenos Aires","Clay","Roberto Carballes Baena","Albert Ramos",11,2,136,94,69
+"Buenos Aires","Clay","Tomas Martin Etcheverry","Hugo Dellien",9,1,141,73,98
+"Buenos Aires","Clay","Facundo Diaz Acosta","Federico Coria",3,0,121,73,80
+"Rio De Janeiro","Clay","Cameron Norrie","Carlos Alcaraz",3,4,161,105,115
+"Rio De Janeiro","Clay","Carlos Alcaraz","Nicolas Jarry",5,4,162,94,95
+"Rio De Janeiro","Clay","Cameron Norrie","Bernabe Zapata Miralles",8,5,149,84,104
+"Rio De Janeiro","Clay","Carlos Alcaraz","Dusan Lajovic",1,1,114,77,68
+"Rio De Janeiro","Clay","Nicolas Jarry","Sebastian Baez",6,2,103,63,70
+"Rio De Janeiro","Clay","Bernabe Zapata Miralles","Albert Ramos",2,3,151,80,98
+"Rio De Janeiro","Clay","Cameron Norrie","Hugo Dellien",3,2,115,83,70
+"Rio De Janeiro","Clay","Carlos Alcaraz","Fabio Fognini",2,1,167,93,111
+"Rio De Janeiro","Clay","Dusan Lajovic","Laslo Djere",1,1,79,58,51
+"Rio De Janeiro","Clay","Nicolas Jarry","Pedro Martinez",7,2,91,49,60
+"Rio De Janeiro","Clay","Sebastian Baez","Juan Pablo Varillas",3,1,131,80,77
+"Rio De Janeiro","Clay","Albert Ramos","Daniel Elahi Galan",1,6,81,48,59
+"Rio De Janeiro","Clay","Bernabe Zapata Miralles","Francisco Cerundolo",1,1,103,69,70
+"Rio De Janeiro","Clay","Hugo Dellien","Alex Molcan",5,1,119,75,65
+"Rio De Janeiro","Clay","Cameron Norrie","Thiago Monteiro",4,9,150,73,99
+"Rio De Janeiro","Clay","Carlos Alcaraz","Mateus Alves",4,5,116,57,75
+"Rio De Janeiro","Clay","Fabio Fognini","Tomas Barrios Vera",3,2,90,53,53
+"Rio De Janeiro","Clay","Laslo Djere","Facundo Bagnis",6,2,65,31,49
+"Rio De Janeiro","Clay","Dusan Lajovic","Diego Schwartzman",4,0,87,54,52
+"Rio De Janeiro","Clay","Nicolas Jarry","Lorenzo Musetti",4,4,73,39,54
+"Rio De Janeiro","Clay","Pedro Martinez","Cristian Garin",2,8,145,93,76
+"Rio De Janeiro","Clay","Juan Pablo Varillas","Hugo Gaston",5,5,121,71,77
+"Rio De Janeiro","Clay","Sebastian Baez","Thomaz Bellucci",1,0,95,52,71
+"Rio De Janeiro","Clay","Albert Ramos","Tomas Martin Etcheverry",2,11,204,125,101
+"Rio De Janeiro","Clay","Daniel Elahi Galan","Pedro Cachin",4,5,126,77,78
+"Rio De Janeiro","Clay","Bernabe Zapata Miralles","Jaume Munar",1,0,114,66,64
+"Rio De Janeiro","Clay","Francisco Cerundolo","Roberto Carballes Baena",1,1,157,92,101
+"Rio De Janeiro","Clay","Alex Molcan","Joao Fonseca",0,2,72,46,49
+"Rio De Janeiro","Clay","Hugo Dellien","Joao Sousa",2,0,65,41,46
+"Rio De Janeiro","Clay","Thiago Monteiro","Dominic Thiem",5,9,164,95,86
+"Rio De Janeiro","Clay","Cameron Norrie","Juan Manuel Cerundolo",3,4,88,56,67
+"Santiago","Clay","Nicolas Jarry","Tomas Martin Etcheverry",6,9,166,94,109
+"Santiago","Clay","Nicolas Jarry","Jaume Munar",9,2,157,90,100
+"Santiago","Clay","Tomas Martin Etcheverry","Sebastian Baez",4,0,98,60,55
+"Santiago","Clay","Jaume Munar","Thiago Monteiro",4,5,160,97,76
+"Santiago","Clay","Nicolas Jarry","Yannick Hanfmann",8,4,141,91,92
+"Santiago","Clay","Sebastian Baez","Laslo Djere",2,4,114,64,83
+"Santiago","Clay","Tomas Martin Etcheverry","Dusan Lajovic",6,0,84,55,48
+"Santiago","Clay","Jaume Munar","Lorenzo Musetti",0,2,90,61,52
+"Santiago","Clay","Thiago Monteiro","Marco Cecchinato",7,3,116,68,78
+"Santiago","Clay","Nicolas Jarry","Diego Schwartzman",10,0,186,107,121
+"Santiago","Clay","Yannick Hanfmann","Roberto Carballes Baena",5,3,116,64,71
+"Santiago","Clay","Laslo Djere","Riccardo Bonadio",8,1,108,76,74
+"Santiago","Clay","Sebastian Baez","Cristian Garin",3,3,82,44,64
+"Santiago","Clay","Dusan Lajovic","Juan Manuel Cerundolo",6,2,158,108,119
+"Santiago","Clay","Tomas Martin Etcheverry","Francisco Cerundolo",5,3,148,88,95
+"Santiago","Clay","Jaume Munar","Alejandro Tabilo",4,3,162,100,102
+"Santiago","Clay","Marco Cecchinato","Facundo Bagnis",8,2,139,80,104
+"Santiago","Clay","Thiago Monteiro","Albert Ramos",7,7,180,113,93
+"Santiago","Clay","Nicolas Jarry","Juan Pablo Varillas",12,6,115,81,65
+"Santiago","Clay","Yannick Hanfmann","Pedro Martinez",9,1,95,52,68
+"Santiago","Clay","Roberto Carballes Baena","Carlos Taberner",2,0,30,19,19
+"Santiago","Clay","Laslo Djere","Joao Sousa",6,1,77,44,57
+"Santiago","Clay","Riccardo Bonadio","Daniel Elahi Galan",2,4,107,70,75
+"Santiago","Clay","Cristian Garin","Dominic Thiem",4,3,103,56,72
+"Santiago","Clay","Juan Manuel Cerundolo","Pedro Cachin",4,9,122,81,72
+"Santiago","Clay","Dusan Lajovic","Camilo Ugo Carabelli",0,0,73,45,47
+"Santiago","Clay","Tomas Martin Etcheverry","Fabio Fognini",5,3,107,58,65
+"Estoril","Clay","Casper Ruud","Miomir Kecmanovic",3,1,108,66,68
+"Estoril","Clay","Casper Ruud","Quentin Halys",3,16,130,90,87
+"Estoril","Clay","Miomir Kecmanovic","Marco Cecchinato",5,2,68,46,54
+"Estoril","Clay","Casper Ruud","Sebastian Baez",2,1,78,59,49
+"Estoril","Clay","Quentin Halys","Dominic Thiem",5,3,78,52,50
+"Estoril","Clay","Marco Cecchinato","Alejandro Davidovich Fokina",3,3,128,85,84
+"Estoril","Clay","Miomir Kecmanovic","Bernabe Zapata Miralles",2,2,86,51,67
+"Estoril","Clay","Casper Ruud","Joao Sousa",4,4,135,76,99
+"Estoril","Clay","Sebastian Baez","Pedro Cachin",0,2,133,79,81
+"Estoril","Clay","Quentin Halys","Roberto Bautista Agut",14,2,101,76,68
+"Estoril","Clay","Dominic Thiem","Ben Shelton",1,0,63,36,53
+"Estoril","Clay","Marco Cecchinato","Fabio Fognini",11,1,117,86,76
+"Estoril","Clay","Alejandro Davidovich Fokina","Luca Van Assche",2,0,112,86,68
+"Estoril","Clay","Miomir Kecmanovic","Jurij Rodionov",5,3,63,44,46
+"Estoril","Clay","Bernabe Zapata Miralles","Hubert Hurkacz",2,7,147,118,100
+"Estoril","Clay","Joao Sousa","Giulio Zeppieri",2,3,107,78,71
+"Estoril","Clay","Pedro Cachin","Chun Hsin Tseng",6,0,96,53,70
+"Estoril","Clay","Sebastian Baez","Radu Albot",2,0,133,80,82
+"Estoril","Clay","Quentin Halys","Nuno Borges",8,5,78,61,64
+"Estoril","Clay","Dominic Thiem","Sebastian Ofner",4,2,124,83,91
+"Estoril","Clay","Ben Shelton","Constant Lestienne",8,3,94,66,64
+"Estoril","Clay","Marco Cecchinato","Diego Schwartzman",5,2,123,98,63
+"Estoril","Clay","Fabio Fognini","Alessandro Giannessi",1,1,57,35,50
+"Estoril","Clay","Luca Van Assche","Pedro Sousa",1,0,125,84,91
+"Estoril","Clay","Miomir Kecmanovic","Luca Nardi",2,1,69,54,55
+"Estoril","Clay","Jurij Rodionov","Albert Ramos",8,1,140,92,99
+"Estoril","Clay","Bernabe Zapata Miralles","Henrique Rocha",0,0,96,76,54
+"Houston","Clay","Frances Tiafoe","Tomas Martin Etcheverry",12,6,113,73,78
+"Houston","Clay","Frances Tiafoe","Gijs Brouwer",5,4,58,41,56
+"Houston","Clay","Tomas Martin Etcheverry","Yannick Hanfmann",6,1,94,58,50
+"Houston","Clay","Frances Tiafoe","Jason Kubler",9,11,88,55,73
+"Houston","Clay","Gijs Brouwer","J J Wolf",8,2,76,57,48
+"Houston","Clay","Tomas Martin Etcheverry","Cristian Garin",12,3,156,103,84
+"Houston","Clay","Yannick Hanfmann","Tomas Machac",7,1,64,43,46
+"Houston","Clay","Frances Tiafoe","Steve Johnson",9,5,74,51,58
+"Houston","Clay","Jason Kubler","Daniel Elahi Galan",3,6,80,61,50
+"Houston","Clay","Gijs Brouwer","John Isner",5,7,76,63,57
+"Houston","Clay","J J Wolf","Denis Kudla",6,2,76,49,45
+"Houston","Clay","Tomas Martin Etcheverry","Max Purcell",4,6,109,66,80
+"Houston","Clay","Cristian Garin","Zizou Bergs",5,4,127,90,74
+"Houston","Clay","Tomas Machac","Marcos Giron",3,8,106,83,71
+"Houston","Clay","Yannick Hanfmann","Tommy Paul",1,4,120,71,85
+"Houston","Clay","Steve Johnson","Facundo Bagnis",4,12,113,85,79
+"Houston","Clay","Daniel Elahi Galan","Zhizhen Zhang",12,2,81,50,67
+"Houston","Clay","Jason Kubler","Fernando Verdasco",3,0,99,56,65
+"Houston","Clay","Gijs Brouwer","Aleksandar Kovacevic",3,9,75,61,64
+"Houston","Clay","Denis Kudla","Aleksandar Vukic",5,12,115,83,77
+"Houston","Clay","J J Wolf","Jordan Thompson",6,5,74,48,44
+"Houston","Clay","Tomas Martin Etcheverry","Juan Manuel Cerundolo",2,3,107,64,66
+"Houston","Clay","Max Purcell","Daniel Altmaier",5,9,132,82,92
+"Houston","Clay","Cristian Garin","Hugo Dellien",6,1,63,33,59
+"Houston","Clay","Marcos Giron","Emilio Gomez",4,1,63,47,46
+"Houston","Clay","Tomas Machac","Jack Sock",4,4,89,59,55
+"Houston","Clay","Yannick Hanfmann","Yosuke Watanuki",5,6,122,74,82
+"Marrakech","Clay","Roberto Carballes Baena","Alexandre Muller",2,8,181,96,112
+"Marrakech","Clay","Alexandre Muller","Pavel Kotov",1,4,121,82,65
+"Marrakech","Clay","Roberto Carballes Baena","Daniel Evans",1,2,156,78,94
+"Marrakech","Clay","Alexandre Muller","Lorenzo Musetti",0,1,113,72,80
+"Marrakech","Clay","Pavel Kotov","Christopher Oconnell",4,2,173,109,102
+"Marrakech","Clay","Roberto Carballes Baena","Tallon Griekspoor",1,4,128,82,75
+"Marrakech","Clay","Daniel Evans","Andrea Vavassori",0,2,108,60,83
+"Marrakech","Clay","Lorenzo Musetti","Hugo Gaston",0,0,78,42,52
+"Marrakech","Clay","Alexandre Muller","Francesco Passaro",4,5,78,61,55
+"Marrakech","Clay","Christopher Oconnell","Botic Van De Zandschulp",4,7,161,110,94
+"Marrakech","Clay","Pavel Kotov","Benjamin Bonzi",2,1,88,50,56
+"Marrakech","Clay","Roberto Carballes Baena","Dimitar Kuzmanov",0,0,5,5,4
+"Marrakech","Clay","Tallon Griekspoor","Elias Ymer",4,4,115,82,78
+"Marrakech","Clay","Andrea Vavassori","Jaume Munar",5,2,192,116,117
+"Marrakech","Clay","Daniel Evans","Alexei Popyrin",3,5,75,49,52
+"Marrakech","Clay","Hugo Gaston","Jan Lennard Struff",5,12,127,94,90
+"Marrakech","Clay","Francesco Passaro","Aslan Karatsev",3,4,143,91,109
+"Marrakech","Clay","Alexandre Muller","Richard Gasquet",5,1,100,62,73
+"Marrakech","Clay","Christopher Oconnell","Riccardo Bonadio",6,1,98,67,71
+"Marrakech","Clay","Pavel Kotov","Pedro Martinez",5,1,161,93,98
+"Marrakech","Clay","Benjamin Bonzi","Alexey Vatutin",5,0,81,61,71
+"Marrakech","Clay","Roberto Carballes Baena","Maxime Cressy",3,9,138,83,97
+"Marrakech","Clay","Dimitar Kuzmanov","Hugo Grenier",1,3,100,61,51
+"Marrakech","Clay","Elias Ymer","Adam Moundir",8,1,96,80,74
+"Marrakech","Clay","Andrea Vavassori","Nicolas Jarry",4,4,122,87,66
+"Marrakech","Clay","Jaume Munar","Elliot Benchetrit",4,0,90,54,63
+"Marrakech","Clay","Alexei Popyrin","Younes Lalami Laaroussi",4,1,71,44,52
+"Monte Carlo Masters","Clay","Andrey Rublev","Holger Rune",5,6,154,95,112
+"Monte Carlo Masters","Clay","Holger Rune","Jannik Sinner",4,0,166,86,116
+"Monte Carlo Masters","Clay","Andrey Rublev","Taylor Fritz",2,5,127,88,96
+"Monte Carlo Masters","Clay","Jannik Sinner","Lorenzo Musetti",1,1,75,55,42
+"Monte Carlo Masters","Clay","Holger Rune","Daniil Medvedev",1,1,77,52,58
+"Monte Carlo Masters","Clay","Andrey Rublev","Jan Lennard Struff",7,6,99,70,74
+"Monte Carlo Masters","Clay","Taylor Fritz","Stefanos Tsitsipas",3,1,70,45,47
+"Monte Carlo Masters","Clay","Lorenzo Musetti","Novak Djokovic",6,1,174,103,94
+"Monte Carlo Masters","Clay","Jannik Sinner","Hubert Hurkacz",3,15,147,89,115
+"Monte Carlo Masters","Clay","Daniil Medvedev","Alexander Zverev",3,4,185,103,115
+"Monte Carlo Masters","Clay","Andrey Rublev","Karen Khachanov",5,2,90,63,64
+"Monte Carlo Masters","Clay","Jan Lennard Struff","Casper Ruud",3,3,103,67,77
+"Monte Carlo Masters","Clay","Taylor Fritz","Jiri Lehecka",5,2,102,81,68
+"Monte Carlo Masters","Clay","Stefanos Tsitsipas","Nicolas Jarry",8,3,93,61,72
+"Monte Carlo Masters","Clay","Novak Djokovic","Ivan Gakhov",4,5,107,65,77
+"Monte Carlo Masters","Clay","Lorenzo Musetti","Luca Nardi",1,0,50,33,38
+"Monte Carlo Masters","Clay","Hubert Hurkacz","Jack Draper",20,5,148,109,105
+"Monte Carlo Masters","Clay","Jannik Sinner","Diego Schwartzman",2,0,42,25,26
+"Monte Carlo Masters","Clay","Daniil Medvedev","Lorenzo Sonego",2,0,88,53,58
+"Monte Carlo Masters","Clay","Alexander Zverev","Roberto Bautista Agut",11,2,107,65,67
+"Monte Carlo Masters","Clay","Matteo Berrettini","Francisco Cerundolo",3,2,162,100,120
+"Monte Carlo Masters","Clay","Holger Rune","Dominic Thiem",0,2,95,56,58
+"Monte Carlo Masters","Clay","Andrey Rublev","Jaume Munar",1,1,135,90,73
+"Monte Carlo Masters","Clay","Karen Khachanov","Ilya Ivashka",3,0,100,70,61
+"Monte Carlo Masters","Clay","Jan Lennard Struff","Alex De Minaur",6,1,69,47,53
+"Monte Carlo Masters","Clay","Casper Ruud","Botic Van De Zandschulp",2,3,135,83,82
+"Monte Carlo Masters","Clay","Taylor Fritz","Stan Wawrinka",8,2,98,68,72
+"Monte Carlo Masters","Clay","Jiri Lehecka","Grigor Dimitrov",2,3,100,73,71
+"Monte Carlo Masters","Clay","Nicolas Jarry","Alexei Popyrin",7,10,149,87,96
+"Monte Carlo Masters","Clay","Stefanos Tsitsipas","Benjamin Bonzi",1,1,22,15,16
+"Monte Carlo Masters","Clay","Ivan Gakhov","Mackenzie Mcdonald",7,9,120,98,80
+"Monte Carlo Masters","Clay","Luca Nardi","Valentin Vacherot",1,4,110,72,85
+"Monte Carlo Masters","Clay","Lorenzo Musetti","Miomir Kecmanovic",6,1,89,59,54
+"Monte Carlo Masters","Clay","Hubert Hurkacz","Laslo Djere",14,2,198,123,150
+"Monte Carlo Masters","Clay","Jack Draper","Sebastian Baez",6,1,111,91,59
+"Monte Carlo Masters","Clay","Diego Schwartzman","David Goffin",3,1,102,65,61
+"Monte Carlo Masters","Clay","Lorenzo Sonego","Ugo Humbert",4,2,179,105,102
+"Monte Carlo Masters","Clay","Roberto Bautista Agut","Filip Krajinovic",7,4,172,100,110
+"Monte Carlo Masters","Clay","Alexander Zverev","Alexander Bublik",3,7,120,69,88
+"Monte Carlo Masters","Clay","Francisco Cerundolo","Cameron Norrie",4,1,72,50,48
+"Monte Carlo Masters","Clay","Matteo Berrettini","Maxime Cressy",3,6,86,53,65
+"Monte Carlo Masters","Clay","Dominic Thiem","Richard Gasquet",6,1,89,55,60
+"Monte Carlo Masters","Clay","Jaume Munar","Marc Andrea Huesler",4,4,175,118,110
+"Monte Carlo Masters","Clay","Ilya Ivashka","Daniel Evans",1,3,113,80,61
+"Monte Carlo Masters","Clay","Karen Khachanov","Alejandro Davidovich Fokina",1,1,74,57,49
+"Monte Carlo Masters","Clay","Alex De Minaur","Andy Murray",1,1,86,43,48
+"Monte Carlo Masters","Clay","Jan Lennard Struff","Albert Ramos",7,1,88,62,55
+"Monte Carlo Masters","Clay","Botic Van De Zandschulp","Marton Fucsovics",2,1,157,90,95
+"Monte Carlo Masters","Clay","Stan Wawrinka","Tallon Griekspoor",9,7,146,123,82
+"Monte Carlo Masters","Clay","Grigor Dimitrov","Ben Shelton",10,9,131,74,108
+"Monte Carlo Masters","Clay","Jiri Lehecka","Emil Ruusuvuori",3,1,91,71,59
+"Monte Carlo Masters","Clay","Nicolas Jarry","Borna Coric",4,3,77,43,48
+"Monte Carlo Masters","Clay","Alexei Popyrin","Dusan Lajovic",13,2,110,81,68
+"Monte Carlo Masters","Clay","Benjamin Bonzi","Bernabe Zapata Miralles",2,1,85,49,74
+"Barcelona","Clay","Carlos Alcaraz","Stefanos Tsitsipas",3,1,78,48,53
+"Barcelona","Clay","Carlos Alcaraz","Daniel Evans",4,0,80,51,49
+"Barcelona","Clay","Stefanos Tsitsipas","Lorenzo Musetti",5,0,148,92,95
+"Barcelona","Clay","Carlos Alcaraz","Alejandro Davidovich Fokina",1,1,130,88,78
+"Barcelona","Clay","Daniel Evans","Francisco Cerundolo",2,3,130,87,92
+"Barcelona","Clay","Stefanos Tsitsipas","Alex De Minaur",1,0,81,51,57
+"Barcelona","Clay","Carlos Alcaraz","Roberto Bautista Agut",3,1,113,75,69
+"Barcelona","Clay","Alejandro Davidovich Fokina","Emil Ruusuvuori",1,3,85,60,56
+"Barcelona","Clay","Francisco Cerundolo","Casper Ruud",1,2,113,79,82
+"Barcelona","Clay","Daniel Evans","Karen Khachanov",5,5,88,68,46
+"Barcelona","Clay","Lorenzo Musetti","Cameron Norrie",1,2,124,91,70
+"Barcelona","Clay","Jannik Sinner","Yoshihito Nishioka",4,0,128,73,93
+"Barcelona","Clay","Stefanos Tsitsipas","Denis Shapovalov",1,5,77,56,63
+"Barcelona","Clay","Carlos Alcaraz","Nuno Borges",0,0,63,43,47
+"Barcelona","Clay","Roberto Bautista Agut","Bernabe Zapata Miralles",1,2,61,43,45
+"Barcelona","Clay","Alejandro Davidovich Fokina","Tomas Martin Etcheverry",0,4,91,53,62
+"Barcelona","Clay","Emil Ruusuvuori","Frances Tiafoe",11,4,165,120,109
+"Barcelona","Clay","Casper Ruud","Ben Shelton",0,3,99,69,69
+"Barcelona","Clay","Francisco Cerundolo","Francesco Passaro",0,1,71,52,58
+"Barcelona","Clay","Daniel Evans","Matteo Arnaldi",4,3,108,71,70
+"Barcelona","Clay","Karen Khachanov","Nicolas Jarry",2,4,94,60,62
+"Barcelona","Clay","Cameron Norrie","Pavel Kotov",2,2,73,52,55
+"Barcelona","Clay","Lorenzo Musetti","Jason Kubler",2,1,73,47,47
+"Barcelona","Clay","Yoshihito Nishioka","David Goffin",3,2,75,50,58
+"Barcelona","Clay","Jannik Sinner","Diego Schwartzman",1,1,100,60,60
+"Barcelona","Clay","Alex De Minaur","Alexander Shevchenko",0,0,62,40,50
+"Barcelona","Clay","Grigor Dimitrov","Emilio Gomez",6,1,63,42,47
+"Barcelona","Clay","Denis Shapovalov","Jozef Kovalik",13,2,80,68,53
+"Barcelona","Clay","Stefanos Tsitsipas","Pedro Cachin",1,2,78,54,55
+"Barcelona","Clay","Nuno Borges","Ilya Ivashka",2,4,85,47,87
+"Barcelona","Clay","Bernabe Zapata Miralles","Attila Balazs",0,1,74,52,51
+"Barcelona","Clay","Tomas Martin Etcheverry","Pablo Andujar",3,0,120,78,64
+"Barcelona","Clay","Emil Ruusuvuori","Alexander Bublik",0,1,55,47,38
+"Barcelona","Clay","Ben Shelton","Mackenzie Mcdonald",9,1,98,68,68
+"Barcelona","Clay","Francesco Passaro","Fernando Verdasco",3,1,62,39,42
+"Barcelona","Clay","Matteo Arnaldi","Jaume Munar",1,0,117,78,61
+"Barcelona","Clay","Nicolas Jarry","Marco Trungelliti",5,3,110,65,68
+"Barcelona","Clay","Pavel Kotov","Oleksii Krutykh",6,2,145,81,96
+"Barcelona","Clay","Jason Kubler","Daniel Rincon",2,5,81,51,60
+"Barcelona","Clay","David Goffin","Feliciano Lopez",8,11,135,81,107
+"Barcelona","Clay","Diego Schwartzman","Yibing Wu",0,1,79,42,65
+"Barcelona","Clay","Alexander Shevchenko","Lorenzo Giustino",6,1,63,43,46
+"Barcelona","Clay","Emilio Gomez","Albert Ramos",2,4,120,69,84
+"Barcelona","Clay","Jozef Kovalik","Pedro Martinez",3,0,171,106,91
+"Barcelona","Clay","Pedro Cachin","Gijs Brouwer",4,3,78,68,62
+"Munich","Clay","Holger Rune","Botic Van De Zandschulp",4,3,172,96,113
+"Munich","Clay","Holger Rune","Christopher Oconnell",3,1,79,64,44
+"Munich","Clay","Botic Van De Zandschulp","Taylor Fritz",2,7,108,79,67
+"Munich","Clay","Holger Rune","Cristian Garin",2,1,93,68,58
+"Munich","Clay","Christopher Oconnell","Flavio Cobolli",5,10,147,104,101
+"Munich","Clay","Botic Van De Zandschulp","Marcos Giron",1,2,111,62,87
+"Munich","Clay","Taylor Fritz","Dominic Thiem",1,2,92,67,58
+"Munich","Clay","Holger Rune","Yannick Hanfmann",2,0,84,58,60
+"Munich","Clay","Cristian Garin","Lorenzo Sonego",0,2,107,73,61
+"Munich","Clay","Christopher Oconnell","Alexander Zverev",1,9,116,75,68
+"Munich","Clay","Flavio Cobolli","Oscar Otte",2,2,106,83,75
+"Munich","Clay","Marcos Giron","Alexander Ritschard",6,5,131,78,97
+"Munich","Clay","Botic Van De Zandschulp","Aslan Karatsev",3,2,68,51,42
+"Munich","Clay","Dominic Thiem","Marc Andrea Huesler",5,8,155,95,102
+"Munich","Clay","Taylor Fritz","Marton Fucsovics",9,2,119,81,86
+"Munich","Clay","Yannick Hanfmann","Thiago Monteiro",10,5,179,91,118
+"Munich","Clay","Cristian Garin","Marko Topo",2,4,86,54,71
+"Munich","Clay","Lorenzo Sonego","Quentin Halys",5,10,149,97,99
+"Munich","Clay","Christopher Oconnell","Ugo Humbert",6,1,79,51,58
+"Munich","Clay","Flavio Cobolli","Jordan Thompson",2,5,84,66,51
+"Munich","Clay","Oscar Otte","Sebastian Baez",5,0,86,72,58
+"Munich","Clay","Marcos Giron","Roberto Carballes Baena",5,3,132,80,84
+"Munich","Clay","Alexander Ritschard","Jan Lennard Struff",9,10,120,88,83
+"Munich","Clay","Aslan Karatsev","Daniel Altmaier",3,4,179,119,105
+"Munich","Clay","Marc Andrea Huesler","Kyle Edmund",8,8,136,86,106
+"Munich","Clay","Dominic Thiem","Constant Lestienne",2,0,44,29,27
+"Munich","Clay","Marton Fucsovics","Max Hans Rehberg",4,1,157,98,109
+"Banja Luka","Clay","Dusan Lajovic","Andrey Rublev",1,5,152,94,105
+"Banja Luka","Clay","Dusan Lajovic","Miomir Kecmanovic",1,3,179,123,103
+"Banja Luka","Clay","Andrey Rublev","Alex Molcan",5,3,89,57,71
+"Banja Luka","Clay","Dusan Lajovic","Novak Djokovic",3,3,149,102,85
+"Banja Luka","Clay","Miomir Kecmanovic","Jiri Lehecka",2,1,93,73,57
+"Banja Luka","Clay","Alex Molcan","Laslo Djere",2,4,149,92,86
+"Banja Luka","Clay","Andrey Rublev","Damir Dzumhur",1,0,111,81,71
+"Banja Luka","Clay","Novak Djokovic","Luca Van Assche",4,0,158,79,104
+"Banja Luka","Clay","Dusan Lajovic","Gregoire Barrere",4,0,64,49,53
+"Banja Luka","Clay","Miomir Kecmanovic","Abedallah Shelbayh",1,2,124,70,95
+"Banja Luka","Clay","Jiri Lehecka","Radu Albot",3,0,60,41,47
+"Banja Luka","Clay","Alex Molcan","Alexei Popyrin",2,12,177,117,111
+"Banja Luka","Clay","Laslo Djere","Borna Coric",3,0,195,107,112
+"Banja Luka","Clay","Damir Dzumhur","Richard Gasquet",0,4,161,98,109
+"Banja Luka","Clay","Andrey Rublev","Juan Pablo Varillas",3,2,69,51,52
+"Banja Luka","Clay","Luca Van Assche","Stan Wawrinka",0,4,162,99,99
+"Banja Luka","Clay","Dusan Lajovic","Filip Krajinovic",4,0,133,79,82
+"Banja Luka","Clay","Gregoire Barrere","Hamad Medjedovic",3,10,125,85,81
+"Banja Luka","Clay","Abedallah Shelbayh","Elias Ymer",3,0,91,55,63
+"Banja Luka","Clay","Radu Albot","Federico Coria",0,1,59,35,40
+"Banja Luka","Clay","Jiri Lehecka","Gael Monfils",1,2,79,57,61
+"Banja Luka","Clay","Alexei Popyrin","Tallon Griekspoor",7,1,132,77,95
+"Banja Luka","Clay","Alex Molcan","Taro Daniel",2,5,160,105,83
+"Banja Luka","Clay","Laslo Djere","Roman Safiullin",2,1,89,54,65
+"Banja Luka","Clay","Richard Gasquet","Dino Prizmic",1,1,95,56,55
+"Banja Luka","Clay","Damir Dzumhur","Liam Broady",1,0,67,50,50
+"Banja Luka","Clay","Juan Pablo Varillas","Hugo Gaston",6,2,104,66,71
+"Madrid Masters","Clay","Carlos Alcaraz","Jan Lennard Struff",2,4,145,91,104
+"Madrid Masters","Clay","Carlos Alcaraz","Borna Coric",4,2,100,58,62
+"Madrid Masters","Clay","Jan Lennard Struff","Aslan Karatsev",15,3,138,96,88
+"Madrid Masters","Clay","Carlos Alcaraz","Karen Khachanov",5,1,110,71,72
+"Madrid Masters","Clay","Borna Coric","Daniel Altmaier",2,1,74,46,47
+"Madrid Masters","Clay","Jan Lennard Struff","Stefanos Tsitsipas",14,11,150,122,92
+"Madrid Masters","Clay","Aslan Karatsev","Zhizhen Zhang",6,4,101,66,68
+"Madrid Masters","Clay","Carlos Alcaraz","Alexander Zverev",5,3,82,41,60
+"Madrid Masters","Clay","Karen Khachanov","Andrey Rublev",5,7,102,72,73
+"Madrid Masters","Clay","Daniel Altmaier","Jaume Munar",1,0,85,41,51
+"Madrid Masters","Clay","Borna Coric","Alejandro Davidovich Fokina",6,0,208,119,120
+"Madrid Masters","Clay","Jan Lennard Struff","Pedro Cachin",8,8,148,109,107
+"Madrid Masters","Clay","Stefanos Tsitsipas","Bernabe Zapata Miralles",0,0,73,41,62
+"Madrid Masters","Clay","Zhizhen Zhang","Taylor Fritz",7,11,148,107,104
+"Madrid Masters","Clay","Aslan Karatsev","Daniil Medvedev",2,4,96,64,61
+"Madrid Masters","Clay","Carlos Alcaraz","Grigor Dimitrov",3,2,90,51,54
+"Madrid Masters","Clay","Alexander Zverev","Hugo Grenier",4,1,56,29,48
+"Madrid Masters","Clay","Karen Khachanov","Roberto Bautista Agut",11,3,175,91,116
+"Madrid Masters","Clay","Andrey Rublev","Yoshihito Nishioka",10,6,86,61,77
+"Madrid Masters","Clay","Jaume Munar","Matteo Arnaldi",1,4,123,76,82
+"Madrid Masters","Clay","Daniel Altmaier","Yannick Hanfmann",6,3,111,78,66
+"Madrid Masters","Clay","Borna Coric","Hubert Hurkacz",4,5,97,72,60
+"Madrid Masters","Clay","Alejandro Davidovich Fokina","Holger Rune",2,6,185,123,113
+"Madrid Masters","Clay","Jan Lennard Struff","Dusan Lajovic",8,9,132,102,108
+"Madrid Masters","Clay","Pedro Cachin","Frances Tiafoe",8,4,81,57,51
+"Madrid Masters","Clay","Bernabe Zapata Miralles","Roman Safiullin",3,4,141,90,98
+"Madrid Masters","Clay","Stefanos Tsitsipas","Sebastian Baez",4,1,132,95,88
+"Madrid Masters","Clay","Taylor Fritz","Cristian Garin",10,2,91,51,81
+"Madrid Masters","Clay","Zhizhen Zhang","Cameron Norrie",13,8,129,87,100
+"Madrid Masters","Clay","Aslan Karatsev","Alex De Minaur",4,3,136,95,76
+"Madrid Masters","Clay","Daniil Medvedev","Alexander Shevchenko",4,2,162,119,102
+"Madrid Masters","Clay","Carlos Alcaraz","Emil Ruusuvuori",10,3,136,100,72
+"Madrid Masters","Clay","Grigor Dimitrov","Gregoire Barrere",10,3,116,82,80
+"Madrid Masters","Clay","Hugo Grenier","Sebastian Korda",3,7,138,106,86
+"Madrid Masters","Clay","Alexander Zverev","Roberto Carballes Baena",12,2,205,107,103
+"Madrid Masters","Clay","Karen Khachanov","Thiago Monteiro",10,11,120,74,84
+"Madrid Masters","Clay","Roberto Bautista Agut","Quentin Halys",7,15,146,93,105
+"Madrid Masters","Clay","Yoshihito Nishioka","Alex Molcan",4,6,142,102,105
+"Madrid Masters","Clay","Andrey Rublev","Stan Wawrinka",9,7,77,59,60
+"Madrid Masters","Clay","Matteo Arnaldi","Casper Ruud",6,4,93,64,63
+"Madrid Masters","Clay","Jaume Munar","Tallon Griekspoor",2,1,59,37,40
+"Madrid Masters","Clay","Daniel Altmaier","Oscar Otte",3,8,102,79,64
+"Madrid Masters","Clay","Yannick Hanfmann","Lorenzo Musetti",3,1,108,68,75
+"Madrid Masters","Clay","Hubert Hurkacz","Richard Gasquet",29,9,144,98,113
+"Madrid Masters","Clay","Borna Coric","Hugo Gaston",3,3,81,49,54
+"Madrid Masters","Clay","Alejandro Davidovich Fokina","Albert Ramos",3,1,92,65,55
+"Madrid Masters","Clay","Holger Rune","Alexander Bublik",7,13,124,86,98
+"Madrid Masters","Clay","Dusan Lajovic","Felix Auger Aliassime",4,12,153,86,100
+"Madrid Masters","Clay","Jan Lennard Struff","Ben Shelton",11,21,140,101,103
+"Madrid Masters","Clay","Pedro Cachin","Francisco Cerundolo",1,2,80,61,49
+"Madrid Masters","Clay","Frances Tiafoe","Tomas Martin Etcheverry",5,12,98,65,68
+"Madrid Masters","Clay","Roman Safiullin","Tommy Paul",1,4,99,67,66
+"Madrid Masters","Clay","Bernabe Zapata Miralles","Daniel Evans",6,0,79,44,61
+"Madrid Masters","Clay","Sebastian Baez","Marcos Giron",2,5,130,78,111
+"Madrid Masters","Clay","Stefanos Tsitsipas","Dominic Thiem",3,8,139,72,101
+"Madrid Masters","Clay","Taylor Fritz","Christopher Oconnell",8,11,113,73,84
+"Madrid Masters","Clay","Cristian Garin","Miomir Kecmanovic",4,4,162,116,100
+"Madrid Masters","Clay","Zhizhen Zhang","Denis Shapovalov",1,14,134,95,98
+"Madrid Masters","Clay","Cameron Norrie","Yosuke Watanuki",7,9,98,64,83
+"Madrid Masters","Clay","Alex De Minaur","Marco Cecchinato",0,3,105,73,74
+"Madrid Masters","Clay","Aslan Karatsev","Botic Van De Zandschulp",3,6,94,56,68
+"Madrid Masters","Clay","Alexander Shevchenko","Jiri Lehecka",3,3,45,37,38
+"Madrid Masters","Clay","Daniil Medvedev","Andrea Vavassori",4,3,82,56,56
+"Madrid Masters","Clay","Emil Ruusuvuori","Ugo Humbert",9,5,119,80,87
+"Madrid Masters","Clay","Gregoire Barrere","Emilio Nava",5,11,101,71,78
+"Madrid Masters","Clay","Hugo Grenier","Diego Schwartzman",8,0,120,71,68
+"Madrid Masters","Clay","Roberto Carballes Baena","David Goffin",7,5,87,51,62
+"Madrid Masters","Clay","Thiago Monteiro","Borna Gojo",12,19,134,94,85
+"Madrid Masters","Clay","Quentin Halys","Alexei Popyrin",13,8,114,79,88
+"Madrid Masters","Clay","Alex Molcan","Yibing Wu",2,3,81,65,66
+"Madrid Masters","Clay","Stan Wawrinka","Maxime Cressy",19,9,147,96,98
+"Madrid Masters","Clay","Matteo Arnaldi","Benoit Paire",7,15,120,94,94
+"Madrid Masters","Clay","Jaume Munar","Thanasi Kokkinakis",1,8,158,89,93
+"Madrid Masters","Clay","Oscar Otte","Pavel Kotov",8,2,124,78,88
+"Madrid Masters","Clay","Yannick Hanfmann","Juan Pablo Varillas",6,2,137,85,93
+"Madrid Masters","Clay","Richard Gasquet","Martin Landaluce",4,6,61,31,53
+"Madrid Masters","Clay","Hugo Gaston","Jeremy Chardy",3,0,72,49,57
+"Madrid Masters","Clay","Albert Ramos","Ilya Ivashka",5,9,178,101,99
+"Madrid Masters","Clay","Alexander Bublik","Daniel Elahi Galan",17,5,170,140,114
+"Madrid Masters","Clay","Dusan Lajovic","Jason Kubler",2,3,83,54,60
+"Madrid Masters","Clay","Jan Lennard Struff","Lorenzo Sonego",1,6,74,47,50
+"Madrid Masters","Clay","Pedro Cachin","Abedallah Shelbayh",3,3,83,59,62
+"Madrid Masters","Clay","Tomas Martin Etcheverry","Adrian Mannarino",4,1,72,39,50
+"Madrid Masters","Clay","Roman Safiullin","Nicolas Jarry",6,8,107,63,76
+"Madrid Masters","Clay","Bernabe Zapata Miralles","Mackenzie Mcdonald",2,1,159,107,109
+"Madrid Masters","Clay","Marcos Giron","Nuno Borges",2,6,82,54,71
+"Madrid Masters","Clay","Dominic Thiem","Kyle Edmund",4,1,82,51,57
+"Madrid Masters","Clay","Christopher Oconnell","Filip Krajinovic",15,7,139,84,107
+"Madrid Masters","Clay","Cristian Garin","Marc Andrea Huesler",8,5,88,64,65
+"Madrid Masters","Clay","Zhizhen Zhang","Jurij Rodionov",10,5,90,62,68
+"Madrid Masters","Clay","Yosuke Watanuki","Corentin Moutet",8,0,98,73,53
+"Madrid Masters","Clay","Marco Cecchinato","Marton Fucsovics",5,2,101,68,77
+"Madrid Masters","Clay","Aslan Karatsev","Laslo Djere",3,3,121,88,75
+"Madrid Masters","Clay","Alexander Shevchenko","J J Wolf",6,5,82,56,57
+"Madrid Masters","Clay","Andrea Vavassori","Andy Murray",1,1,91,58,61
+"Rome Masters","Clay","Daniil Medvedev","Holger Rune",5,2,102,65,68
+"Rome Masters","Clay","Holger Rune","Casper Ruud",1,9,163,104,88
+"Rome Masters","Clay","Daniil Medvedev","Stefanos Tsitsipas",2,3,107,62,69
+"Rome Masters","Clay","Holger Rune","Novak Djokovic",3,4,139,78,77
+"Rome Masters","Clay","Casper Ruud","Francisco Cerundolo",4,2,125,71,95
+"Rome Masters","Clay","Daniil Medvedev","Yannick Hanfmann",8,0,80,68,48
+"Rome Masters","Clay","Stefanos Tsitsipas","Borna Coric",3,1,96,60,57
+"Rome Masters","Clay","Novak Djokovic","Cameron Norrie",3,4,90,55,56
+"Rome Masters","Clay","Holger Rune","Alexei Popyrin",2,11,180,96,120
+"Rome Masters","Clay","Casper Ruud","Laslo Djere",5,4,70,42,58
+"Rome Masters","Clay","Francisco Cerundolo","Jannik Sinner",2,2,145,92,87
+"Rome Masters","Clay","Yannick Hanfmann","Andrey Rublev",6,18,153,106,110
+"Rome Masters","Clay","Daniil Medvedev","Alexander Zverev",2,6,116,68,75
+"Rome Masters","Clay","Stefanos Tsitsipas","Lorenzo Musetti",2,1,112,72,76
+"Rome Masters","Clay","Borna Coric","Fabian Marozsan",9,3,129,90,81
+"Rome Masters","Clay","Novak Djokovic","Grigor Dimitrov",7,7,139,70,94
+"Rome Masters","Clay","Cameron Norrie","Marton Fucsovics",1,6,121,79,85
+"Rome Masters","Clay","Alexei Popyrin","Roman Safiullin",6,0,114,66,68
+"Rome Masters","Clay","Holger Rune","Fabio Fognini",3,1,76,53,51
+"Rome Masters","Clay","Casper Ruud","Alexander Bublik",6,11,125,85,92
+"Rome Masters","Clay","Laslo Djere","Cristian Garin",4,0,50,29,38
+"Rome Masters","Clay","Francisco Cerundolo","Gregoire Barrere",3,2,127,94,100
+"Rome Masters","Clay","Jannik Sinner","Alexander Shevchenko",1,4,132,81,96
+"Rome Masters","Clay","Andrey Rublev","Alejandro Davidovich Fokina",3,3,108,71,80
+"Rome Masters","Clay","Yannick Hanfmann","Marco Cecchinato",3,7,140,82,118
+"Rome Masters","Clay","Alexander Zverev","J J Wolf",10,3,109,58,69
+"Rome Masters","Clay","Daniil Medvedev","Bernabe Zapata Miralles",6,2,113,71,78
+"Rome Masters","Clay","Stefanos Tsitsipas","Lorenzo Sonego",3,2,127,64,79
+"Rome Masters","Clay","Lorenzo Musetti","Frances Tiafoe",9,4,156,106,109
+"Rome Masters","Clay","Borna Coric","Roberto Carballes Baena",4,2,105,63,58
+"Rome Masters","Clay","Fabian Marozsan","Carlos Alcaraz",2,5,100,64,73
+"Rome Masters","Clay","Novak Djokovic","Tomas Martin Etcheverry",1,4,111,57,72
+"Rome Masters","Clay","Grigor Dimitrov","Stan Wawrinka",4,2,97,66,76
+"Rome Masters","Clay","Marton Fucsovics","Alex De Minaur",1,0,113,77,60
+"Rome Masters","Clay","Cameron Norrie","Alexandre Muller",4,0,74,52,53
+"Rome Masters","Clay","Alexei Popyrin","Felix Auger Aliassime",8,7,197,95,115
+"Rome Masters","Clay","Roman Safiullin","Sebastian Korda",6,5,104,82,71
+"Rome Masters","Clay","Fabio Fognini","Miomir Kecmanovic",4,4,115,71,77
+"Rome Masters","Clay","Holger Rune","Arthur Fils",2,1,84,53,63
+"Rome Masters","Clay","Casper Ruud","Arthur Rinderknech",1,2,61,45,35
+"Rome Masters","Clay","Alexander Bublik","Ben Shelton",5,10,112,65,82
+"Rome Masters","Clay","Laslo Djere","Botic Van De Zandschulp",1,0,85,63,44
+"Rome Masters","Clay","Cristian Garin","Tommy Paul",1,4,160,99,102
+"Rome Masters","Clay","Gregoire Barrere","Karen Khachanov",6,9,155,102,104
+"Rome Masters","Clay","Francisco Cerundolo","Yibing Wu",2,4,119,68,100
+"Rome Masters","Clay","Alexander Shevchenko","Sebastian Baez",3,0,105,73,67
+"Rome Masters","Clay","Jannik Sinner","Thanasi Kokkinakis",2,3,78,39,49
+"Rome Masters","Clay","Andrey Rublev","Alex Molcan",3,1,79,54,53
+"Rome Masters","Clay","Alejandro Davidovich Fokina","Guido Pella",1,1,99,75,63
+"Rome Masters","Clay","Marco Cecchinato","Roberto Bautista Agut",2,0,76,56,48
+"Rome Masters","Clay","Yannick Hanfmann","Taylor Fritz",2,1,71,44,53
+"Rome Masters","Clay","J J Wolf","Hubert Hurkacz",2,8,76,57,52
+"Rome Masters","Clay","Alexander Zverev","David Goffin",6,3,146,82,100
+"Rome Masters","Clay","Bernabe Zapata Miralles","Jason Kubler",0,0,88,71,43
+"Rome Masters","Clay","Daniil Medvedev","Emil Ruusuvuori",6,0,88,54,51
+"Rome Masters","Clay","Stefanos Tsitsipas","Nuno Borges",4,1,70,49,63
+"Rome Masters","Clay","Lorenzo Sonego","Yoshihito Nishioka",5,1,105,68,60
+"Rome Masters","Clay","Lorenzo Musetti","Matteo Arnaldi",1,0,112,66,75
+"Rome Masters","Clay","Frances Tiafoe","Daniel Altmaier",7,8,155,108,94
+"Rome Masters","Clay","Borna Coric","Thiago Monteiro",10,8,212,109,114
+"Rome Masters","Clay","Roberto Carballes Baena","Daniel Evans",0,9,226,134,115
+"Rome Masters","Clay","Fabian Marozsan","Jiri Lehecka",0,3,131,103,80
+"Rome Masters","Clay","Carlos Alcaraz","Albert Ramos",3,1,86,47,64
+"Rome Masters","Clay","Tomas Martin Etcheverry","Luca Van Assche",7,3,122,65,80
+"Rome Masters","Clay","Stan Wawrinka","Ilya Ivashka",5,2,77,53,55
+"Rome Masters","Clay","Marton Fucsovics","Filip Krajinovic",1,1,87,42,58
+"Rome Masters","Clay","Alexandre Muller","Kyle Edmund",6,1,62,39,51
+"Rome Masters","Clay","Alexei Popyrin","Christopher Oconnell",10,0,95,62,61
+"Rome Masters","Clay","Roman Safiullin","Marcos Giron",2,3,79,51,61
+"Rome Masters","Clay","Fabio Fognini","Andy Murray",7,3,174,111,104
+"Rome Masters","Clay","Arthur Fils","Juan Manuel Cerundolo",6,3,129,85,97
+"Rome Masters","Clay","Arthur Rinderknech","Flavio Cobolli",8,2,89,66,61
+"Rome Masters","Clay","Alexander Bublik","Pedro Martinez",11,4,106,74,67
+"Rome Masters","Clay","Laslo Djere","Constant Lestienne",2,1,27,21,18
+"Rome Masters","Clay","Cristian Garin","Pedro Cachin",0,13,171,116,114
+"Rome Masters","Clay","Gregoire Barrere","Brandon Nakashima",6,3,67,48,53
+"Rome Masters","Clay","Yibing Wu","Richard Gasquet",5,4,115,75,83
+"Rome Masters","Clay","Sebastian Baez","Juan Pablo Varillas",5,0,121,80,77
+"Rome Masters","Clay","Thanasi Kokkinakis","Jaume Munar",3,1,29,18,15
+"Rome Masters","Clay","Alex Molcan","Stefano Napolitano",4,10,142,101,99
+"Rome Masters","Clay","Guido Pella","Maxime Cressy",0,6,100,70,69
+"Rome Masters","Clay","Marco Cecchinato","Mackenzie Mcdonald",2,1,95,71,60
+"Rome Masters","Clay","Yannick Hanfmann","Nicolas Jarry",4,3,94,55,67
+"Rome Masters","Clay","J J Wolf","Hugo Grenier",4,7,105,66,75
+"Rome Masters","Clay","David Goffin","Luca Nardi",3,3,142,106,82
+"Rome Masters","Clay","Jason Kubler","Marc Andrea Huesler",5,4,150,96,104
+"Rome Masters","Clay","Emil Ruusuvuori","Ugo Humbert",9,7,180,99,106
+"Rome Masters","Clay","Nuno Borges","Dusan Lajovic",2,2,66,56,48
+"Rome Masters","Clay","Lorenzo Sonego","Jeremy Chardy",2,1,75,45,53
+"Rome Masters","Clay","Matteo Arnaldi","Diego Schwartzman",4,0,146,78,98
+"Rome Masters","Clay","Daniel Altmaier","Giulio Zeppieri",1,2,158,110,86
+"Rome Masters","Clay","Thiago Monteiro","Adrian Mannarino",4,1,68,45,43
+"Rome Masters","Clay","Roberto Carballes Baena","Hugo Dellien",0,0,87,41,69
+"Rome Masters","Clay","Fabian Marozsan","Corentin Moutet",2,0,123,81,85
+"Rome Masters","Clay","Albert Ramos","Francesco Passaro",2,5,138,88,82
+"Geneva","Clay","Nicolas Jarry","Grigor Dimitrov",9,7,97,66,57
+"Geneva","Clay","Nicolas Jarry","Alexander Zverev",7,6,106,69,65
+"Geneva","Clay","Grigor Dimitrov","Taylor Fritz",8,13,172,131,103
+"Geneva","Clay","Nicolas Jarry","Casper Ruud",12,3,151,87,107
+"Geneva","Clay","Alexander Zverev","Yibing Wu",2,0,21,10,22
+"Geneva","Clay","Grigor Dimitrov","Christopher Oconnell",13,7,163,107,113
+"Geneva","Clay","Taylor Fritz","Ilya Ivashka",6,0,51,37,37
+"Geneva","Clay","Casper Ruud","J J Wolf",6,6,81,63,52
+"Geneva","Clay","Alexander Zverev","Christopher Eubanks",5,4,67,44,49
+"Geneva","Clay","Yibing Wu","Marco Cecchinato",1,1,92,69,69
+"Geneva","Clay","Christopher Oconnell","Bernabe Zapata Miralles",4,0,36,20,34
+"Geneva","Clay","Grigor Dimitrov","Roberto Carballes Baena",4,3,67,48,43
+"Geneva","Clay","Ilya Ivashka","Adrian Mannarino",1,4,158,88,114
+"Geneva","Clay","Taylor Fritz","Marcos Giron",8,4,118,78,86
+"Geneva","Clay","J J Wolf","Hugo Dellien",5,1,75,55,53
+"Geneva","Clay","Nicolas Jarry","Dusan Lajovic",10,0,68,42,55
+"Geneva","Clay","Tallon Griekspoor","Stefano Travaglia",5,5,103,69,74
+"Geneva","Clay","Christopher Eubanks","Benoit Paire",3,5,74,62,64
+"Geneva","Clay","Yibing Wu","Marc Andrea Huesler",3,9,132,112,92
+"Geneva","Clay","Marco Cecchinato","Ben Shelton",7,8,122,81,92
+"Geneva","Clay","Bernabe Zapata Miralles","Vitaliy Sachko",2,1,78,53,55
+"Geneva","Clay","Christopher Oconnell","Nino Serdarusic",12,4,169,103,105
+"Geneva","Clay","Roberto Carballes Baena","Daniel Rincon",3,1,144,106,83
+"Geneva","Clay","Adrian Mannarino","Filip Krajinovic",4,7,80,58,59
+"Geneva","Clay","Ilya Ivashka","Guido Pella",6,1,90,60,58
+"Geneva","Clay","Marcos Giron","Alexander Bublik",2,6,58,43,50
+"Lyon","Clay","Arthur Fils","Francisco Cerundolo",2,1,96,70,62
+"Lyon","Clay","Arthur Fils","Brandon Nakashima",8,8,175,127,99
+"Lyon","Clay","Francisco Cerundolo","Cameron Norrie",2,2,72,38,60
+"Lyon","Clay","Brandon Nakashima","Tommy Paul",6,7,108,81,62
+"Lyon","Clay","Francisco Cerundolo","Jack Draper",0,5,149,99,102
+"Lyon","Clay","Cameron Norrie","Sebastian Baez",4,0,111,69,72
+"Lyon","Clay","Felix Auger Aliassime","Pablo Llamas Ruiz",6,2,87,55,58
+"Lyon","Clay","Arthur Fils","Mikael Ymer",0,1,NA,34,43
+"Lyon","Clay","Tommy Paul","Gregoire Barrere",7,1,156,120,104
+"Lyon","Clay","Brandon Nakashima","Arthur Rinderknech",6,13,162,100,105
+"Lyon","Clay","Jack Draper","Miomir Kecmanovic",6,2,92,60,62
+"Lyon","Clay","Francisco Cerundolo","Juan Pablo Varillas",0,0,35,20,26
+"Lyon","Clay","Sebastian Baez","Pedro Cachin",0,6,152,93,111
+"Lyon","Clay","Cameron Norrie","David Goffin",5,1,88,65,58
+"Lyon","Clay","Pablo Llamas Ruiz","Max Purcell",1,5,134,98,101
+"Lyon","Clay","Arthur Fils","Zhizhen Zhang",6,6,77,53,56
+"Lyon","Clay","Mikael Ymer","Richard Gasquet",7,1,114,75,69
+"Lyon","Clay","Gregoire Barrere","Corentin Moutet",3,2,90,66,54
+"Lyon","Clay","Arthur Rinderknech","Lloyd Harris",3,1,91,60,55
+"Lyon","Clay","Brandon Nakashima","Diego Schwartzman",4,0,121,78,72
+"Lyon","Clay","Miomir Kecmanovic","Oriol Roca Batalla",2,5,71,40,60
+"Lyon","Clay","Jack Draper","Alexandre Muller",6,0,74,49,55
+"Lyon","Clay","Juan Pablo Varillas","Albert Ramos",10,5,191,100,140
+"Lyon","Clay","Sebastian Baez","Marton Fucsovics",1,1,124,71,92
+"Lyon","Clay","Pedro Cachin","Gael Monfils",2,5,110,85,74
+"Lyon","Clay","David Goffin","Alvaro Lopez San Martin",3,4,77,45,63
+"Roland Garros","Clay","Carlos Alcaraz","Flavio Cobolli",3,1,118,74,86
+"Roland Garros","Clay","Taro Daniel","Christopher Oconnell",5,1,109,70,65
+"Roland Garros","Clay","Matteo Arnaldi","Daniel Elahi Galan",7,2,139,101,90
+"Roland Garros","Clay","Denis Shapovalov","Brandon Nakashima",6,4,227,149,142
+"Roland Garros","Clay","Lorenzo Musetti","Mikael Ymer",5,1,155,75,114
+"Roland Garros","Clay","Alexander Shevchenko","Oscar Otte",6,8,179,137,162
+"Roland Garros","Clay","Lucas Pouille","Jurij Rodionov",1,5,117,93,86
+"Roland Garros","Clay","Cameron Norrie","Benoit Paire",5,16,213,155,163
+"Roland Garros","Clay","Fabio Fognini","Felix Auger Aliassime",4,3,137,86,85
+"Roland Garros","Clay","Jason Kubler","Facundo Diaz Acosta",5,3,205,137,123
+"Roland Garros","Clay","Sebastian Ofner","Maxime Cressy",8,13,139,108,104
+"Roland Garros","Clay","Sebastian Korda","Mackenzie Mcdonald",6,4,157,110,125
+"Roland Garros","Clay","Diego Schwartzman","Bernabe Zapata Miralles",2,3,218,144,141
+"Roland Garros","Clay","Nuno Borges","John Isner",5,38,239,167,181
+"Roland Garros","Clay","Roberto Carballes Baena","Eduardo Nava",0,4,148,93,109
+"Roland Garros","Clay","Stefanos Tsitsipas","Jiri Vesely",12,11,194,120,127
+"Roland Garros","Clay","Novak Djokovic","Aleksandar Kovacevic",10,7,147,81,104
+"Roland Garros","Clay","Marton Fucsovics","Hugo Grenier",6,5,195,107,118
+"Roland Garros","Clay","Luca Van Assche","Marco Cecchinato",1,3,119,65,112
+"Roland Garros","Clay","Alejandro Davidovich Fokina","Arthur Fils",1,5,169,114,110
+"Roland Garros","Clay","Roberto Bautista Agut","Yibing Wu",0,8,131,72,114
+"Roland Garros","Clay","Juan Pablo Varillas","Juncheng Shang",5,1,202,116,147
+"Roland Garros","Clay","Tallon Griekspoor","Pedro Martinez",11,0,218,132,157
+"Roland Garros","Clay","Hubert Hurkacz","David Goffin",13,5,218,148,151
+"Roland Garros","Clay","Karen Khachanov","Constant Lestienne",15,2,222,128,146
+"Roland Garros","Clay","Radu Albot","Patrick Kypson",2,2,181,100,130
+"Roland Garros","Clay","Stan Wawrinka","Albert Ramos",14,7,276,192,184
+"Roland Garros","Clay","Thanasi Kokkinakis","Daniel Evans",10,3,149,84,96
+"Roland Garros","Clay","Lorenzo Sonego","Ben Shelton",4,3,173,98,117
+"Roland Garros","Clay","Ugo Humbert","Adrian Mannarino",10,1,113,83,90
+"Roland Garros","Clay","Corentin Moutet","Arthur Cazaux",5,2,203,107,133
+"Roland Garros","Clay","Andrey Rublev","Laslo Djere",7,8,152,104,123
+"Roland Garros","Clay","Holger Rune","Christopher Eubanks",2,15,174,118,122
+"Roland Garros","Clay","Gael Monfils","Sebastian Baez",6,1,228,166,140
+"Roland Garros","Clay","Genaro Alberto Olivieri","Giovanni Mpetshi Perricard",1,12,231,177,161
+"Roland Garros","Clay","Andrea Vavassori","Miomir Kecmanovic",15,4,311,228,197
+"Roland Garros","Clay","Francisco Cerundolo","Jaume Munar",2,1,165,108,111
+"Roland Garros","Clay","Yannick Hanfmann","Thiago Monteiro",13,10,296,184,166
+"Roland Garros","Clay","Arthur Rinderknech","Richard Gasquet",11,3,189,111,103
+"Roland Garros","Clay","Taylor Fritz","Michael Mmoh",14,2,92,57,78
+"Roland Garros","Clay","Tommy Paul","Dominic Stricker",1,2,110,96,77
+"Roland Garros","Clay","Nicolas Jarry","Hugo Dellien",11,3,148,86,111
+"Roland Garros","Clay","Marcos Giron","Hamad Medjedovic",4,5,118,71,95
+"Roland Garros","Clay","Jiri Lehecka","Jan Lennard Struff",7,9,193,147,133
+"Roland Garros","Clay","Thiago Agustin Tirante","Botic Van De Zandschulp",1,3,186,136,107
+"Roland Garros","Clay","Zhizhen Zhang","Dusan Lajovic",1,1,59,46,40
+"Roland Garros","Clay","Giulio Zeppieri","Alexander Bublik",8,17,198,152,133
+"Roland Garros","Clay","Casper Ruud","Elias Ymer",4,2,128,71,89
+"Roland Garros","Clay","Jannik Sinner","Alexandre Muller",5,3,106,70,70
+"Roland Garros","Clay","Daniel Altmaier","Marc Andrea Huesler",7,5,126,80,99
+"Roland Garros","Clay","Emil Ruusuvuori","Gregoire Barrere",15,5,254,174,169
+"Roland Garros","Clay","Grigor Dimitrov","Timofey Skatov",10,0,114,85,72
+"Roland Garros","Clay","Alexander Zverev","Lloyd Harris",10,7,164,117,106
+"Roland Garros","Clay","Alex Molcan","Hugo Gaston",6,4,143,104,105
+"Roland Garros","Clay","Aslan Karatsev","Alexei Popyrin",7,9,178,113,121
+"Roland Garros","Clay","Frances Tiafoe","Filip Krajinovic",15,4,129,103,87
+"Roland Garros","Clay","Borna Coric","Federico Coria",11,3,252,135,167
+"Roland Garros","Clay","Pedro Cachin","Dominic Thiem",6,5,229,142,152
+"Roland Garros","Clay","Tomas Martin Etcheverry","Jack Draper",0,1,66,36,52
+"Roland Garros","Clay","Alex De Minaur","Ilya Ivashka",6,2,165,108,119
+"Roland Garros","Clay","Yoshihito Nishioka","J J Wolf",1,9,203,120,175
+"Roland Garros","Clay","Max Purcell","Jordan Thompson",7,6,172,116,101
+"Roland Garros","Clay","Guido Pella","Quentin Halys",4,19,260,187,185
+"Roland Garros","Clay","Thiago Seyboth Wild","Daniil Medvedev",2,14,256,165,185
+"Roland Garros","Clay","Carlos Alcaraz","Taro Daniel",2,0,146,86,90
+"Roland Garros","Clay","Denis Shapovalov","Matteo Arnaldi",2,2,176,104,134
+"Roland Garros","Clay","Lorenzo Musetti","Alexander Shevchenko",1,1,99,62,77
+"Roland Garros","Clay","Cameron Norrie","Lucas Pouille",2,2,105,77,81
+"Roland Garros","Clay","Fabio Fognini","Jason Kubler",3,3,138,100,93
+"Roland Garros","Clay","Sebastian Ofner","Sebastian Korda",7,1,155,103,110
+"Roland Garros","Clay","Diego Schwartzman","Nuno Borges",0,5,153,97,97
+"Roland Garros","Clay","Stefanos Tsitsipas","Roberto Carballes Baena",6,0,137,91,87
+"Roland Garros","Clay","Novak Djokovic","Marton Fucsovics",2,1,164,99,99
+"Roland Garros","Clay","Alejandro Davidovich Fokina","Luca Van Assche",3,2,156,87,116
+"Roland Garros","Clay","Juan Pablo Varillas","Roberto Bautista Agut",8,3,232,152,129
+"Roland Garros","Clay","Hubert Hurkacz","Tallon Griekspoor",15,9,282,180,201
+"Roland Garros","Clay","Karen Khachanov","Radu Albot",6,4,138,81,103
+"Roland Garros","Clay","Thanasi Kokkinakis","Stan Wawrinka",12,12,279,184,145
+"Roland Garros","Clay","Lorenzo Sonego","Ugo Humbert",3,1,158,95,101
+"Roland Garros","Clay","Andrey Rublev","Corentin Moutet",6,2,179,113,129
+"Roland Garros","Clay","Genaro Alberto Olivieri","Andrea Vavassori",5,8,200,137,140
+"Roland Garros","Clay","Francisco Cerundolo","Yannick Hanfmann",8,2,155,108,117
+"Roland Garros","Clay","Taylor Fritz","Arthur Rinderknech",8,7,170,100,113
+"Roland Garros","Clay","Nicolas Jarry","Tommy Paul",5,3,184,140,98
+"Roland Garros","Clay","Marcos Giron","Jiri Lehecka",6,2,104,73,84
+"Roland Garros","Clay","Zhizhen Zhang","Thiago Agustin Tirante",5,6,141,105,93
+"Roland Garros","Clay","Casper Ruud","Giulio Zeppieri",2,9,185,120,120
+"Roland Garros","Clay","Daniel Altmaier","Jannik Sinner",10,11,326,204,187
+"Roland Garros","Clay","Grigor Dimitrov","Emil Ruusuvuori",5,5,170,107,105
+"Roland Garros","Clay","Alexander Zverev","Alex Molcan",6,0,118,80,82
+"Roland Garros","Clay","Frances Tiafoe","Aslan Karatsev",10,12,164,103,110
+"Roland Garros","Clay","Borna Coric","Pedro Cachin",1,6,263,157,144
+"Roland Garros","Clay","Tomas Martin Etcheverry","Alex De Minaur",3,0,166,102,106
+"Roland Garros","Clay","Yoshihito Nishioka","Max Purcell",2,7,186,123,141
+"Roland Garros","Clay","Thiago Seyboth Wild","Guido Pella",8,1,175,124,106
+"Roland Garros","Clay","Carlos Alcaraz","Denis Shapovalov",0,0,131,80,87
+"Roland Garros","Clay","Lorenzo Musetti","Cameron Norrie",2,2,129,78,96
+"Roland Garros","Clay","Sebastian Ofner","Fabio Fognini",5,1,235,149,165
+"Roland Garros","Clay","Stefanos Tsitsipas","Diego Schwartzman",6,1,124,84,87
+"Roland Garros","Clay","Novak Djokovic","Alejandro Davidovich Fokina",1,3,216,114,120
+"Roland Garros","Clay","Juan Pablo Varillas","Hubert Hurkacz",7,8,232,146,149
+"Roland Garros","Clay","Karen Khachanov","Thanasi Kokkinakis",5,6,223,120,138
+"Roland Garros","Clay","Lorenzo Sonego","Andrey Rublev",8,9,223,157,135
+"Roland Garros","Clay","Holger Rune","Genaro Alberto Olivieri",4,2,119,78,83
+"Roland Garros","Clay","Francisco Cerundolo","Taylor Fritz",1,9,170,134,119
+"Roland Garros","Clay","Nicolas Jarry","Marcos Giron",15,6,175,112,128
+"Roland Garros","Clay","Casper Ruud","Zhizhen Zhang",6,6,156,116,100
+"Roland Garros","Clay","Grigor Dimitrov","Daniel Altmaier",4,3,127,78,74
+"Roland Garros","Clay","Alexander Zverev","Frances Tiafoe",13,3,222,144,132
+"Roland Garros","Clay","Tomas Martin Etcheverry","Borna Coric",4,4,182,94,105
+"Roland Garros","Clay","Yoshihito Nishioka","Thiago Seyboth Wild",2,10,219,149,158
+"Roland Garros","Clay","Carlos Alcaraz","Lorenzo Musetti",6,2,129,77,88
+"Roland Garros","Clay","Stefanos Tsitsipas","Sebastian Ofner",3,4,108,83,76
+"Roland Garros","Clay","Novak Djokovic","Juan Pablo Varillas",7,3,117,70,72
+"Roland Garros","Clay","Karen Khachanov","Lorenzo Sonego",12,8,210,132,121
+"Roland Garros","Clay","Holger Rune","Francisco Cerundolo",8,5,239,173,166
+"Roland Garros","Clay","Casper Ruud","Nicolas Jarry",10,11,200,126,134
+"Roland Garros","Clay","Alexander Zverev","Grigor Dimitrov",4,0,138,92,83
+"Roland Garros","Clay","Tomas Martin Etcheverry","Yoshihito Nishioka",12,3,124,85,73
+"Roland Garros","Clay","Carlos Alcaraz","Stefanos Tsitsipas",6,5,133,75,95
+"Roland Garros","Clay","Novak Djokovic","Karen Khachanov",11,7,219,132,133
+"Roland Garros","Clay","Casper Ruud","Holger Rune",5,1,165,110,113
+"Roland Garros","Clay","Alexander Zverev","Tomas Martin Etcheverry",7,8,202,116,116
+"Roland Garros","Clay","Novak Djokovic","Carlos Alcaraz",8,3,204,125,103
+"Roland Garros","Clay","Casper Ruud","Alexander Zverev",5,3,129,89,69
+"Roland Garros","Clay","Novak Djokovic","Casper Ruud",11,4,194,101,106
+"Gstaad","Clay","Pedro Cachin","Albert Ramos",7,1,145,88,84
+"Gstaad","Clay","Pedro Cachin","Hamad Medjedovic",3,1,63,38,49
+"Gstaad","Clay","Albert Ramos","Miomir Kecmanovic",1,2,91,62,57
+"Gstaad","Clay","Pedro Cachin","Jaume Munar",0,2,91,55,59
+"Gstaad","Clay","Hamad Medjedovic","Yannick Hanfmann",8,2,85,64,58
+"Gstaad","Clay","Albert Ramos","Juan Pablo Varillas",2,2,160,102,95
+"Gstaad","Clay","Miomir Kecmanovic","Zizou Bergs",3,8,154,87,114
+"Gstaad","Clay","Pedro Cachin","Roberto Bautista Agut",7,3,130,94,76
+"Gstaad","Clay","Jaume Munar","Stan Wawrinka",3,2,85,63,58
+"Gstaad","Clay","Yannick Hanfmann","Daniel Altmaier",6,5,143,97,91
+"Gstaad","Clay","Hamad Medjedovic","Dominic Thiem",10,7,133,87,81
+"Gstaad","Clay","Juan Pablo Varillas","Facundo Bagnis",1,5,71,40,62
+"Gstaad","Clay","Albert Ramos","Lorenzo Sonego",2,8,150,86,93
+"Gstaad","Clay","Zizou Bergs","Jurij Rodionov",8,8,174,117,102
+"Gstaad","Clay","Miomir Kecmanovic","Dominic Stricker",6,5,83,65,62
+"Gstaad","Clay","Pedro Cachin","Taro Daniel",7,0,78,62,41
+"Gstaad","Clay","Jaume Munar","Alexander Ritschard",2,2,74,55,50
+"Gstaad","Clay","Stan Wawrinka","Roberto Carballes Baena",4,0,41,30,24
+"Gstaad","Clay","Daniel Altmaier","Benjamin Bonzi",1,3,80,58,55
+"Gstaad","Clay","Dominic Thiem","Alexandre Muller",9,2,94,74,55
+"Gstaad","Clay","Hamad Medjedovic","Zhizhen Zhang",3,4,141,87,90
+"Gstaad","Clay","Juan Pablo Varillas","Otto Virtanen",1,4,69,43,58
+"Gstaad","Clay","Facundo Bagnis","Arthur Rinderknech",7,12,121,84,71
+"Gstaad","Clay","Albert Ramos","Fabio Fognini",0,3,135,86,90
+"Gstaad","Clay","Zizou Bergs","Laslo Djere",11,5,114,78,97
+"Gstaad","Clay","Jurij Rodionov","Marc Andrea Huesler",7,9,74,62,52
+"Gstaad","Clay","Dominic Stricker","Arthur Fils",9,7,104,78,79
+"Bastad","Clay","Andrey Rublev","Casper Ruud",6,5,91,60,72
+"Bastad","Clay","Casper Ruud","Lorenzo Musetti",5,1,106,72,64
+"Bastad","Clay","Andrey Rublev","Francisco Cerundolo",9,7,167,126,119
+"Bastad","Clay","Casper Ruud","Sebastian Ofner",2,1,88,64,65
+"Bastad","Clay","Lorenzo Musetti","Filip Misolic",5,2,125,81,96
+"Bastad","Clay","Francisco Cerundolo","Federico Coria",3,0,90,60,71
+"Bastad","Clay","Andrey Rublev","Alexander Zverev",6,1,67,54,39
+"Bastad","Clay","Casper Ruud","Alexander Shevchenko",2,2,79,58,55
+"Bastad","Clay","Sebastian Ofner","Bernabe Zapata Miralles",6,7,152,120,94
+"Bastad","Clay","Lorenzo Musetti","Matteo Arnaldi",6,5,155,87,112
+"Bastad","Clay","Filip Misolic","Jozef Kovalik",2,3,150,105,100
+"Bastad","Clay","Federico Coria","Leo Borg",2,0,86,59,62
+"Bastad","Clay","Francisco Cerundolo","Luca Van Assche",5,2,81,56,56
+"Bastad","Clay","Alexander Zverev","Thiago Monteiro",3,0,60,41,31
+"Bastad","Clay","Andrey Rublev","Pavel Kotov",3,5,92,70,73
+"Bastad","Clay","Alexander Shevchenko","Juan Manuel Cerundolo",2,0,82,51,64
+"Bastad","Clay","Bernabe Zapata Miralles","Hugo Dellien",3,0,93,61,60
+"Bastad","Clay","Sebastian Ofner","Tomas Martin Etcheverry",6,5,122,87,78
+"Bastad","Clay","Matteo Arnaldi","Emil Ruusuvuori",9,3,134,89,97
+"Bastad","Clay","Filip Misolic","Dusan Lajovic",6,3,115,82,90
+"Bastad","Clay","Jozef Kovalik","Alejandro Davidovich Fokina",1,3,96,61,63
+"Bastad","Clay","Federico Coria","Sebastian Baez",1,1,169,113,113
+"Bastad","Clay","Leo Borg","Elias Ymer",3,11,104,65,75
+"Bastad","Clay","Luca Van Assche","Dragos Nicolae Madaras",3,2,107,62,74
+"Bastad","Clay","Alexander Zverev","Alex Molcan",5,3,145,90,113
+"Bastad","Clay","Thiago Monteiro","Daniel Elahi Galan",9,10,182,101,107
+"Bastad","Clay","Pavel Kotov","Marco Cecchinato",1,0,59,42,48
+"Hamburg","Clay","Alexander Zverev","Laslo Djere",3,3,110,68,61
+"Hamburg","Clay","Alexander Zverev","Arthur Fils",7,4,91,66,56
+"Hamburg","Clay","Laslo Djere","Zhizhen Zhang",6,4,60,42,43
+"Hamburg","Clay","Arthur Fils","Casper Ruud",4,2,77,48,56
+"Hamburg","Clay","Alexander Zverev","Luca Van Assche",8,0,89,48,65
+"Hamburg","Clay","Laslo Djere","Lorenzo Musetti",6,2,88,58,63
+"Hamburg","Clay","Zhizhen Zhang","Daniel Altmaier",2,7,83,62,53
+"Hamburg","Clay","Casper Ruud","Cristian Garin",4,0,100,76,60
+"Hamburg","Clay","Arthur Fils","Dusan Lajovic",3,0,100,76,72
+"Hamburg","Clay","Alexander Zverev","Maximilian Marterer",2,1,77,52,55
+"Hamburg","Clay","Luca Van Assche","Alejandro Davidovich Fokina",6,5,192,116,121
+"Hamburg","Clay","Laslo Djere","Guido Pella",8,0,121,83,86
+"Hamburg","Clay","Lorenzo Musetti","Jozef Kovalik",2,0,125,72,93
+"Hamburg","Clay","Zhizhen Zhang","Yannick Hanfmann",2,2,128,93,74
+"Hamburg","Clay","Daniel Altmaier","Andrey Rublev",7,4,74,49,51
+"Hamburg","Clay","Casper Ruud","Sebastian Baez",2,2,116,70,92
+"Hamburg","Clay","Cristian Garin","Hugo Dellien",3,2,130,83,82
+"Hamburg","Clay","Arthur Fils","Daniel Elahi Galan",4,7,105,72,80
+"Hamburg","Clay","Dusan Lajovic","Miomir Kecmanovic",2,1,119,85,96
+"Hamburg","Clay","Alexander Zverev","Alex Molcan",3,2,61,44,42
+"Hamburg","Clay","Maximilian Marterer","Rudolf Molleker",16,5,80,65,70
+"Hamburg","Clay","Luca Van Assche","Alexandre Muller",6,8,133,69,98
+"Hamburg","Clay","Alejandro Davidovich Fokina","Pedro Cachin",2,9,115,82,80
+"Hamburg","Clay","Laslo Djere","Tomas Martin Etcheverry",2,4,106,64,66
+"Hamburg","Clay","Guido Pella","Thiago Monteiro",8,6,146,97,80
+"Hamburg","Clay","Jozef Kovalik","Thiago Seyboth Wild",3,2,111,85,65
+"Hamburg","Clay","Lorenzo Musetti","Elias Ymer",4,1,74,47,49
+"Hamburg","Clay","Yannick Hanfmann","Francisco Cerundolo",1,0,107,70,79
+"Hamburg","Clay","Zhizhen Zhang","Jan Choinski",4,4,113,71,95
+"Hamburg","Clay","Daniel Altmaier","Richard Gasquet",6,2,114,60,84
+"Hamburg","Clay","Andrey Rublev","Bernabe Zapata Miralles",5,2,172,116,126
+"Umag","Clay","Alexei Popyrin","Stan Wawrinka",4,4,156,99,90
+"Umag","Clay","Alexei Popyrin","Matteo Arnaldi",6,11,196,107,122
+"Umag","Clay","Stan Wawrinka","Lorenzo Sonego",5,3,86,56,48
+"Umag","Clay","Matteo Arnaldi","Jiri Lehecka",8,2,124,81,77
+"Umag","Clay","Alexei Popyrin","Dino Prizmic",3,2,144,79,83
+"Umag","Clay","Stan Wawrinka","Roberto Carballes Baena",3,0,104,56,69
+"Umag","Clay","Lorenzo Sonego","Jaume Munar",3,2,125,76,62
+"Umag","Clay","Jiri Lehecka","Dominic Thiem",3,4,100,63,60
+"Umag","Clay","Matteo Arnaldi","Flavio Cobolli",3,2,110,85,58
+"Umag","Clay","Alexei Popyrin","Sebastian Ofner",3,1,66,45,54
+"Umag","Clay","Dino Prizmic","Zsombor Piros",1,1,81,49,58
+"Umag","Clay","Stan Wawrinka","Federico Coria",2,1,87,54,57
+"Umag","Clay","Roberto Carballes Baena","Taro Daniel",0,0,102,72,46
+"Umag","Clay","Jaume Munar","Fabian Marozsan",3,0,91,56,68
+"Umag","Clay","Lorenzo Sonego","Marco Cecchinato",0,0,95,54,72
+"Umag","Clay","Dominic Thiem","Facundo Bagnis",3,4,122,78,65
+"Umag","Clay","Flavio Cobolli","Marin Cilic",3,3,111,55,72
+"Umag","Clay","Matteo Arnaldi","Jesper De Jong",1,2,92,57,58
+"Umag","Clay","Alexei Popyrin","Benjamin Bonzi",8,3,115,76,72
+"Umag","Clay","Dino Prizmic","Duje Ajdukovic",1,4,77,47,42
+"Umag","Clay","Zsombor Piros","Christopher Oconnell",2,5,81,61,55
+"Umag","Clay","Stan Wawrinka","Filip Misolic",4,2,62,50,40
+"Umag","Clay","Federico Coria","Marc Andrea Huesler",4,2,116,57,94
+"Umag","Clay","Taro Daniel","Martin Landaluce",2,3,147,94,68
+"Umag","Clay","Jaume Munar","Albert Ramos",3,0,176,89,87
+"Umag","Clay","Fabian Marozsan","Juan Manuel Cerundolo",4,2,66,53,54
+"Umag","Clay","Marco Cecchinato","Alexander Shevchenko",1,3,161,105,108
+"Kitzbuhel","Clay","Sebastian Baez","Dominic Thiem",0,5,80,53,52
+"Kitzbuhel","Clay","Sebastian Baez","Tomas Martin Etcheverry",3,7,160,105,94
+"Kitzbuhel","Clay","Dominic Thiem","Laslo Djere",8,9,210,149,122
+"Kitzbuhel","Clay","Tomas Martin Etcheverry","Daniel Elahi Galan",7,8,189,101,127
+"Kitzbuhel","Clay","Sebastian Baez","Alex Molcan",0,1,86,60,66
+"Kitzbuhel","Clay","Laslo Djere","Pedro Cachin",4,2,79,59,53
+"Kitzbuhel","Clay","Dominic Thiem","Arthur Rinderknech",6,10,140,83,86
+"Kitzbuhel","Clay","Tomas Martin Etcheverry","Guido Andreozzi",2,1,75,39,51
+"Kitzbuhel","Clay","Daniel Elahi Galan","Daniel Altmaier",5,4,160,108,96
+"Kitzbuhel","Clay","Alex Molcan","Sebastian Ofner",6,10,148,128,111
+"Kitzbuhel","Clay","Sebastian Baez","Roberto Carballes Baena",0,1,82,35,60
+"Kitzbuhel","Clay","Laslo Djere","Thiago Seyboth Wild",6,4,94,76,64
+"Kitzbuhel","Clay","Pedro Cachin","Albert Ramos",7,1,100,72,60
+"Kitzbuhel","Clay","Dominic Thiem","Zhizhen Zhang",6,8,102,62,77
+"Kitzbuhel","Clay","Arthur Rinderknech","Yannick Hanfmann",10,8,93,66,66
+"Kitzbuhel","Clay","Guido Andreozzi","Filip Misolic",4,7,125,77,98
+"Kitzbuhel","Clay","Daniel Elahi Galan","Marco Cecchinato",7,3,58,41,47
+"Kitzbuhel","Clay","Daniel Altmaier","Marc Andrea Huesler",7,9,132,91,89
+"Kitzbuhel","Clay","Alex Molcan","Luca Van Assche",2,4,94,51,77
+"Kitzbuhel","Clay","Sebastian Baez","Hamad Medjedovic",5,1,82,62,55
+"Kitzbuhel","Clay","Roberto Carballes Baena","Guido Pella",2,3,71,43,47
+"Kitzbuhel","Clay","Laslo Djere","Christopher Oconnell",4,2,113,95,74
+"Kitzbuhel","Clay","Thiago Seyboth Wild","Dennis Novak",7,3,83,64,57
+"Kitzbuhel","Clay","Albert Ramos","Juan Pablo Varillas",8,4,115,71,77
+"Kitzbuhel","Clay","Zhizhen Zhang","Dusan Lajovic",4,1,61,46,46
+"Kitzbuhel","Clay","Dominic Thiem","Facundo Bagnis",10,6,142,92,86
+"Kitzbuhel","Clay","Arthur Rinderknech","Juan Manuel Cerundolo",19,3,129,90,100
+"Davis Cup QLS R1: GBR vs COL","Clay","Cameron Norrie","Nicolas Barrientos",10,2,NA,78,51
+"Davis Cup QLS R1: GBR vs COL","Clay","Cameron Norrie","Nicolas Mejia",5,2,NA,63,76
