@@ -1,15 +1,26 @@
 # Stats_107_Tennis_Project
 Stats 107 project on analyzing tennis statistics using R
+
 Files in the repository:
+
 | Data
+
 | | - - atp_matches_2023.csv
+
 | | - - tennis_clean.csv
+
 | .gitignore
+
 | 11_TennisDataCleaning.Rmd
+
 | 11_TennisDataCleaning.html
+
 | 11_TennisDataCleaning.pdf
+
 | README.md
+
 | Tennis Project.Rproj
+
 
 atp_matches_2023.csv       - Full data list of the atp_matches_2023 download from a github repository
 
