@@ -11,6 +11,10 @@ Files in the repository:
 
 | .gitignore
 
+| 00_functions.R
+
+| 00_requirements.R
+
 | 11_TennisDataCleaning.Rmd
 
 | 11_TennisDataCleaning.html
@@ -18,6 +22,8 @@ Files in the repository:
 | 11_TennisDataCleaning.pdf
 
 | README.md
+
+| README.txt
 
 | Tennis Project.Rproj
 
@@ -30,6 +36,10 @@ tennis_clean.csv           - List of all the matches with the data we need to an
 
 .gitignore                 - Tells GitHub not to send over all of the little R files that form every time you open your own project
 
+00_functions.R             - A R script file to hold all of the functions we will be using in the project
+
+00_requirements.R          - A R script file holding all the library downloadables that we need for the project
+
 11_TennisDataCleaning.Rmd  - Has the procedure and code for how we cleaned the data into a new .csv file
 
 11_TennisDataCleaning.html - Same but knitted as an HTML
@@ -37,5 +47,7 @@ tennis_clean.csv           - List of all the matches with the data we need to an
 11_TennisDataCleaning.pdf  - Same but knitted as a PDF
 
 README.md                  - Explains every file and what it has, as well as its location in the folder
+
+README.txt                 - Same as the other read me but in text file version as per instructions
 
 Tennis Project.Rproj       - R project file that has all of the files to access on the bottom-right Files tab
