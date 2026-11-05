@@ -1,0 +1,189 @@
+---
+title: "Do Aces Win Matches? Serving Aces and Match Outcomes in the 2023 ATP Tour"
+author: "Mickey Klimer, Maddie Yasui, Zhifu Lei"
+date: "2026-11-05"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE,
+                      fig.align = "center")
+
+source("00_requirements.R")
+source("00_functions.R")
+
+load("Data/22_DataSaving.RData")
+
+n_matches  <- nrow(tennis_clean)
+n_grass  <- nrow(tennis_grass)
+n_clay  <- nrow(tennis_clay)
+n_hard  <- nrow(tennis_hard)
+
+mean_w_ace  <- round(mean(tennis_clean$w_ace), 2)
+mean_l_ace  <- round(mean(tennis_clean$l_ace), 2)
+mean_diff  <- round(mean(tennis_clean$ace_difference), 2)
+
+pct_winner_more  <- round(100 * mean(tennis_clean$ace_difference > 0), 1)
+pct_tied  <- round(100*mean(tennis_clean$ace_difference == 0), 1)
+pct_loser_more  <- round(100 * mean(tennis_clean$ace_difference < 0), 1)
+
+diff_grass  <- round(mean(tennis_grass$ace_difference), 2)
+diff_clay  <- round(mean(tennis_clay$ace_difference), 2)
+diff_hard  <- round(mean(tennis_hard$ace_difference), 2)
+```
+
+
+# Abstract
+
+Aces are often seen as one of the most powerful weapons in professional tennis, but it is not clear how strongly serving aces is tied to victories. In this project, we question whether there is a connection between the number of aces a player serves and winning a professional match, and whether or not this association changes across court surfaces. We use `r n_matches` matches from the 2023 ATP season. So far in our research, winners served an average of `r mean_w_ace` aces per match compared with `r mean_l_ace` for losers, and the winner served more aces than the loser did in `r pct_winner_more`% of matches. The gap between winners and losers is largest on grass (`r diff_grass` aces on average) and hard courts (`r diff_hard`), and smallest on clay (`r diff_clay`). At the same time, many losing players served a high number of aces, which suggests that aces alone do not decide matches. In the next stage we will test these differences and fit a logistic regression model of match outcomes on ace rate and court surface.
+
+# Introduction
+
+In professional tennis, an ace is a serve that the opponent cannot touch. It wins the point immediately and is often seen as a sign of a dominant server. Commentators frequently point to ace counts when explaining why a player won or lost, but a high number of aces does not always mean a victory. A player may serve many aces, yet lose the match. This raises the main question of our project: **is there an association between the number of aces a player serves and winning a professional tennis match?**
+
+Court surfaces add another layer to our question. Grass and hard courts produce faster and lower bounces that can lead to big serves, while clay slows the ball down and gives the returner more time. Because of this, the value of an ace may not be equal across these surfaces. A second goal of our analysis is to compare the relationship between aces and winning on the different surfaces of grass, clay, and hard courts.
+
+This analysis may benefit players and coaches deciding how much training time to put into serving, analysts and commentators who use ace counts to describe matches, and fans interested in the same question we are interested in. Our project is mainly a hypothesis-testing analysis: we want to test whether winners serve significantly more aces than losers, and whether that difference depends on the surface. In the final stage we also plan to fit a model that estimates how much a player's chance of winning changes with their ace rate.
+
+# Executive Summary
+
+1. Winners served more aces than losers on average (`r mean_w_ace` vs `r mean_l_ace` aces per match), and the winner served more aces in `r pct_winner_more`% of matches.
+2. the winner to loser ace gap is different by surface: it is largest on grass
+(`r diff_grass` aces) and hard courts (`r diff_hard`) and smallest on clay (`r diff_clay`).
+3. Ace differences on the clay surface are more tightly concentrated around zero, which means winners and losers serve more similar numbers of aces on clay.
+4. Losing players sometimes served very high numbers of aces, so aces are associated with winning but do not guarantee a win. 
+
+# Data
+
+Our data comes from the file `atp_matches_2023.csv`, which contains every completed ATP tour level match from the 2023 season. The file was downloaded from Jeff Sackmann's public `tennis_atp` GitHub repository (https://github.com/JeffSackmann/tennis_atp). The raw dataset contains 2,986 matches and 49 variables, with one row per match.
+
+## Cleaning
+
+We first checked the dataset for missing values. 171 matches were missing ace statistics, so we removed them, because our question depends on knowing each player's aces. This left `r n_matches` matches. We then kept only the nine variables relevant to our question, and checked that there were no negative ace counts. Finally, we split the cleaned data into three datasets by court surface: grass (`r n_grass` matches), clay (`r n_clay`) and hard (`r n_hard`).
+
+Variables we kept are:
+
+| Variable | Description |
+|---|---|
+| `tourney_name` | Name of the tournament |
+| `surface` | Court surface (Grass, Clay or Hard) |
+| `winner_name`, `loser_name` | Names of the winning and losing players |
+| `w_ace`, `l_ace` | Number of aces served by the winner and the loser |
+| `minutes` | Length of the match in minutes |
+| `w_svpt`, `l_svpt` | Number of service points played by the winner and the loser |
+
+## Processing
+
+We created one new variable, which is `ace_difference`, equal to the winner's aces minus the loser's aces. A positive value means the winner served more aces than the loser. 
+
+# Visualization
+
+## Numerical Summaries
+
+Table 1 shows the mean and median number of aces for winners and losers, overall and on each surface. 
+
+```{r summary-table}
+surface_data <- list(tennis_clean, tennis_grass, tennis_clay, tennis_hard)
+surface_names <- c("All", "Grass", "Clay", "Hard")
+
+ace_table <- data.frame(
+  Surface    = surface_names,
+  Winner_Mean = NA, Loser_Mean = NA,
+  Winner_Median = NA, Loser_Median = NA,
+  Mean_Ace_Difference = NA
+)
+for (i in 1:length(surface_data)) {
+  df <- surface_data[[i]]
+  ace_table$Winner_Mean[i]   <- round(mean(df$w_ace), 2)
+  ace_table$Loser_Mean[i]    <- round(mean(df$l_ace), 2)
+  ace_table$Winner_Median[i] <- median(df$w_ace)
+  ace_table$Loser_Median[i]  <- median(df$l_ace)
+  ace_table$Mean_Ace_Difference[i] <- round(mean(df$ace_difference), 2)
+}
+
+knitr::kable(ace_table,
+             col.names = c("Surface", "Winner Mean", "Loser Mean",
+                           "Winner Median", "Loser Median", "Mean Difference"),
+             caption = "Aces per match for winners and losers by surface.")
+```
+
+Winners serve more aces than losers on every surface. Grass courts have the highest ace counts and the largest gap between winners and losers, while clay courts have the lowest ace counts and the smallest gap. This is consistent with the idea that faster surfaces reward big serves. 
+
+## Winner vs. Loser Aces
+
+```{r winner-loser-box, fig.height = 4.2, fig.width = 7}
+par(mgp = c(3.5, 1.8, 0), mar = c(5.5, 4.5, 4, 1))  ## Room for two-line labels.
+boxplot(
+  tennis_grass$w_ace, tennis_grass$l_ace,
+  tennis_clay$w_ace,  tennis_clay$l_ace,
+  tennis_hard$w_ace,  tennis_hard$l_ace,
+  names = c("Grass\nWinner", "Grass\nLoser", "Clay\nWinner",
+            "Clay\nLoser", "Hard\nWinner", "Hard\nLoser"),
+  col = rep(c("forestgreen", "darkred"), 3),
+  main = "Winner vs. Loser Ace Counts by Surface",
+  xlab = "Court Surface and Match Outcome",
+  ylab = "Number of Aces"
+)
+par(mgp = c(3, 1, 0), mar = c(5, 4, 4, 2) + 0.1)    ## Reset to default.
+```
+
+Winners have higher median ace counts than losers on all three surfaces, with a gap of around two aces on grass and hard courts and about one ace on clay. However, losing players have many high outliers, including some unusually large ace counts. This suggests that serving many aces does not always secure wins. 
+
+## Ace Difference By Surface
+
+```{r diff-box, fig.height = 3.8, fig.width = 6}
+boxplot(
+  tennis_grass$ace_difference,
+  tennis_clay$ace_difference,
+  tennis_hard$ace_difference,
+  names = c("Grass", "Clay", "Hard"),
+  col = c("forestgreen", "sienna", "steelblue"),
+  main = "Ace Difference by Court Surface",
+  xlab = "Court Surface",
+  ylab = "Winner Aces - Loser Aces"
+)
+abline(h = 0, lty = 2)
+```
+
+The median ace difference is positive on all three surfaces: close to two on grass and hard courts and about one on clay. Clay also shows a smaller spread in the middle 50% of matches. This suggests that the difference in aces between winners and losers may depend on the court surface matches take place on.
+
+## Distribution of Ace Differences
+
+```{r diff-hist, fig.height = 3.2, fig.width = 6.5}
+par(mfrow = c(1, 3))
+hist(tennis_grass$ace_difference, breaks = seq(-40, 40, by = 5),
+     main = "Grass Courts", xlab = "Ace Difference", xlim = c(-40, 40))
+hist(tennis_clay$ace_difference, breaks = seq(-40, 40, by = 5),
+     main = "Clay Courts", xlab = "Ace Difference", xlim = c(-40, 40))
+hist(tennis_hard$ace_difference, breaks = seq(-40, 40, by = 5),
+     main = "Hard Courts", xlab = "Ace Difference", xlim = c(-40, 40))
+par(mfrow = c(1, 1))
+```
+
+On all surfaces, ace differences are concentrated around zero but centered slightly above it, which is consistent with the positive average differences in Table 1. Grass and hard courts show wider distributions with more extreme values, while clay has a narrower distribution, meaning winners and losers tend to serve similar numbers of aces on the clay surface. 
+
+## Planned Visualizations
+
+In the next stage, we plan to add the following:
+
+1. **Ace rate plots.** Longer matches give players more chances to serve aces, so raw counts can be misleading. We will compute each player's ace rate (aces divided by service points) and compare it between winners and losers with boxplots and density plots. 
+2. **Win rate by number of aces.** We will group players by how many aces they served (for example 0-2, 3-5, 6-9, 10+) and plot the percentage of players in each group who won their match.
+3. **Scatterplot of winner vs. loser aces** for each match, with a diagonal line showing where the two are equal, colored by surface. 
+
+# Analysis
+
+Our results suggest that winners serve more aces than losers and that this gap depends on the court surface. In the final stage of the project, we plan to test these patterns formally.
+
+1. **Do Winners Serve More Aces Than Losers?** Because each match gives us a winner and a loser, the two ace counts are paired. We will use a paired t-test on `ace_difference`, testing whether the mean difference is zero. Since ace counts are skewed, we will also run the Wilcoxon signed rank test as a non-parametric check. We are expecting both tests to reveal that winners serve more aces.
+
+2. **How Often Does The Player With More Aces Win?** We will use a binomial test to check whether the proportion of matches in which the winner served more aces (excluding ties) is significantly greater than 50%.
+
+3. **Does The Gap Differ By Surface?** We will compare `ace_difference` across grass, clay and hard courts using a one way ANOVA, and the Kruskal Wallis test as a non-parametric alternative. We expect the difference to be largest on grass and smallest on clay.
+
+4. **Logistic Regression.** We will reshape the data so that each match will give us two rows, one per player, with an outcome variable equal to 1 if the player won and 0 if they lost. We will then fit a logistic regression of the outcome on the player's ace rate and court surface, including an interaction between ace rate and surface. This will estimate how much a player's odds of winning increase with their ace rate, and whether that effect is stronger on faster surfaces. We expect a positive effect of ace rate that is strongest on grass and weakest on clay.
+
+In all, these analyses will tell us whether aces are significantly associated with winning, how strong that connection is once match length is accounted for, and whether it also depends on the surface the match is played on.
+
+
