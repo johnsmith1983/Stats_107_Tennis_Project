@@ -1,0 +1,50 @@
+---
+title: "Tennis Data Processing"
+author: "Mickey Klimer"
+date: "2026-11-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+source("00_functions.R")
+
+load("Data/12_DataSaving.RData")
+```
+
+# 1 Data Processing
+
+```{r}
+# Ace diff for all matches
+tennis_clean$ace_difference <- calculate_ace_difference(tennis_clean)
+
+# Ace diff for each court surface
+tennis_grass$ace_difference <- calculate_ace_difference(tennis_grass)
+tennis_clay$ace_difference <- calculate_ace_difference(tennis_clay)
+tennis_hard$ace_difference <- calculate_ace_difference(tennis_hard)
+
+# test first 6
+head(tennis_clean)
+head(tennis_grass)
+head(tennis_clay)
+head(tennis_hard)
+```
+```{r}
+# Summary
+summary(tennis_clean$ace_difference)
+
+summary(tennis_grass$ace_difference)
+summary(tennis_clay$ace_difference)
+summary(tennis_hard$ace_difference)
+```
+```{r}
+# Save processed datasets
+save(
+  tennis_clean,
+  tennis_grass,
+  tennis_clay,
+  tennis_hard,
+  file = "Data/22_DataSaving.RData"
+)
+```

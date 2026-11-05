@@ -93,4 +93,12 @@ tennis_hard <- subset(tennis_clean, surface == "Hard")
 write.csv(tennis_grass, "Data/tennis_grass.csv", row.names = FALSE)
 write.csv(tennis_clay, "Data/tennis_clay.csv", row.names = FALSE)
 write.csv(tennis_hard, "Data/tennis_hard.csv", row.names = FALSE)
+
+save(
+  tennis_clean,
+  tennis_grass,
+  tennis_clay,
+  tennis_hard,
+  file = "Data/12_DataSaving.RData"
+)
 ```
