@@ -13,6 +13,7 @@ load("Data/22_DataSaving.RData")
 
 # 1 Preliminary Visualizations
 ```{r}
+# Box plot of the ace differences based on the different surfaces
 boxplot(
   tennis_grass$ace_difference,
   tennis_clay$ace_difference,
@@ -27,6 +28,7 @@ boxplot(
 The Box plots show the median ace difference is slightly positive across all three court surfaces Grass and Hard courts have a median ace difference of close to 2 while clay courts have a median of about 1. Clay courts show a smaller spread in the middle 50% of matches as well especially compared with Grass and Hard. Every graph has some outliars but Grass seems to have much much less and the Grass is contained. This might suggest that the ace difference between winners and loser might vary depending on the surface of the court
 
 ```{r}
+# Histogram of ace differences to their frequency (How many times they happened)
 par(mfrow = c(1, 3))
 
 hist(
@@ -59,6 +61,7 @@ par(mfrow = c(1, 1))
 The Histograms show that ace differences are concentrated around zero for all surfaces. Grass and Hard surfaces show a wider distribution with more extremes. Clay courts have a narrower distribution, suggesting that winners and losers tend to have more similar ace counts on the surface. The distributions are generally centered slightly above zero, which is consistent with the positive average ace differences found in the summary statistic
 
 ```{r}
+#Creates a boxplot comparing winner and looser ace counts based on the surface
 boxplot(
   tennis_grass$w_ace,
   tennis_grass$l_ace,
@@ -83,6 +86,7 @@ boxplot(
 The boxplot shows that winners have higher median ace counts than losers across all three court surfaces. An interesting observation is that losing players seem to have more outliers, including some unusually high ace counts. This suggests that serving a large number of aces does not necessarily guarantee a match victory. The median differences are approximately 2 aces on grass, 1 on clay, and 2 on hard courts. These results suggest that winners tend to serve more aces, but ace counts alone do not determine match outcomes.
 
 ```{r}
+# Calculates the total cleaned winners vs losers aces without distinction of surface
 data.frame(
   Category = c("Winners", "Losers"),
   Mean = c(
@@ -97,6 +101,7 @@ data.frame(
 ```
 
 ```{r}
+# Calculates the mean and median of the winners aces vs the loosers aces based on the surface
 data.frame(
   Surface = rep(c("Grass", "Clay", "Hard"), each = 2),
   Category = rep(c("Winners", "Losers"), 3),

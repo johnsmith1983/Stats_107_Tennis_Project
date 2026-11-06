@@ -1,5 +1,5 @@
 ---
-title: "Do Aces Win Matches? Serving Aces and Match Outcomes in the 2023 ATP Tour"
+title: "Serving Aces and Match Outcomes in the 2023 ATP Tour"
 author: "Mickey Klimer, Maddie Yasui, Zhifu Lei"
 date: "2026-11-05"
 output:
@@ -187,3 +187,28 @@ Our results suggest that winners serve more aces than losers and that this gap d
 In all, these analyses will tell us whether aces are significantly associated with winning, how strong that connection is once match length is accounted for, and whether it also depends on the surface the match is played on.
 
 
+## Summary of Individual Contribution
+
+**Mickey Klimer -** Found the Data-set, cleaned the data set and did files:
+
+- 00_functions.R
+
+- 00_requirements.R
+
+- 11_TennisDataCleaning.Rmd
+
+- 21_TennisDataProcessing.Rmd
+
+- 31_TennisDataVisualization.Rmd
+
+- README.md
+
+- README.txt
+
+- Tennis Project.Rproj
+
+As well as all github related files and helped with Final Report
+
+**Maddie Yasui -** Created and compiled the Final Report
+
+**Zhifu Lei -**
