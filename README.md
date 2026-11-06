@@ -19,7 +19,7 @@ Follow these steps to reproduce the data cleaning, processing, and preliminary v
 
 7. **View the results.** The knitted HTML files contain the output from each R Markdown document, including the data processing results, graphs, summary tables, and interpretations.
 
-Files in the repository:
+## Files in the repository:
 
 | Data
 
