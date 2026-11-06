@@ -186,6 +186,13 @@ Our results suggest that winners serve more aces than losers and that this gap d
 
 In all, these analyses will tell us whether aces are significantly associated with winning, how strong that connection is once match length is accounted for, and whether it also depends on the surface the match is played on.
 
+## Project Repository
+
+The complete project including: Data, R code, data processing files, and visualizations is on this Github:
+
+[https://github.com/johnsmith1983/Stats_107_Tennis_Project](https://github.com/johnsmith1983/Stats_107_Tennis_Project)
+
+
 
 ## Summary of Individual Contribution
 
