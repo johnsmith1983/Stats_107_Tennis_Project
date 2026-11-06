@@ -1,6 +1,24 @@
 # Stats_107_Tennis_Project
 Stats 107 project on analyzing tennis statistics using R
 
+## How to Reproduce the Results
+
+Follow these steps to reproduce the data cleaning, processing, and preliminary visualizations:
+
+1. **Download or clone the GitHub repository.** Open the `Stats_107_Tennis_Project` folder in RStudio by opening the `Tennis Project.Rproj` file.
+
+2. **Check the requirements.** Open and run `00_requirements.R`. This project currently uses Base R functions and does not require additional packages.
+
+3. **Load the project functions.** The file `00_functions.R` contains the function `calculate_ace_difference()`, which calculates the difference between the winner's and loser's ace counts.
+
+4. **Clean the raw data.** Open and knit `11_TennisDataCleaning.Rmd`. This file imports `Data/atp_matches_2023.csv`, removes matches with missing ace statistics, selects the variables needed for the analysis, and separates the matches by court surface. It saves the cleaned CSV files and the `12_DataSaving.RData` file in the `Data` folder.
+
+5. **Process the cleaned data.** Open and knit `21_TennisDataProcessing.Rmd`. This file loads the cleaned datasets, calculates the ace difference between winners and losers, and generates summary statistics. It saves the processed datasets in `22_DataSaving.RData`.
+
+6. **Create the preliminary visualizations.** Open and knit `31_TennisDataVisualization.Rmd`. This file loads the processed datasets and creates boxplots, histograms, summary tables, and interpretations comparing ace counts across grass, clay, and hard court surfaces.
+
+7. **View the results.** The knitted HTML files contain the output from each R Markdown document, including the data processing results, graphs, summary tables, and interpretations.
+
 Files in the repository:
 
 | Data
